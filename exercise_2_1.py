@@ -1,13 +1,8 @@
-#!/usr/bin/env python3
-"""
-Task 2.1: Multiple-Choice Question Answering with zero-shot prompting (no constraints)
+"""Exercise 2.1
 
-This script supports:
+Supported: 
 - Local LLaMA model via Ollama HTTP API (http://localhost:11434/api/chat)
 - OpenAI-compatible API hosted at http://llm.lehre.texttechnologylab.org/v1 (add --remote)
-
-Runs zero-shot MC-QA on oLMpics tasks: Property_Conjunction and Taxonomy_Conjunction.
-This version uses prompt engineering only – no logit_bias, no max_tokens.
 """
 
 import sys
@@ -16,100 +11,99 @@ from datasets import load_dataset
 from tqdm.auto import tqdm # for progress bar...
 import matplotlib.pyplot as plt
 
-# === Configuration ===
+########### CONSTANTS ###########
 USE_REMOTE_API = "--remote" in sys.argv
 MODEL_NAME = "llama3.1:8b"
 
-# === API Setup ===
+
+# API:
 if USE_REMOTE_API:
     from openai import OpenAI
     client = OpenAI(
         base_url="http://llm.lehre.texttechnologylab.org/v1",
         api_key="demo"  # any string is accepted
     )
-    print("Using REMOTE API (TextTechnology Server)")
+    print("Using REMOTE API (TextTechnology Server): ")
 else:
     API_URL = "http://localhost:11434/api/chat"
     HEADERS = {"Content-Type": "application/json"}
-    print("Using LOCAL API (Ollama)")
+    print("Using LOCAL API ")
 
-# === System prompts ===
+#improved
 SYSTEM_PROMPT_improved = (
     "You are a helpful assistant for multiple-choice questions from the oLMpics benchmark. "
     "Answer each question by choosing the correct option and reply only with the corresponding letter "
     "(A, B, C, ...). Do not explain your answer."
 )
+
+#old
 SYSTEM_PROMPT=(
     "You are a helpful assistant for multiple-choice questions from the oLMpics benchmark. "
     "Answer each question"
 )
 
-# === Format the request payload (no restrictions for Task 2.1) ===
-def format_payload(stem, choices):
-    question = stem.replace("[MASK]", "_____")
+########### CONSTANTS ###########
+
+# format querry
+def format_querry(stem, choices):
+    question = stem.replace("[MASK]", "___") # create placeholder in string
     options = [f"{chr(ord('A') + i)}) {c}" for i, c in enumerate(choices)]
     user_input = question + "\n\n" + "\n".join(options) + "\nAnswer:"
-    print(user_input)
+
+    #print(user_input)
 
     return {
         "model": MODEL_NAME,
         "messages": [
-            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "system", "content": SYSTEM_PROMPT_improved},
             {"role": "user", "content": user_input}
         ],
         "temperature": 0,
-        "top_p": 1,
         "stream": False
     }
 
-# === Send request to the model ===
+# request
 def query_llama3(payload):
     if USE_REMOTE_API:
         response = client.chat.completions.create(
             model=payload["model"],
             messages=payload["messages"],
             temperature=payload.get("temperature", 0),
-            top_p=payload.get("top_p", 1)
         )
-        print(response)
-        print(response.choices[0].message.content.strip())
+        # print(response)
+        # print(response.choices[0].message.content.strip())
+        ## Reminder: ChatCompletion(id='chatcmpl-VOsWvdIFd9QdPz8zCQG2ZkIhHj2cj1Gd', choices=[Choice(finish_reason='stop', index=0, logprobs=None, message=ChatCompletionMessage(content='A) mammal', refusal=None, role='assistant', annotations=None, audio=None, function_call=None, tool_calls=None))], created=1750703284, model='llama3.1:8b', object='chat.completion', service_tier=None, system_fingerprint='b5700-8d947136', usage=CompletionUsage(completion_tokens=5, prompt_tokens=92, total_tokens=97, completion_tokens_details=None, prompt_tokens_details=None), timings={'prompt_n': 35, 'prompt_ms': 20.233, 'prompt_per_token_ms': 0.5780857142857143, 'prompt_per_second': 1729.8472791973509, 'predicted_n': 5, 'predicted_ms': 55.373, 'predicted_per_token_ms': 11.0746, 'predicted_per_second': 90.2967150055081})
         return response.choices[0].message.content.strip()
     else:
         response = requests.post(API_URL, headers=HEADERS, json=payload)
-        try:
-            response.raise_for_status()
-        except requests.HTTPError:
-            print(f"HTTP Error {response.status_code}: {response.text}")
-            raise
         data = response.json()
-        if "message" in data:
-            return data["message"]["content"].strip()
-        return data.get("choices", [{}])[0].get("message", {}).get("content", "").strip()
+        print(data)
+        # Reminder: {'model': 'llama3.1:8b', 'created_at': '2025-06-23T18:34:00.563771Z', 'message': {'role': 'assistant', 'content': 'C'}, 'done_reason': 'stop', 'done': True, 'total_duration': 188020416, 'load_duration': 11735208, 'prompt_eval_count': 90, 'prompt_eval_duration': 154065583, 'eval_count': 2, 'eval_duration': 21581083}
+        return data["message"]["content"].strip()
 
-# === Extract answer key from model response ===
-def extract_key(reply: str) -> str:
+# extract key from answr
+def extract_key(reply):
     import re
-    match = re.search(r"\b([A-Z])\b", reply)
+    match = re.search(r"\b([A-C])\b", reply) # get capital single character and use word boundray
     return match.group(1) if match else ""
 
-# === Main evaluation logic ===
-def evaluate_mc_qa(task_name: str, num_examples=10) -> float:
-    ds = load_dataset("KevinZ/oLMpics", task_name, split="test")
-    ds = ds.select(range(num_examples))  # limit for testing
+# main loop for accuarcy
+def evaluate_mc_qa(task_name, num_examples=10):
+    dataset = load_dataset("KevinZ/oLMpics", task_name, split="test")
+    dataset = dataset.select(range(num_examples))  # limit for testing
     correct = 0
-    for ex in tqdm(ds, desc=f"Evaluating {task_name}"):
-        payload = format_payload(ex["stem"], ex["choices"])
+    for exercise in tqdm(dataset, desc=f"Evaluating {task_name}"):
+        payload = format_querry(exercise["stem"], exercise["choices"]) #build paylod
         reply = query_llama3(payload)
         key = extract_key(reply)
-        pred_idx = ord(key) - ord("A") if key else -1
-        true_idx = ex.get("label", ex.get("answerKey"))
-        if pred_idx == true_idx:
+        prediction = ord(key) - ord("A") if key else -1 # convert to matching nubmer from ds: A->0, B->1, C-> 2
+        label = exercise.get("label", exercise.get("answerKey")) # answer key
+        if prediction == label:
             correct += 1
-    accuracy = correct / len(ds)
-    print(f"{task_name:25s} Accuracy: {accuracy:.2%}")
+    accuracy = correct / len(dataset)
+    print(f"{task_name} Accuracy: {accuracy:.2%}")
     return accuracy
 
-# === Run tasks and visualize results ===
 if __name__ == "__main__":
     tasks = ["Property_Conjunction", "Taxonomy_Conjunction"]
     scores = {}
@@ -118,7 +112,7 @@ if __name__ == "__main__":
 
     # Plot the results
     plt.figure(figsize=(8, 5))
-    plt.bar(scores.keys(), scores.values(), color='cornflowerblue')
+    plt.bar(scores.keys(), scores.values(), color='blue')
     plt.ylim(0, 1)
     plt.ylabel("Accuracy")
     plt.title("oLMpics Task Accuracy (Task 2.1 - Zero-Shot Prompting)")

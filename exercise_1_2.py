@@ -1,3 +1,5 @@
+"""Exercise 1.2"""
+
 import torch
 from datasets import load_dataset
 from transformers import AutoTokenizer, AutoModelForMaskedLM, logging
