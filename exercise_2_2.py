@@ -10,7 +10,9 @@ from datasets import load_dataset
 from tqdm.auto import tqdm # for progress bar...
 import matplotlib.pyplot as plt
 from openai import OpenAI
-import tiktoken 
+import tiktoken
+import os
+import csv 
 
 ########### CONSTANTS ###########
 MODEL_NAME     = "llama3.1:8b"
@@ -20,7 +22,8 @@ API_KEY        = "demo"
 client = OpenAI(base_url=BASE_URL, api_key=API_KEY)
 print("Using REMOTE API only")
 
-enc = tiktoken.get_encoding("cl100k_base")  # passt für viele OpenAI-Models
+## use tiktoken sinc we are using OpenAI- Chat API
+enc = tiktoken.get_encoding("cl100k_base")
 id_A = enc.encode("A")[0]
 id_B = enc.encode("B")[0]
 id_C = enc.encode("C")[0]
@@ -96,11 +99,20 @@ def extract_key(reply):
     return match.group(1) if match else ""
 
 # main loop for accuarcy
-def evaluate_mc_qa(task_name, num_examples=10):
+def evaluate_mc_qa(task_name, csv_flag=False, num_examples=10):
     dataset = load_dataset("KevinZ/oLMpics", task_name, split="test")
-    dataset = dataset.select(range(num_examples))  # limit for testing
+    #dataset = dataset.select(range(num_examples))  # limit for testing
+
+    if csv_flag:
+        # Creating csv-output:
+        os.makedirs("results_2_2", exist_ok=True)
+        csv_path = f"results_2_2/{task_name}_llama3.csv"
+        csv_file = open(csv_path, mode="w", newline="", encoding="utf-8")
+        csv_writer = csv.writer(csv_file)
+        csv_writer.writerow(["index", "stem", "choices", "true_label", "model_reply", "extracted_key", "predicted_label", "correct"])
+
     correct = 0
-    for exercise in tqdm(dataset, desc=f"Evaluating {task_name}"):
+    for id, exercise in enumerate(tqdm(dataset, desc=f"Evaluating {task_name}")):
         payload = format_querry(exercise["stem"], exercise["choices"]) #build paylod
         reply = query_llama3(payload)
         key = extract_key(reply)
@@ -108,8 +120,27 @@ def evaluate_mc_qa(task_name, num_examples=10):
         label = exercise.get("label", exercise.get("answerKey")) # answer key
         if prediction == label:
             correct += 1
+
+        if csv_flag:
+            # Write to CSV
+            csv_writer.writerow([
+                id,
+                exercise["stem"],
+                " | ".join(exercise["choices"]),
+                label,
+                reply,
+                key,
+                prediction,
+                int(prediction == label)
+            ])
+
     accuracy = correct / len(dataset)
     print(f"{task_name} Accuracy: {accuracy:.2%}")
+
+    if csv_flag:
+        csv_file.close()
+        print(f"CSV results written to {csv_path}")
+
     return accuracy
 
 if __name__ == "__main__":
@@ -123,7 +154,7 @@ if __name__ == "__main__":
     plt.bar(scores.keys(), scores.values(), color='blue')
     plt.ylim(0, 1)
     plt.ylabel("Accuracy")
-    plt.title("oLMpics Task Accuracy (Task 2.1 - Zero-Shot Prompting)")
+    plt.title("oLMpics Task Accuracy (Exercise 2.2 - Zero-Shot Prompting)")
     plt.grid(axis='y', linestyle='--', alpha=0.6)
     plt.tight_layout()
     plt.show()

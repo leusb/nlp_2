@@ -1,0 +1,600 @@
+index,stem,choices,true_label,model_reply,extracted_key,predicted_label,correct
+<built-in function id>,A entellus and a basset are both a type of [MASK] ,mammal | primate | dog,0,C,C,2,0
+<built-in function id>,A wapiti and a potto are both a type of [MASK] ,mammal | primate | deer,0,A,A,0,1
+<built-in function id>,A hind and a lapin are both a type of [MASK] ,substance | mammal | deer,1,B,B,1,1
+<built-in function id>,A pinscher and a capuchin are both a type of [MASK] ,mammal | dog | primate,0,A,A,0,1
+<built-in function id>,A lapin and a basset are both a type of [MASK] ,substance | dog | mammal,2,C,C,2,1
+<built-in function id>,A griffon and a elk are both a type of [MASK] ,deer | dog | mammal,2,C,C,2,1
+<built-in function id>,A colobus and a malamute are both a type of [MASK] ,mammal | primate | dog,0,A,A,0,1
+<built-in function id>,A patas and a sambar are both a type of [MASK] ,mammal | deer | primate,0,A,A,0,1
+<built-in function id>,A guenon and a basset are both a type of [MASK] ,mammal | primate | dog,0,A,A,0,1
+<built-in function id>,A great ape and a spitz are both a type of [MASK] ,primate | dog | mammal,2,C,C,2,1
+<built-in function id>,A basset and a tamarin are both a type of [MASK] ,dog | primate | mammal,2,C,C,2,1
+<built-in function id>,A tamarin and a malamute are both a type of [MASK] ,primate | dog | mammal,2,B,B,1,0
+<built-in function id>,A muskrat and a feist are both a type of [MASK] ,dog | mammal | substance,1,A,A,0,0
+<built-in function id>,A bloodhound and a rhesus are both a type of [MASK] ,dog | mammal | primate,1,A,A,0,0
+<built-in function id>,A capuchin and a ermine are both a type of [MASK] ,mammal | substance | primate,0,A,A,0,1
+<built-in function id>,A rhesus and a schnauzer are both a type of [MASK] ,dog | primate | mammal,2,A,A,0,0
+<built-in function id>,A orangutan and a cur are both a type of [MASK] ,primate | mammal | dog,1,A,A,0,0
+<built-in function id>,A mandrill and a ermine are both a type of [MASK] ,mammal | primate | substance,0,A,A,0,1
+<built-in function id>,A galago and a malamute are both a type of [MASK] ,mammal | primate | dog,0,A,A,0,1
+<built-in function id>,A dachshund and a hominoid are both a type of [MASK] ,primate | dog | mammal,2,C,C,2,1
+<built-in function id>,A spitz and a langur are both a type of [MASK] ,primate | mammal | dog,1,A,A,0,0
+<built-in function id>,A malamute and a vervet are both a type of [MASK] ,mammal | dog | primate,0,A,A,0,1
+<built-in function id>,A prosimian and a sambar are both a type of [MASK] ,deer | primate | mammal,2,C,C,2,1
+<built-in function id>,A sambar and a tarsier are both a type of [MASK] ,primate | mammal | deer,1,B,B,1,1
+<built-in function id>,A langur and a cur are both a type of [MASK] ,dog | mammal | primate,1,C,C,2,0
+<built-in function id>,A papillon and a elk are both a type of [MASK] ,dog | deer | mammal,2,A,A,0,0
+<built-in function id>,A feist and a potto are both a type of [MASK] ,primate | dog | mammal,2,A,A,0,0
+<built-in function id>,A potto and a muntjac are both a type of [MASK] ,deer | primate | mammal,2,C,C,2,1
+<built-in function id>,A simian and a whippet are both a type of [MASK] ,dog | primate | mammal,2,C,C,2,1
+<built-in function id>,A australopithecine and a whippet are both a type of [MASK] ,primate | dog | mammal,2,C,C,2,1
+<built-in function id>,A ermine and a cur are both a type of [MASK] ,mammal | dog | substance,0,A,A,0,1
+<built-in function id>,A whippet and a anthropoid are both a type of [MASK] ,mammal | primate | dog,0,C,C,2,0
+<built-in function id>,A roan and a spaniel are both a type of [MASK] ,dog | substance | mammal,2,A,A,0,0
+<built-in function id>,A springer spaniel and a macaque are both a type of [MASK] ,primate | dog | mammal,2,B,B,1,0
+<built-in function id>,A cur and a pricket are both a type of [MASK] ,deer | mammal | dog,1,A,A,0,0
+<built-in function id>,A vervet and a pooch are both a type of [MASK] ,dog | primate | mammal,2,C,C,2,1
+<built-in function id>,A hominoid and a mastiff are both a type of [MASK] ,dog | primate | mammal,2,C,C,2,1
+<built-in function id>,A brocket and a howler monkey are both a type of [MASK] ,mammal | deer | primate,0,C,C,2,0
+<built-in function id>,A pooch and a anthropoid are both a type of [MASK] ,primate | mammal | dog,1,C,C,2,0
+<built-in function id>,A cocker spaniel and a tarsier are both a type of [MASK] ,dog | mammal | primate,1,A,A,0,0
+<built-in function id>,A setter and a anthropoid are both a type of [MASK] ,mammal | primate | dog,0,B,B,1,0
+<built-in function id>,A borzoi and a marmoset are both a type of [MASK] ,primate | dog | mammal,2,C,C,2,1
+<built-in function id>,A kelpie and a tarsier are both a type of [MASK] ,dog | primate | mammal,2,A,A,0,0
+<built-in function id>,A anthropoid and a schnauzer are both a type of [MASK] ,mammal | dog | primate,0,B,B,1,0
+<built-in function id>,A mastiff and a howler monkey are both a type of [MASK] ,mammal | dog | primate,0,A,A,0,1
+<built-in function id>,A schnauzer and a howler monkey are both a type of [MASK] ,dog | primate | mammal,2,A,A,0,0
+<built-in function id>,A dalmatian and a beef are both a type of [MASK] ,food | mammal | dog,1,C,C,2,0
+<built-in function id>,A muntjac and a poodle are both a type of [MASK] ,deer | mammal | dog,1,C,C,2,0
+<built-in function id>,A wolfhound and a homo are both a type of [MASK] ,dog | primate | mammal,2,A,A,0,0
+<built-in function id>,A otter and a corgi are both a type of [MASK] ,mammal | substance | dog,0,A,A,0,1
+<built-in function id>,A pricket and a poodle are both a type of [MASK] ,mammal | dog | deer,0,B,B,1,0
+<built-in function id>,A macaque and a corgi are both a type of [MASK] ,primate | dog | mammal,2,C,C,2,1
+<built-in function id>,A elk and a poodle are both a type of [MASK] ,dog | mammal | deer,1,A,A,0,0
+<built-in function id>,A corgi and a raccoon are both a type of [MASK] ,mammal | dog | substance,0,A,A,0,1
+<built-in function id>,A pug and a roebuck are both a type of [MASK] ,mammal | deer | dog,0,A,A,0,1
+<built-in function id>,A tarsier and a collie are both a type of [MASK] ,dog | mammal | primate,1,B,B,1,1
+<built-in function id>,A roebuck and a beef are both a type of [MASK] ,deer | mammal | meat,1,A,A,0,0
+<built-in function id>,A foxhound and a caribou are both a type of [MASK] ,dog | mammal | deer,1,B,B,1,1
+<built-in function id>,A poodle and a ape are both a type of [MASK] ,primate | dog | mammal,2,B,B,1,0
+<built-in function id>,A drill and a caribou are both a type of [MASK] ,primate | mammal | deer,1,B,B,1,1
+<built-in function id>,A hominid and a beef are both a type of [MASK] ,food | mammal | primate,1,C,C,2,0
+<built-in function id>,A caribou and a chamois are both a type of [MASK] ,mammal | deer | substance,0,A,A,0,1
+<built-in function id>,A silverback and a beef are both a type of [MASK] ,mammal | primate | food,0,A,A,0,1
+<built-in function id>,A beef and a chimpanzee are both a type of [MASK] ,primate | mammal | meat,1,B,B,1,1
+<built-in function id>,A spaniel and a homo are both a type of [MASK] ,mammal | dog | primate,0,A,A,0,1
+<built-in function id>,A beagle and a ape are both a type of [MASK] ,mammal | dog | primate,0,A,A,0,1
+<built-in function id>,A collie and a marmoset are both a type of [MASK] ,primate | dog | mammal,2,B,B,1,0
+<built-in function id>,A baboon and a buckskin are both a type of [MASK] ,primate | substance | mammal,2,C,C,2,1
+<built-in function id>,A buckskin and a fawn are both a type of [MASK] ,mammal | deer | substance,0,B,B,1,0
+<built-in function id>,A marmoset and a terrier are both a type of [MASK] ,dog | primate | mammal,2,C,C,2,1
+<built-in function id>,A terrier and a fawn are both a type of [MASK] ,dog | mammal | deer,1,A,A,0,0
+<built-in function id>,A barbet and a poultry are both a type of [MASK] ,bird | animal | meat,0,A,A,0,1
+<built-in function id>,A eagle and a poultry are both a type of [MASK] ,meat | organism | bird,2,C,C,2,1
+<built-in function id>,A myna and a poultry are both a type of [MASK] ,animal | bird | food,1,B,B,1,1
+<built-in function id>,A redstart and a poultry are both a type of [MASK] ,animal | bird | meat,1,B,B,1,1
+<built-in function id>,A guan and a poultry are both a type of [MASK] ,bird | organism | food,0,A,A,0,1
+<built-in function id>,A cedar waxwing and a poultry are both a type of [MASK] ,food | bird | organism,1,B,B,1,1
+<built-in function id>,A guillemot and a poultry are both a type of [MASK] ,meat | organism | bird,2,C,C,2,1
+<built-in function id>,A domestic fowl and a poultry are both a type of [MASK] ,bird | meat | organism,0,A,A,0,1
+<built-in function id>,A poultry and a skua are both a type of [MASK] ,animal | bird | meat,1,B,B,1,1
+<built-in function id>,A skua and a wildfowl are both a type of [MASK] ,organism | bird | meat,1,B,B,1,1
+<built-in function id>,A parakeet and a marabou are both a type of [MASK] ,parrot | bird | substance,1,A,A,0,0
+<built-in function id>,A solitaire and a wildfowl are both a type of [MASK] ,organism | meat | bird,2,C,C,2,1
+<built-in function id>,A moorcock and a wildfowl are both a type of [MASK] ,bird | food | animal,0,A,A,0,1
+<built-in function id>,A linnet and a budgerigar are both a type of [MASK] ,parrot | bird | finch,1,C,C,2,0
+<built-in function id>,A hoopoe and a wildfowl are both a type of [MASK] ,bird | organism | food,0,A,A,0,1
+<built-in function id>,A budgerigar and a chicken are both a type of [MASK] ,meat | bird | parrot,1,B,B,1,1
+<built-in function id>,A scoter and a wildfowl are both a type of [MASK] ,bird | meat | organism,0,A,A,0,1
+<built-in function id>,A shoveler and a chicken are both a type of [MASK] ,duck | food | bird,2,C,C,2,1
+<built-in function id>,A chicken and a bufflehead are both a type of [MASK] ,bird | duck | food,0,A,A,0,1
+<built-in function id>,A archaeopteryx and a wildfowl are both a type of [MASK] ,meat | bird | animal,1,B,B,1,1
+<built-in function id>,A brant and a wildfowl are both a type of [MASK] ,food | animal | bird,2,C,C,2,1
+<built-in function id>,A siskin and a grouse are both a type of [MASK] ,finch | meat | bird,2,C,C,2,1
+<built-in function id>,A marabou and a mamo are both a type of [MASK] ,substance | finch | bird,2,C,C,2,1
+<built-in function id>,A rhea and a wildfowl are both a type of [MASK] ,bird | meat | organism,0,A,A,0,1
+<built-in function id>,A ern and a wildfowl are both a type of [MASK] ,animal | bird | food,1,B,B,1,1
+<built-in function id>,A bobolink and a wildfowl are both a type of [MASK] ,organism | meat | bird,2,C,C,2,1
+<built-in function id>,A redpoll and a scaup are both a type of [MASK] ,duck | bird | finch,1,A,A,0,0
+<built-in function id>,A serin and a merganser are both a type of [MASK] ,finch | bird | duck,1,B,B,1,1
+<built-in function id>,A scaup and a grouse are both a type of [MASK] ,food | bird | duck,1,B,B,1,1
+<built-in function id>,A gallinule and a wildfowl are both a type of [MASK] ,food | bird | organism,1,B,B,1,1
+<built-in function id>,A solan and a wildfowl are both a type of [MASK] ,organism | bird | food,1,B,B,1,1
+<built-in function id>,A kea and a merganser are both a type of [MASK] ,duck | parrot | bird,2,C,C,2,1
+<built-in function id>,A wheatear and a wildfowl are both a type of [MASK] ,bird | meat | animal,0,A,A,0,1
+<built-in function id>,A titmouse and a wildfowl are both a type of [MASK] ,bird | food | organism,0,A,A,0,1
+<built-in function id>,A jackdaw and a wildfowl are both a type of [MASK] ,meat | bird | animal,1,B,B,1,1
+<built-in function id>,A killdeer and a wildfowl are both a type of [MASK] ,bird | organism | meat,0,A,A,0,1
+<built-in function id>,A jungle fowl and a wildfowl are both a type of [MASK] ,animal | meat | bird,2,C,C,2,1
+<built-in function id>,A merganser and a towhee are both a type of [MASK] ,bird | duck | finch,0,A,A,0,1
+<built-in function id>,A auklet and a wildfowl are both a type of [MASK] ,bird | food | animal,0,A,A,0,1
+<built-in function id>,A verdin and a wildfowl are both a type of [MASK] ,food | organism | bird,2,C,C,2,1
+<built-in function id>,A pochard and a capon are both a type of [MASK] ,duck | food | bird,2,A,A,0,0
+<built-in function id>,A veery and a wildfowl are both a type of [MASK] ,bird | food | animal,0,A,A,0,1
+<built-in function id>,A tody and a wildfowl are both a type of [MASK] ,food | bird | animal,1,B,B,1,1
+<built-in function id>,A albatross and a wildfowl are both a type of [MASK] ,meat | bird | animal,1,B,B,1,1
+<built-in function id>,A bufflehead and a wildfowl are both a type of [MASK] ,food | duck | bird,2,C,C,2,1
+<built-in function id>,A pitta and a wildfowl are both a type of [MASK] ,food | bird | animal,1,B,B,1,1
+<built-in function id>,A turnstone and a wildfowl are both a type of [MASK] ,bird | food | organism,0,A,A,0,1
+<built-in function id>,A grosbeak and a wildfowl are both a type of [MASK] ,finch | food | bird,2,C,C,2,1
+<built-in function id>,A pipit and a wildfowl are both a type of [MASK] ,animal | bird | meat,1,B,B,1,1
+<built-in function id>,A kinglet and a wildfowl are both a type of [MASK] ,food | bird | animal,1,B,B,1,1
+<built-in function id>,A capon and a mamo are both a type of [MASK] ,bird | finch | food,0,A,A,0,1
+<built-in function id>,A waterfowl and a wildfowl are both a type of [MASK] ,bird | animal | food,0,A,A,0,1
+<built-in function id>,A mamo and a wildfowl are both a type of [MASK] ,animal | bird | meat,1,B,B,1,1
+<built-in function id>,A towhee and a mallard are both a type of [MASK] ,finch | bird | duck,1,C,C,2,0
+<built-in function id>,A whooping crane and a wildfowl are both a type of [MASK] ,meat | organism | bird,2,C,C,2,1
+<built-in function id>,A wagtail and a wildfowl are both a type of [MASK] ,bird | food | organism,0,A,A,0,1
+<built-in function id>,A grouse and a old squaw are both a type of [MASK] ,duck | bird | food,1,B,B,1,1
+<built-in function id>,A meadowlark and a wildfowl are both a type of [MASK] ,organism | bird | food,1,B,B,1,1
+<built-in function id>,A scarlet tanager and a wildfowl are both a type of [MASK] ,organism | food | bird,2,C,C,2,1
+<built-in function id>,A mallard and a wildfowl are both a type of [MASK] ,meat | duck | bird,2,B,B,1,0
+<built-in function id>,A peregrine and a wildfowl are both a type of [MASK] ,bird | organism | meat,0,A,A,0,1
+<built-in function id>,A oystercatcher and a wildfowl are both a type of [MASK] ,bird | organism | meat,0,A,A,0,1
+<built-in function id>,A hen and a wildfowl are both a type of [MASK] ,organism | bird | food,1,B,B,1,1
+<built-in function id>,A chick and a wildfowl are both a type of [MASK] ,food | bird | organism,1,B,B,1,1
+<built-in function id>,A peafowl and a wildfowl are both a type of [MASK] ,bird | meat | animal,0,A,A,0,1
+<built-in function id>,A osprey and a wildfowl are both a type of [MASK] ,organism | bird | food,1,B,B,1,1
+<built-in function id>,A goldeneye and a wildfowl are both a type of [MASK] ,meat | bird | insect,1,B,B,1,1
+<built-in function id>,A nuthatch and a wildfowl are both a type of [MASK] ,organism | bird | meat,1,B,B,1,1
+<built-in function id>,A moorhen and a wildfowl are both a type of [MASK] ,bird | meat | organism,0,A,A,0,1
+<built-in function id>,A nighthawk and a wildfowl are both a type of [MASK] ,meat | organism | bird,2,C,C,2,1
+<built-in function id>,A curlew and a wildfowl are both a type of [MASK] ,food | animal | bird,2,C,C,2,1
+<built-in function id>,A mousse and a dumpling are both a type of [MASK] ,dish | pasta | dessert,2,C,C,2,1
+<built-in function id>,A haddock and a eagle are both a type of [MASK] ,bird | fish | organism,2,A,A,0,0
+<built-in function id>,A barbet and a andrena are both a type of [MASK] ,bee | bird | organism,2,B,B,1,0
+<built-in function id>,A eagle and a mare are both a type of [MASK] ,organism | mammal | bird,0,B,B,1,0
+<built-in function id>,A pompon and a andrena are both a type of [MASK] ,bee | organism | fish,1,A,A,0,0
+<built-in function id>,A myna and a chives are both a type of [MASK] ,food | bird | organism,2,B,B,1,0
+<built-in function id>,A andrena and a bowfin are both a type of [MASK] ,organism | fish | bee,0,B,B,1,0
+<built-in function id>,A blastula and a chives are both a type of [MASK] ,food | organism | animal,1,B,B,1,1
+<built-in function id>,A mare and a chives are both a type of [MASK] ,food | organism | mammal,1,C,C,2,0
+<built-in function id>,A trilobite and a chives are both a type of [MASK] ,organism | animal | food,0,A,A,0,1
+<built-in function id>,A iguanodon and a chives are both a type of [MASK] ,animal | food | organism,2,A,A,0,0
+<built-in function id>,A weakfish and a redstart are both a type of [MASK] ,bird | food | organism,2,A,A,0,0
+<built-in function id>,A blackbird and a chives are both a type of [MASK] ,organism | animal | food,0,A,A,0,1
+<built-in function id>,A damselfish and a celeriac are both a type of [MASK] ,organism | food | animal,0,B,B,1,0
+<built-in function id>,A praya and a chives are both a type of [MASK] ,food | animal | organism,2,C,C,2,1
+<built-in function id>,A bowfin and a chives are both a type of [MASK] ,food | organism | animal,1,B,B,1,1
+<built-in function id>,A redstart and a chives are both a type of [MASK] ,food | organism | bird,1,C,C,2,0
+<built-in function id>,A wireworm and a chives are both a type of [MASK] ,animal | food | organism,2,C,C,2,1
+<built-in function id>,A chives and a manta are both a type of [MASK] ,organism | animal | food,0,A,A,0,1
+<built-in function id>,A manta and a cedar waxwing are both a type of [MASK] ,organism | bird | fish,0,B,B,1,0
+<built-in function id>,A guan and a halibut are both a type of [MASK] ,organism | bird | food,0,A,A,0,1
+<built-in function id>,A halibut and a cedar waxwing are both a type of [MASK] ,organism | fish | bird,0,C,C,2,0
+<built-in function id>,A entellus and a scammony are both a type of [MASK] ,substance | organism | mammal,1,A,A,0,0
+<built-in function id>,A cedar waxwing and a scammony are both a type of [MASK] ,substance | organism | bird,1,C,C,2,0
+<built-in function id>,A guillemot and a scammony are both a type of [MASK] ,bird | substance | organism,2,A,A,0,0
+<built-in function id>,A scammony and a earthworm are both a type of [MASK] ,animal | organism | substance,1,B,B,1,1
+<built-in function id>,A earthworm and a celeriac are both a type of [MASK] ,food | animal | organism,2,C,C,2,1
+<built-in function id>,A omnivore and a celeriac are both a type of [MASK] ,food | animal | organism,2,A,A,0,0
+<built-in function id>,A chaetodon and a parakeet are both a type of [MASK] ,fish | organism | parrot,1,A,A,0,0
+<built-in function id>,A actinia and a celeriac are both a type of [MASK] ,food | organism | animal,1,A,A,0,0
+<built-in function id>,A paca and a scarab are both a type of [MASK] ,organism | mammal | insect,0,A,A,0,1
+<built-in function id>,A scarab and a skua are both a type of [MASK] ,organism | insect | bird,0,C,C,2,0
+<built-in function id>,A hog and a celeriac are both a type of [MASK] ,animal | organism | food,1,C,C,2,0
+<built-in function id>,A domestic fowl and a wapiti are both a type of [MASK] ,bird | mammal | organism,2,A,A,0,0
+<built-in function id>,A mustang and a turbot are both a type of [MASK] ,organism | fish | mammal,0,C,C,2,0
+<built-in function id>,A skua and a monarch are both a type of [MASK] ,insect | bird | organism,2,B,B,1,0
+<built-in function id>,A wapiti and a celeriac are both a type of [MASK] ,organism | food | mammal,0,B,B,1,0
+<built-in function id>,A red deer and a celeriac are both a type of [MASK] ,food | organism | animal,1,C,C,2,0
+<built-in function id>,A turbot and a bongo are both a type of [MASK] ,organism | mammal | food,0,A,A,0,1
+<built-in function id>,A parakeet and a skink are both a type of [MASK] ,parrot | lizard | organism,2,B,B,1,0
+<built-in function id>,A monarch and a skink are both a type of [MASK] ,lizard | organism | insect,1,A,A,0,0
+<built-in function id>,A skink and a celeriac are both a type of [MASK] ,food | organism | animal,1,B,B,1,1
+<built-in function id>,A dibranchiate and a celeriac are both a type of [MASK] ,organism | food | animal,0,B,B,1,0
+<built-in function id>,A bongo and a celeriac are both a type of [MASK] ,animal | food | organism,2,B,B,1,0
+<built-in function id>,A celeriac and a beluga are both a type of [MASK] ,fish | organism | food,1,C,C,2,0
+<built-in function id>,A beluga and a brazilwood are both a type of [MASK] ,organism | substance | fish,0,C,C,2,0
+<built-in function id>,A largemouth and a solitaire are both a type of [MASK] ,fish | bird | organism,2,A,A,0,0
+<built-in function id>,A daphnia and a brazilwood are both a type of [MASK] ,substance | animal | organism,2,C,C,2,1
+<built-in function id>,A muskellunge and a moorcock are both a type of [MASK] ,fish | bird | organism,2,A,A,0,0
+<built-in function id>,A maigre and a brazilwood are both a type of [MASK] ,substance | animal | organism,2,A,A,0,0
+<built-in function id>,A killifish and a brazilwood are both a type of [MASK] ,substance | organism | animal,1,B,B,1,1
+<built-in function id>,A solitaire and a brazilwood are both a type of [MASK] ,substance | animal | organism,2,A,A,0,0
+<built-in function id>,A corn earworm and a brazilwood are both a type of [MASK] ,organism | animal | substance,0,A,A,0,1
+<built-in function id>,A moorcock and a piranha are both a type of [MASK] ,organism | bird | fish,0,A,A,0,1
+<built-in function id>,A piranha and a brazilwood are both a type of [MASK] ,organism | fish | substance,0,C,C,2,0
+<built-in function id>,A linnet and a cero are both a type of [MASK] ,organism | bird | fish,0,B,B,1,0
+<built-in function id>,A cicada and a cero are both a type of [MASK] ,insect | organism | fish,1,A,A,0,0
+<built-in function id>,A cero and a brazilwood are both a type of [MASK] ,fish | organism | substance,1,C,C,2,0
+<built-in function id>,A cobia and a brazilwood are both a type of [MASK] ,organism | animal | substance,0,C,C,2,0
+<built-in function id>,A brazilwood and a hoopoe are both a type of [MASK] ,substance | organism | bird,1,C,C,2,0
+<built-in function id>,A hoopoe and a bufo are both a type of [MASK] ,bird | organism | frog,1,A,A,0,0
+<built-in function id>,A budgerigar and a hind are both a type of [MASK] ,organism | deer | parrot,0,C,C,2,0
+<built-in function id>,A hind and a spinach are both a type of [MASK] ,organism | mammal | food,0,C,C,2,0
+<built-in function id>,A bufo and a spinach are both a type of [MASK] ,food | organism | frog,1,C,C,2,0
+<built-in function id>,A dingo and a spinach are both a type of [MASK] ,animal | organism | food,1,B,B,1,1
+<built-in function id>,A impala and a spinach are both a type of [MASK] ,food | animal | organism,2,B,B,1,0
+<built-in function id>,A spinach and a ocelot are both a type of [MASK] ,organism | mammal | food,0,A,A,0,1
+<built-in function id>,A ocelot and a papyrus are both a type of [MASK] ,organism | substance | animal,0,C,C,2,0
+<built-in function id>,A walking stick and a pinscher are both a type of [MASK] ,organism | mammal | insect,0,B,B,1,0
+<built-in function id>,A pinscher and a escolar are both a type of [MASK] ,mammal | fish | organism,2,B,B,1,0
+<built-in function id>,A escolar and a papyrus are both a type of [MASK] ,fish | organism | substance,1,A,A,0,0
+<built-in function id>,A fissiped mammal and a papyrus are both a type of [MASK] ,substance | organism | animal,1,C,C,2,0
+<built-in function id>,A lasagna and a dumpling are both a type of [MASK] ,dessert | pasta | dish,1,C,C,2,0
+<built-in function id>,A spaghetti and a dumpling are both a type of [MASK] ,dish | pasta | dessert,1,B,B,1,1
+<built-in function id>,A borsch and a lasagna are both a type of [MASK] ,pasta | soup | dish,2,C,C,2,1
+<built-in function id>,A julienne and a lasagna are both a type of [MASK] ,pasta | soup | dish,2,A,A,0,0
+<built-in function id>,A potage and a lasagna are both a type of [MASK] ,soup | pasta | dish,2,A,A,0,0
+<built-in function id>,A bisque and a spaghetti are both a type of [MASK] ,dish | soup | pasta,0,C,C,2,0
+<built-in function id>,A bouillon and a barbecue are both a type of [MASK] ,meal | soup | dish,2,C,C,2,1
+<built-in function id>,A consomme and a mousse are both a type of [MASK] ,soup | dessert | dish,2,A,A,0,0
+<built-in function id>,A vichyssoise and a barbecue are both a type of [MASK] ,soup | meal | dish,2,A,A,0,0
+<built-in function id>,A gazpacho and a cannelloni are both a type of [MASK] ,pasta | dish | soup,1,B,B,1,1
+<built-in function id>,A mousse and a barbecue are both a type of [MASK] ,dish | meal | dessert,0,A,A,0,1
+<built-in function id>,A barbecue and a broth are both a type of [MASK] ,dish | soup | meal,0,A,A,0,1
+<built-in function id>,A spaghetti and a chowder are both a type of [MASK] ,pasta | dish | soup,1,C,C,2,0
+<built-in function id>,A couscous and a broth are both a type of [MASK] ,soup | dish | pasta,1,A,A,0,0
+<built-in function id>,A pudding and a soup are both a type of [MASK] ,substance | dish | dessert,1,B,B,1,1
+<built-in function id>,A chowder and a cannelloni are both a type of [MASK] ,dish | soup | pasta,0,A,A,0,1
+<built-in function id>,A rickey and a ergosterol are both a type of [MASK] ,substance | food | alcohol,2,A,A,0,0
+<built-in function id>,A kava and a ergosterol are both a type of [MASK] ,alcohol | food | substance,0,C,C,2,0
+<built-in function id>,A brew and a ergosterol are both a type of [MASK] ,alcohol | food | substance,0,A,A,0,1
+<built-in function id>,A metheglin and a ergosterol are both a type of [MASK] ,substance | food | alcohol,2,A,A,0,0
+<built-in function id>,A zinfandel and a ergosterol are both a type of [MASK] ,substance | food | alcohol,2,C,C,2,1
+<built-in function id>,A ratafia and a ergosterol are both a type of [MASK] ,substance | alcohol | food,1,A,A,0,0
+<built-in function id>,A schnapps and a ergosterol are both a type of [MASK] ,food | alcohol | substance,1,B,B,1,1
+<built-in function id>,A macon and a ergosterol are both a type of [MASK] ,substance | wine | alcohol,2,A,A,0,0
+<built-in function id>,A nipa and a ergosterol are both a type of [MASK] ,food | alcohol | substance,1,B,B,1,1
+<built-in function id>,A rotgut and a ergosterol are both a type of [MASK] ,food | substance | alcohol,2,C,C,2,1
+<built-in function id>,A koumiss and a ergosterol are both a type of [MASK] ,alcohol | substance | food,0,C,C,2,0
+<built-in function id>,A bourbon and a ergosterol are both a type of [MASK] ,food | substance | alcohol,2,C,C,2,1
+<built-in function id>,A ergosterol and a champagne are both a type of [MASK] ,wine | alcohol | substance,1,A,A,0,0
+<built-in function id>,A champagne and a cyclohexanol are both a type of [MASK] ,alcohol | substance | food,0,A,A,0,1
+<built-in function id>,A julep and a cyclohexanol are both a type of [MASK] ,alcohol | substance | food,0,A,A,0,1
+<built-in function id>,A cyclohexanol and a poteen are both a type of [MASK] ,substance | alcohol | food,1,B,B,1,1
+<built-in function id>,A poteen and a cholesterol are both a type of [MASK] ,alcohol | food | substance,0,A,A,0,1
+<built-in function id>,A kummel and a cholesterol are both a type of [MASK] ,food | alcohol | substance,1,B,B,1,1
+<built-in function id>,A applejack and a cholesterol are both a type of [MASK] ,food | alcohol | substance,1,B,B,1,1
+<built-in function id>,A bock and a cholesterol are both a type of [MASK] ,substance | alcohol | food,1,A,A,0,0
+<built-in function id>,A geneva and a cholesterol are both a type of [MASK] ,alcohol | food | substance,0,C,C,2,0
+<built-in function id>,A cholesterol and a hooch are both a type of [MASK] ,alcohol | food | substance,0,A,A,0,1
+<built-in function id>,A hooch and a glycerol are both a type of [MASK] ,food | substance | alcohol,2,C,C,2,1
+<built-in function id>,A ouzo and a glycerol are both a type of [MASK] ,substance | food | alcohol,2,C,C,2,1
+<built-in function id>,A firewater and a glycerol are both a type of [MASK] ,substance | food | alcohol,2,C,C,2,1
+<built-in function id>,A glycerol and a kirsch are both a type of [MASK] ,alcohol | food | substance,0,A,A,0,1
+<built-in function id>,A kirsch and a methanol are both a type of [MASK] ,substance | alcohol | food,1,B,B,1,1
+<built-in function id>,A marc and a methanol are both a type of [MASK] ,food | substance | alcohol,2,C,C,2,1
+<built-in function id>,A aperitif and a methanol are both a type of [MASK] ,food | substance | alcohol,2,C,C,2,1
+<built-in function id>,A grappa and a methanol are both a type of [MASK] ,substance | alcohol | food,1,B,B,1,1
+<built-in function id>,A grog and a methanol are both a type of [MASK] ,alcohol | substance | food,0,A,A,0,1
+<built-in function id>,A curacao and a methanol are both a type of [MASK] ,alcohol | substance | food,0,A,A,0,1
+<built-in function id>,A pastis and a methanol are both a type of [MASK] ,food | alcohol | substance,1,B,B,1,1
+<built-in function id>,A methanol and a collins are both a type of [MASK] ,substance | alcohol | food,1,B,B,1,1
+<built-in function id>,A collins and a diol are both a type of [MASK] ,substance | food | alcohol,2,C,C,2,1
+<built-in function id>,A whiskey and a diol are both a type of [MASK] ,alcohol | food | substance,0,A,A,0,1
+<built-in function id>,A negus and a diol are both a type of [MASK] ,food | alcohol | substance,1,B,B,1,1
+<built-in function id>,A flip and a diol are both a type of [MASK] ,alcohol | substance | food,0,A,A,0,1
+<built-in function id>,A vermouth and a diol are both a type of [MASK] ,wine | alcohol | substance,1,A,A,0,0
+<built-in function id>,A hot toddy and a diol are both a type of [MASK] ,alcohol | substance | food,0,A,A,0,1
+<built-in function id>,A home brew and a diol are both a type of [MASK] ,substance | alcohol | food,1,B,B,1,1
+<built-in function id>,A varietal and a diol are both a type of [MASK] ,wine | substance | alcohol,2,A,A,0,0
+<built-in function id>,A screwdriver and a diol are both a type of [MASK] ,substance | food | alcohol,2,C,C,2,1
+<built-in function id>,A swizzle and a diol are both a type of [MASK] ,food | alcohol | substance,1,C,C,2,0
+<built-in function id>,A plonk and a diol are both a type of [MASK] ,alcohol | food | substance,0,A,A,0,1
+<built-in function id>,A eggnog and a diol are both a type of [MASK] ,food | alcohol | substance,1,B,B,1,1
+<built-in function id>,A wassail and a diol are both a type of [MASK] ,food | substance | alcohol,2,C,C,2,1
+<built-in function id>,A diol and a aquavit are both a type of [MASK] ,alcohol | food | substance,0,A,A,0,1
+<built-in function id>,A aquavit and a sterol are both a type of [MASK] ,alcohol | food | substance,0,A,A,0,1
+<built-in function id>,A sake and a sterol are both a type of [MASK] ,substance | food | alcohol,2,A,A,0,0
+<built-in function id>,A benedictine and a sterol are both a type of [MASK] ,food | substance | alcohol,2,B,B,1,0
+<built-in function id>,A beer and a sterol are both a type of [MASK] ,food | substance | alcohol,2,C,C,2,1
+<built-in function id>,A gimlet and a sterol are both a type of [MASK] ,alcohol | food | substance,0,A,A,0,1
+<built-in function id>,A kvass and a sterol are both a type of [MASK] ,substance | alcohol | food,1,A,A,0,0
+<built-in function id>,A claret and a sterol are both a type of [MASK] ,substance | alcohol | food,1,A,A,0,0
+<built-in function id>,A rum and a sterol are both a type of [MASK] ,alcohol | substance | food,0,A,A,0,1
+<built-in function id>,A sterol and a mescal are both a type of [MASK] ,alcohol | food | substance,0,A,A,0,1
+<built-in function id>,A propanol and a mescal are both a type of [MASK] ,organism | alcohol | substance,1,B,B,1,1
+<built-in function id>,A mescal and a retsina are both a type of [MASK] ,organism | wine | alcohol,2,B,B,1,0
+<built-in function id>,A retsina and a grasshopper are both a type of [MASK] ,organism | wine | alcohol,2,B,B,1,0
+<built-in function id>,A malmsey and a liquor are both a type of [MASK] ,substance | wine | alcohol,2,B,B,1,0
+<built-in function id>,A liquor and a grasshopper are both a type of [MASK] ,organism | substance | alcohol,2,C,C,2,1
+<built-in function id>,A scammony and a whey are both a type of [MASK] ,substance | organism | food,0,A,A,0,1
+<built-in function id>,A whey and a cedar are both a type of [MASK] ,substance | organism | food,0,A,A,0,1
+<built-in function id>,A cedar and a ergosterol are both a type of [MASK] ,substance | alcohol | organism,0,A,A,0,1
+<built-in function id>,A brazilwood and a ergosterol are both a type of [MASK] ,alcohol | organism | substance,2,C,C,2,1
+<built-in function id>,A papyrus and a ergosterol are both a type of [MASK] ,alcohol | substance | organism,1,B,B,1,1
+<built-in function id>,A rauwolfia and a ergosterol are both a type of [MASK] ,organism | substance | alcohol,1,B,B,1,1
+<built-in function id>,A ergosterol and a phosphate are both a type of [MASK] ,alcohol | food | substance,2,A,A,0,0
+<built-in function id>,A phosphate and a lapin are both a type of [MASK] ,mammal | food | substance,2,C,C,2,1
+<built-in function id>,A lapin and a agar are both a type of [MASK] ,animal | food | substance,2,A,A,0,0
+<built-in function id>,A plasmodium and a agar are both a type of [MASK] ,food | organism | substance,2,C,C,2,1
+<built-in function id>,A pandanus and a agar are both a type of [MASK] ,food | substance | organism,1,B,B,1,1
+<built-in function id>,A agar and a cyclohexanol are both a type of [MASK] ,food | alcohol | substance,2,B,B,1,0
+<built-in function id>,A cyclohexanol and a sumac are both a type of [MASK] ,alcohol | organism | substance,2,A,A,0,0
+<built-in function id>,A sumac and a cholesterol are both a type of [MASK] ,alcohol | substance | organism,1,B,B,1,1
+<built-in function id>,A flax and a cholesterol are both a type of [MASK] ,substance | organism | alcohol,0,A,A,0,1
+<built-in function id>,A hyacinth and a cholesterol are both a type of [MASK] ,substance | alcohol | organism,0,A,A,0,1
+<built-in function id>,A cholesterol and a teak are both a type of [MASK] ,substance | organism | alcohol,0,A,A,0,1
+<built-in function id>,A teak and a bran are both a type of [MASK] ,organism | substance | food,1,C,C,2,0
+<built-in function id>,A beech and a bran are both a type of [MASK] ,organism | food | substance,2,B,B,1,0
+<built-in function id>,A balata and a bran are both a type of [MASK] ,organism | food | substance,2,B,B,1,0
+<built-in function id>,A bran and a cinnabar are both a type of [MASK] ,substance | organism | food,0,A,A,0,1
+<built-in function id>,A cinnabar and a glycerol are both a type of [MASK] ,insect | substance | alcohol,1,B,B,1,1
+<built-in function id>,A glycerol and a logwood are both a type of [MASK] ,organism | alcohol | substance,2,C,C,2,1
+<built-in function id>,A logwood and a methanol are both a type of [MASK] ,alcohol | organism | substance,2,A,A,0,0
+<built-in function id>,A woad and a methanol are both a type of [MASK] ,organism | substance | alcohol,1,C,C,2,0
+<built-in function id>,A methanol and a larch are both a type of [MASK] ,substance | alcohol | organism,0,B,B,1,0
+<built-in function id>,A larch and a carbonado are both a type of [MASK] ,substance | food | organism,0,B,B,1,0
+<built-in function id>,A kino and a carbonado are both a type of [MASK] ,meat | organism | substance,2,A,A,0,0
+<built-in function id>,A anil and a carbonado are both a type of [MASK] ,substance | food | organism,0,B,B,1,0
+<built-in function id>,A poon and a carbonado are both a type of [MASK] ,organism | food | substance,2,B,B,1,0
+<built-in function id>,A carbonado and a pecan are both a type of [MASK] ,substance | meat | organism,0,A,A,0,1
+<built-in function id>,A milt and a pecan are both a type of [MASK] ,substance | organism | food,0,C,C,2,0
+<built-in function id>,A pecan and a nectar are both a type of [MASK] ,substance | organism | food,0,C,C,2,0
+<built-in function id>,A kapok and a nectar are both a type of [MASK] ,organism | substance | food,1,B,B,1,1
+<built-in function id>,A rosewood and a nectar are both a type of [MASK] ,substance | organism | food,0,A,A,0,1
+<built-in function id>,A nectar and a eucalyptus are both a type of [MASK] ,organism | food | substance,2,C,C,2,1
+<built-in function id>,A eucalyptus and a diol are both a type of [MASK] ,organism | alcohol | substance,2,B,B,1,0
+<built-in function id>,A tupelo and a diol are both a type of [MASK] ,substance | organism | alcohol,0,C,C,2,0
+<built-in function id>,A diol and a satinwood are both a type of [MASK] ,alcohol | organism | substance,2,C,C,2,1
+<built-in function id>,A satinwood and a alcohol are both a type of [MASK] ,food | substance | organism,1,B,B,1,1
+<built-in function id>,A alcohol and a ermine are both a type of [MASK] ,food | substance | organism,1,B,B,1,1
+<built-in function id>,A ermine and a slop are both a type of [MASK] ,food | organism | substance,2,B,B,1,0
+<built-in function id>,A roan and a slop are both a type of [MASK] ,food | organism | substance,2,B,B,1,0
+<built-in function id>,A slop and a alder are both a type of [MASK] ,substance | food | organism,0,C,C,2,0
+<built-in function id>,A alder and a wafer are both a type of [MASK] ,food | substance | organism,1,A,A,0,0
+<built-in function id>,A kauri and a wafer are both a type of [MASK] ,substance | food | organism,0,B,B,1,0
+<built-in function id>,A wafer and a pyrethrum are both a type of [MASK] ,food | organism | substance,2,C,C,2,1
+<built-in function id>,A mocha and a pyrethrum are both a type of [MASK] ,organism | substance | food,1,B,B,1,1
+<built-in function id>,A mash and a pyrethrum are both a type of [MASK] ,food | organism | substance,2,C,C,2,1
+<built-in function id>,A pyrethrum and a sterol are both a type of [MASK] ,organism | substance | alcohol,1,B,B,1,1
+<built-in function id>,A sterol and a dogwood are both a type of [MASK] ,organism | substance | alcohol,1,A,A,0,0
+<built-in function id>,A propanol and a dogwood are both a type of [MASK] ,substance | organism | alcohol,0,B,B,1,0
+<built-in function id>,A dogwood and a salt are both a type of [MASK] ,substance | organism | food,0,A,A,0,1
+<built-in function id>,A hickory and a salt are both a type of [MASK] ,organism | substance | food,1,B,B,1,1
+<built-in function id>,A sisal and a salt are both a type of [MASK] ,substance | food | organism,0,A,A,0,1
+<built-in function id>,A marabou and a salt are both a type of [MASK] ,food | bird | substance,2,B,B,1,0
+<built-in function id>,A bamboo and a salt are both a type of [MASK] ,substance | food | organism,0,A,A,0,1
+<built-in function id>,A chamois and a salt are both a type of [MASK] ,food | organism | substance,2,C,C,2,1
+<built-in function id>,A hazel and a salt are both a type of [MASK] ,substance | food | organism,0,A,A,0,1
+<built-in function id>,A belladonna and a salt are both a type of [MASK] ,food | substance | organism,1,B,B,1,1
+<built-in function id>,A otter and a salt are both a type of [MASK] ,organism | substance | food,1,A,A,0,0
+<built-in function id>,A quassia and a salt are both a type of [MASK] ,substance | food | organism,0,A,A,0,1
+<built-in function id>,A kingwood and a salt are both a type of [MASK] ,organism | food | substance,2,C,C,2,1
+<built-in function id>,A blackwood and a salt are both a type of [MASK] ,organism | substance | food,1,B,B,1,1
+<built-in function id>,A cypress and a salt are both a type of [MASK] ,substance | food | organism,0,A,A,0,1
+<built-in function id>,A yew and a salt are both a type of [MASK] ,food | organism | substance,2,C,C,2,1
+<built-in function id>,A balsa and a salt are both a type of [MASK] ,substance | food | organism,0,A,A,0,1
+<built-in function id>,A maple and a salt are both a type of [MASK] ,substance | organism | food,0,A,A,0,1
+<built-in function id>,A salt and a chestnut are both a type of [MASK] ,food | substance | organism,1,A,A,0,0
+<built-in function id>,A vinegar and a chestnut are both a type of [MASK] ,food | organism | substance,2,A,A,0,0
+<built-in function id>,A chestnut and a liquor are both a type of [MASK] ,alcohol | organism | substance,2,A,A,0,0
+<built-in function id>,A haddock and a myna are both a type of [MASK] ,bird | fish | animal,2,B,B,1,0
+<built-in function id>,A barbet and a andrena are both a type of [MASK] ,insect | bird | animal,2,A,A,0,0
+<built-in function id>,A eagle and a weakfish are both a type of [MASK] ,animal | bird | food,0,A,A,0,1
+<built-in function id>,A pompon and a andrena are both a type of [MASK] ,fish | animal | bee,1,C,C,2,0
+<built-in function id>,A myna and a andrena are both a type of [MASK] ,animal | bird | insect,0,C,C,2,0
+<built-in function id>,A andrena and a mare are both a type of [MASK] ,animal | mammal | bee,0,C,C,2,0
+<built-in function id>,A mare and a redstart are both a type of [MASK] ,mammal | animal | bird,1,C,C,2,0
+<built-in function id>,A weakfish and a redstart are both a type of [MASK] ,bird | food | animal,2,A,A,0,0
+<built-in function id>,A bowfin and a redstart are both a type of [MASK] ,animal | fish | bird,0,B,B,1,0
+<built-in function id>,A redstart and a beluga are both a type of [MASK] ,bird | fish | animal,2,A,A,0,0
+<built-in function id>,A manta and a entellus are both a type of [MASK] ,fish | animal | mammal,1,A,A,0,0
+<built-in function id>,A guan and a halibut are both a type of [MASK] ,animal | bird | food,0,A,A,0,1
+<built-in function id>,A halibut and a guillemot are both a type of [MASK] ,bird | fish | animal,2,B,B,1,0
+<built-in function id>,A entellus and a guillemot are both a type of [MASK] ,bird | primate | animal,2,A,A,0,0
+<built-in function id>,A cedar waxwing and a chaetodon are both a type of [MASK] ,bird | fish | animal,2,A,A,0,0
+<built-in function id>,A guillemot and a mustang are both a type of [MASK] ,animal | mammal | bird,0,C,C,2,0
+<built-in function id>,A chaetodon and a scarab are both a type of [MASK] ,fish | animal | insect,1,A,A,0,0
+<built-in function id>,A paca and a scarab are both a type of [MASK] ,mammal | animal | beetle,1,C,C,2,0
+<built-in function id>,A scarab and a domestic fowl are both a type of [MASK] ,animal | bird | beetle,0,C,C,2,0
+<built-in function id>,A domestic fowl and a wapiti are both a type of [MASK] ,mammal | bird | animal,2,C,C,2,1
+<built-in function id>,A mustang and a beluga are both a type of [MASK] ,animal | mammal | fish,0,B,B,1,0
+<built-in function id>,A skua and a wapiti are both a type of [MASK] ,animal | bird | deer,0,C,C,2,0
+<built-in function id>,A wapiti and a largemouth are both a type of [MASK] ,mammal | animal | fish,1,C,C,2,0
+<built-in function id>,A red deer and a turbot are both a type of [MASK] ,mammal | animal | food,1,A,A,0,0
+<built-in function id>,A turbot and a bongo are both a type of [MASK] ,mammal | animal | food,1,C,C,2,0
+<built-in function id>,A parakeet and a beluga are both a type of [MASK] ,bird | animal | fish,1,A,A,0,0
+<built-in function id>,A monarch and a solitaire are both a type of [MASK] ,animal | bird | insect,0,B,B,1,0
+<built-in function id>,A skink and a linnet are both a type of [MASK] ,lizard | finch | animal,2,A,A,0,0
+<built-in function id>,A bongo and a beluga are both a type of [MASK] ,mammal | fish | animal,2,A,A,0,0
+<built-in function id>,A beluga and a solitaire are both a type of [MASK] ,fish | bird | animal,2,A,A,0,0
+<built-in function id>,A largemouth and a solitaire are both a type of [MASK] ,bird | fish | animal,2,B,B,1,0
+<built-in function id>,A muskellunge and a solitaire are both a type of [MASK] ,animal | fish | bird,0,B,B,1,0
+<built-in function id>,A maigre and a budgerigar are both a type of [MASK] ,bird | animal | fish,1,A,A,0,0
+<built-in function id>,A solitaire and a impala are both a type of [MASK] ,mammal | bird | animal,2,A,A,0,0
+<built-in function id>,A moorcock and a cero are both a type of [MASK] ,animal | bird | fish,0,B,B,1,0
+<built-in function id>,A piranha and a dingo are both a type of [MASK] ,fish | animal | mammal,1,B,B,1,1
+<built-in function id>,A linnet and a cobia are both a type of [MASK] ,fish | bird | animal,2,A,A,0,0
+<built-in function id>,A cicada and a cobia are both a type of [MASK] ,animal | fish | insect,0,B,B,1,0
+<built-in function id>,A cero and a budgerigar are both a type of [MASK] ,fish | animal | parrot,1,C,C,2,0
+<built-in function id>,A cobia and a hoopoe are both a type of [MASK] ,animal | fish | bird,0,C,C,2,0
+<built-in function id>,A hoopoe and a walking stick are both a type of [MASK] ,insect | animal | bird,1,C,C,2,0
+<built-in function id>,A budgerigar and a hind are both a type of [MASK] ,parrot | animal | deer,1,A,A,0,0
+<built-in function id>,A hind and a bufo are both a type of [MASK] ,deer | frog | animal,2,B,B,1,0
+<built-in function id>,A bufo and a pika are both a type of [MASK] ,animal | mammal | frog,0,A,A,0,1
+<built-in function id>,A dingo and a scoter are both a type of [MASK] ,mammal | animal | bird,1,A,A,0,0
+<built-in function id>,A impala and a underwing are both a type of [MASK] ,mammal | insect | animal,2,A,A,0,0
+<built-in function id>,A ocelot and a shoveler are both a type of [MASK] ,bird | animal | mammal,1,B,B,1,1
+<built-in function id>,A walking stick and a shoveler are both a type of [MASK] ,bird | animal | insect,1,B,B,1,1
+<built-in function id>,A pinscher and a scoter are both a type of [MASK] ,duck | mammal | animal,2,B,B,1,0
+<built-in function id>,A escolar and a imago are both a type of [MASK] ,insect | fish | animal,2,B,B,1,0
+<built-in function id>,A scoter and a pika are both a type of [MASK] ,duck | animal | mammal,1,C,C,2,0
+<built-in function id>,A pika and a imago are both a type of [MASK] ,animal | mammal | insect,0,C,C,2,0
+<built-in function id>,A imago and a argentine are both a type of [MASK] ,insect | fish | animal,2,A,A,0,0
+<built-in function id>,A shoveler and a comma are both a type of [MASK] ,animal | duck | insect,0,B,B,1,0
+<built-in function id>,A underwing and a giraffe are both a type of [MASK] ,animal | mammal | insect,0,A,A,0,1
+<built-in function id>,A mayfly and a gar are both a type of [MASK] ,animal | fish | insect,0,B,B,1,0
+<built-in function id>,A giraffe and a agua are both a type of [MASK] ,mammal | animal | frog,1,A,A,0,0
+<built-in function id>,A gar and a ern are both a type of [MASK] ,fish | animal | bird,1,B,B,1,1
+<built-in function id>,A kudu and a smallmouth are both a type of [MASK] ,fish | mammal | animal,2,B,B,1,0
+<built-in function id>,A comma and a agua are both a type of [MASK] ,animal | frog | insect,0,B,B,1,0
+<built-in function id>,A loligo and a polecat are both a type of [MASK] ,mammal | animal | squid,1,A,A,0,0
+<built-in function id>,A argentine and a agua are both a type of [MASK] ,frog | fish | animal,2,A,A,0,0
+<built-in function id>,A agua and a mouflon are both a type of [MASK] ,animal | frog | mammal,0,C,C,2,0
+<built-in function id>,A archaeopteryx and a walrus are both a type of [MASK] ,mammal | bird | animal,2,A,A,0,0
+<built-in function id>,A lapin and a sheepshead are both a type of [MASK] ,substance | fish | animal,2,B,B,1,0
+<built-in function id>,A brant and a mouflon are both a type of [MASK] ,animal | mammal | bird,0,B,B,1,0
+<built-in function id>,A polecat and a marabou are both a type of [MASK] ,animal | mammal | substance,0,A,A,0,1
+<built-in function id>,A mouflon and a ern are both a type of [MASK] ,animal | bird | mammal,0,C,C,2,0
+<built-in function id>,A sheepshead and a bat are both a type of [MASK] ,animal | mammal | fish,0,C,C,2,0
+<built-in function id>,A smallmouth and a walrus are both a type of [MASK] ,mammal | animal | fish,1,A,A,0,0
+<built-in function id>,A bat and a serin are both a type of [MASK] ,mammal | bird | animal,2,B,B,1,0
+<built-in function id>,A frank and a chicken are both a type of [MASK] ,meat | sausage | bird,0,C,C,2,0
+<built-in function id>,A poultry and a beef are both a type of [MASK] ,meat | bird | mammal,0,A,A,0,1
+<built-in function id>,A chorizo and a beef are both a type of [MASK] ,animal | meat | sausage,1,C,C,2,0
+<built-in function id>,A chicken and a banger are both a type of [MASK] ,sausage | animal | meat,2,A,A,0,0
+<built-in function id>,A beef and a bologna are both a type of [MASK] ,meat | animal | sausage,0,C,C,2,0
+<built-in function id>,A capon and a carbonado are both a type of [MASK] ,bird | substance | meat,2,C,C,2,1
+<built-in function id>,A carbonado and a bologna are both a type of [MASK] ,substance | sausage | meat,2,B,B,1,0
+<built-in function id>,A grouse and a souse are both a type of [MASK] ,bird | meat | sausage,1,A,A,0,0
+<built-in function id>,A bologna and a partridge are both a type of [MASK] ,sausage | bird | meat,2,B,B,1,0
+<built-in function id>,A wildfowl and a bratwurst are both a type of [MASK] ,meat | bird | sausage,0,C,C,2,0
+<built-in function id>,A souse and a squab are both a type of [MASK] ,bird | meat | sausage,1,A,A,0,0
+<built-in function id>,A broiler and a banger are both a type of [MASK] ,bird | sausage | meat,2,B,B,1,0
+<built-in function id>,A squab and a pepperoni are both a type of [MASK] ,bird | meat | sausage,1,C,C,2,0
+<built-in function id>,A fryer and a banger are both a type of [MASK] ,meat | sausage | bird,0,B,B,1,0
+<built-in function id>,A pepperoni and a duckling are both a type of [MASK] ,sausage | organism | meat,2,B,B,1,0
+<built-in function id>,A banger and a pheasant are both a type of [MASK] ,meat | bird | sausage,0,B,B,1,0
+<built-in function id>,A salami and a quail are both a type of [MASK] ,sausage | meat | animal,1,B,B,1,1
+<built-in function id>,A andrena and a grasshopper are both a type of [MASK] ,insect | bee | alcohol,0,A,A,0,1
+<built-in function id>,A scarab and a goldeneye are both a type of [MASK] ,duck | insect | beetle,1,C,C,2,0
+<built-in function id>,A ladybug and a grasshopper are both a type of [MASK] ,insect | alcohol | beetle,0,A,A,0,1
+<built-in function id>,A goldeneye and a grasshopper are both a type of [MASK] ,alcohol | insect | bird,1,B,B,1,1
+<built-in function id>,A weevil and a peacock are both a type of [MASK] ,bird | beetle | insect,2,C,C,2,1
+<built-in function id>,A peacock and a firefly are both a type of [MASK] ,beetle | bird | insect,2,C,C,2,1
+<built-in function id>,A pompon and a silver salmon are both a type of [MASK] ,food | fish | organism,1,B,B,1,1
+<built-in function id>,A bowfin and a silver salmon are both a type of [MASK] ,animal | food | fish,2,C,C,2,1
+<built-in function id>,A manta and a silver salmon are both a type of [MASK] ,food | fish | animal,1,B,B,1,1
+<built-in function id>,A chaetodon and a silver salmon are both a type of [MASK] ,animal | food | fish,2,C,C,2,1
+<built-in function id>,A turbot and a hind are both a type of [MASK] ,fish | mammal | food,0,A,A,0,1
+<built-in function id>,A beluga and a silver salmon are both a type of [MASK] ,animal | fish | food,1,B,B,1,1
+<built-in function id>,A largemouth and a silver salmon are both a type of [MASK] ,fish | animal | food,0,A,A,0,1
+<built-in function id>,A maigre and a silver salmon are both a type of [MASK] ,fish | food | organism,0,A,A,0,1
+<built-in function id>,A piranha and a silver salmon are both a type of [MASK] ,organism | food | fish,2,C,C,2,1
+<built-in function id>,A cero and a silver salmon are both a type of [MASK] ,fish | food | organism,0,A,A,0,1
+<built-in function id>,A cobia and a silver salmon are both a type of [MASK] ,organism | fish | food,1,B,B,1,1
+<built-in function id>,A hind and a whitebait are both a type of [MASK] ,food | mammal | fish,2,C,C,2,1
+<built-in function id>,A escolar and a silver salmon are both a type of [MASK] ,organism | food | fish,2,C,C,2,1
+<built-in function id>,A gar and a silver salmon are both a type of [MASK] ,animal | fish | food,1,B,B,1,1
+<built-in function id>,A argentine and a silver salmon are both a type of [MASK] ,animal | food | fish,2,C,C,2,1
+<built-in function id>,A sheepshead and a silver salmon are both a type of [MASK] ,fish | food | animal,0,A,A,0,1
+<built-in function id>,A smallmouth and a silver salmon are both a type of [MASK] ,organism | fish | food,1,B,B,1,1
+<built-in function id>,A margate and a silver salmon are both a type of [MASK] ,food | animal | fish,2,C,C,2,1
+<built-in function id>,A ganoid and a silver salmon are both a type of [MASK] ,animal | food | fish,2,C,C,2,1
+<built-in function id>,A barracuda and a silver salmon are both a type of [MASK] ,organism | food | fish,2,C,C,2,1
+<built-in function id>,A blenny and a silver salmon are both a type of [MASK] ,organism | fish | food,1,B,B,1,1
+<built-in function id>,A mako and a silver salmon are both a type of [MASK] ,animal | fish | food,1,B,B,1,1
+<built-in function id>,A tench and a silver salmon are both a type of [MASK] ,organism | fish | food,1,B,B,1,1
+<built-in function id>,A pumpkinseed and a silver salmon are both a type of [MASK] ,food | fish | organism,1,B,B,1,1
+<built-in function id>,A sparling and a silver salmon are both a type of [MASK] ,food | fish | animal,1,B,B,1,1
+<built-in function id>,A cisco and a silver salmon are both a type of [MASK] ,food | animal | fish,2,C,C,2,1
+<built-in function id>,A capelin and a silver salmon are both a type of [MASK] ,organism | fish | food,1,B,B,1,1
+<built-in function id>,A remora and a silver salmon are both a type of [MASK] ,organism | food | fish,2,C,C,2,1
+<built-in function id>,A tautog and a silver salmon are both a type of [MASK] ,food | fish | organism,1,B,B,1,1
+<built-in function id>,A puffer and a silver salmon are both a type of [MASK] ,animal | fish | food,1,B,B,1,1
+<built-in function id>,A yellowfin and a silver salmon are both a type of [MASK] ,fish | animal | food,0,A,A,0,1
+<built-in function id>,A amberjack and a silver salmon are both a type of [MASK] ,food | organism | fish,2,C,C,2,1
+<built-in function id>,A barbu and a silver salmon are both a type of [MASK] ,food | animal | fish,2,C,C,2,1
+<built-in function id>,A salmonid and a silver salmon are both a type of [MASK] ,fish | animal | food,0,A,A,0,1
+<built-in function id>,A goby and a silver salmon are both a type of [MASK] ,organism | fish | food,1,B,B,1,1
+<built-in function id>,A walleye and a silver salmon are both a type of [MASK] ,animal | fish | food,1,B,B,1,1
+<built-in function id>,A liza and a silver salmon are both a type of [MASK] ,food | animal | fish,2,C,C,2,1
+<built-in function id>,A barracouta and a silver salmon are both a type of [MASK] ,animal | food | fish,2,C,C,2,1
+<built-in function id>,A bigeye and a silver salmon are both a type of [MASK] ,fish | food | organism,0,A,A,0,1
+<built-in function id>,A thresher and a silver salmon are both a type of [MASK] ,fish | food | organism,0,A,A,0,1
+<built-in function id>,A loach and a silver salmon are both a type of [MASK] ,animal | food | fish,2,C,C,2,1
+<built-in function id>,A sculpin and a silver salmon are both a type of [MASK] ,fish | organism | food,0,A,A,0,1
+<built-in function id>,A wrasse and a silver salmon are both a type of [MASK] ,food | animal | fish,2,C,C,2,1
+<built-in function id>,A seahorse and a silver salmon are both a type of [MASK] ,food | fish | animal,1,B,B,1,1
+<built-in function id>,A burbot and a silver salmon are both a type of [MASK] ,organism | fish | food,1,B,B,1,1
+<built-in function id>,A stickleback and a silver salmon are both a type of [MASK] ,animal | food | fish,2,C,C,2,1
+<built-in function id>,A sturgeon and a silver salmon are both a type of [MASK] ,organism | fish | food,1,B,B,1,1
+<built-in function id>,A gudgeon and a silver salmon are both a type of [MASK] ,food | fish | animal,1,B,B,1,1
+<built-in function id>,A tetra and a silver salmon are both a type of [MASK] ,organism | food | fish,2,C,C,2,1
+<built-in function id>,A grenadier and a silver salmon are both a type of [MASK] ,food | organism | fish,2,C,C,2,1
+<built-in function id>,A sea bream and a silver salmon are both a type of [MASK] ,food | fish | animal,1,B,B,1,1
+<built-in function id>,A bluegill and a silver salmon are both a type of [MASK] ,fish | food | organism,0,A,A,0,1
+<built-in function id>,A coelacanth and a silver salmon are both a type of [MASK] ,fish | animal | food,0,A,A,0,1
+<built-in function id>,A coney and a silver salmon are both a type of [MASK] ,food | organism | fish,2,C,C,2,1
+<built-in function id>,A cichlid and a silver salmon are both a type of [MASK] ,fish | animal | food,0,A,A,0,1
+<built-in function id>,A pomfret and a silver salmon are both a type of [MASK] ,food | fish | organism,1,B,B,1,1
+<built-in function id>,A red drum and a silver salmon are both a type of [MASK] ,animal | fish | food,1,B,B,1,1
+<built-in function id>,A parr and a silver salmon are both a type of [MASK] ,organism | fish | food,1,B,B,1,1
+<built-in function id>,A menhaden and a silver salmon are both a type of [MASK] ,food | organism | fish,2,C,C,2,1
+<built-in function id>,A moray and a silver salmon are both a type of [MASK] ,fish | food | animal,0,A,A,0,1
+<built-in function id>,A scrod and a silver salmon are both a type of [MASK] ,fish | food | animal,0,A,A,0,1
+<built-in function id>,A silver salmon and a coho are both a type of [MASK] ,food | organism | fish,2,C,C,2,1
+<built-in function id>,A coho and a red salmon are both a type of [MASK] ,food | organism | fish,2,C,C,2,1
+<built-in function id>,A bullhead and a red salmon are both a type of [MASK] ,food | animal | fish,2,C,C,2,1
+<built-in function id>,A codling and a red salmon are both a type of [MASK] ,food | fish | animal,1,B,B,1,1
+<built-in function id>,A chub and a red salmon are both a type of [MASK] ,food | organism | fish,2,C,C,2,1
+<built-in function id>,A skipjack and a red salmon are both a type of [MASK] ,fish | animal | food,0,A,A,0,1
+<built-in function id>,A marlin and a red salmon are both a type of [MASK] ,food | animal | fish,2,C,C,2,1
+<built-in function id>,A windowpane and a red salmon are both a type of [MASK] ,organism | food | fish,2,B,B,1,0
+<built-in function id>,A tarpon and a red salmon are both a type of [MASK] ,fish | animal | food,0,A,A,0,1
+<built-in function id>,A fingerling and a red salmon are both a type of [MASK] ,animal | food | fish,2,C,C,2,1
+<built-in function id>,A falafel and a haddock are both a type of [MASK] ,food | dish | animal,0,A,A,0,1
+<built-in function id>,A haddock and a rickey are both a type of [MASK] ,food | alcohol | fish,0,C,C,2,0
+<built-in function id>,A rickey and a frank are both a type of [MASK] ,sausage | alcohol | food,2,A,A,0,0
+<built-in function id>,A frank and a squid are both a type of [MASK] ,food | animal | meat,0,B,B,1,0
+<built-in function id>,A squid and a kava are both a type of [MASK] ,organism | food | alcohol,1,A,A,0,0
+<built-in function id>,A kava and a macaroni are both a type of [MASK] ,food | pasta | alcohol,0,A,A,0,1
+<built-in function id>,A macaroni and a leg of lamb are both a type of [MASK] ,food | meat | pasta,0,C,C,2,0
+<built-in function id>,A leg of lamb and a weakfish are both a type of [MASK] ,meat | animal | food,2,A,A,0,0
+<built-in function id>,A weakfish and a moussaka are both a type of [MASK] ,dish | food | animal,1,B,B,1,1
+<built-in function id>,A borsch and a banquet are both a type of [MASK] ,meal | dish | food,2,A,A,0,0
+<built-in function id>,A moussaka and a banquet are both a type of [MASK] ,food | dish | meal,0,A,A,0,1
+<built-in function id>,A banquet and a brew are both a type of [MASK] ,meal | alcohol | food,2,A,A,0,0
+<built-in function id>,A brew and a succotash are both a type of [MASK] ,dish | food | alcohol,1,B,B,1,1
+<built-in function id>,A succotash and a mascarpone are both a type of [MASK] ,cheese | dish | food,2,B,B,1,0
+<built-in function id>,A teriyaki and a mascarpone are both a type of [MASK] ,dish | cheese | food,2,C,C,2,1
+<built-in function id>,A mascarpone and a metheglin are both a type of [MASK] ,food | alcohol | cheese,0,C,C,2,0
+<built-in function id>,A metheglin and a confit are both a type of [MASK] ,meat | food | alcohol,1,A,A,0,0
+<built-in function id>,A confit and a turbot are both a type of [MASK] ,meat | food | animal,1,B,B,1,1
+<built-in function id>,A poultry and a turbot are both a type of [MASK] ,fish | food | bird,1,C,C,2,0
+<built-in function id>,A prosciutto and a turbot are both a type of [MASK] ,organism | food | meat,1,B,B,1,1
+<built-in function id>,A turbot and a chorizo are both a type of [MASK] ,food | sausage | organism,0,B,B,1,0
+<built-in function id>,A chorizo and a celeriac are both a type of [MASK] ,food | sausage | organism,0,A,A,0,1
+<built-in function id>,A celeriac and a adobo are both a type of [MASK] ,food | organism | dish,0,C,C,2,0
+<built-in function id>,A adobo and a muskellunge are both a type of [MASK] ,animal | food | dish,1,B,B,1,1
+<built-in function id>,A muskellunge and a zinfandel are both a type of [MASK] ,food | alcohol | organism,0,B,B,1,0
+<built-in function id>,A zinfandel and a ricotta are both a type of [MASK] ,food | cheese | alcohol,0,B,B,1,0
+<built-in function id>,A ricotta and a ratafia are both a type of [MASK] ,alcohol | cheese | food,2,B,B,1,0
+<built-in function id>,A ratafia and a souffle are both a type of [MASK] ,alcohol | dish | food,2,B,B,1,0
+<built-in function id>,A souffle and a schnapps are both a type of [MASK] ,dish | food | alcohol,1,C,C,2,0
+<built-in function id>,A julienne and a schnapps are both a type of [MASK] ,alcohol | dish | food,2,A,A,0,0
+<built-in function id>,A schnapps and a fettuccine are both a type of [MASK] ,food | pasta | alcohol,0,B,B,1,0
+<built-in function id>,A macon and a fettuccine are both a type of [MASK] ,pasta | food | alcohol,1,A,A,0,0
+<built-in function id>,A fettuccine and a nipa are both a type of [MASK] ,food | alcohol | pasta,0,C,C,2,0
+<built-in function id>,A nipa and a whey are both a type of [MASK] ,substance | alcohol | food,2,C,C,2,1
+<built-in function id>,A whey and a fondant are both a type of [MASK] ,substance | candy | food,2,C,C,2,1
+<built-in function id>,A fondant and a fennel are both a type of [MASK] ,food | candy | organism,0,A,A,0,1
+<built-in function id>,A fennel and a linguine are both a type of [MASK] ,pasta | organism | food,2,A,A,0,0
+<built-in function id>,A linguine and a rotgut are both a type of [MASK] ,pasta | alcohol | food,2,B,B,1,0
+<built-in function id>,A rotgut and a potage are both a type of [MASK] ,food | alcohol | soup,0,C,C,2,0
+<built-in function id>,A potage and a koumiss are both a type of [MASK] ,soup | alcohol | food,2,A,A,0,0
+<built-in function id>,A sushi and a koumiss are both a type of [MASK] ,food | alcohol | dish,0,A,A,0,1
+<built-in function id>,A koumiss and a spinach are both a type of [MASK] ,alcohol | food | organism,1,B,B,1,1
+<built-in function id>,A spinach and a bourbon are both a type of [MASK] ,food | alcohol | organism,0,B,B,1,0
+<built-in function id>,A porgy and a chicken are both a type of [MASK] ,food | fish | bird,0,C,C,2,0
+<built-in function id>,A chicken and a bourbon are both a type of [MASK] ,alcohol | organism | food,2,C,C,2,1
+<built-in function id>,A bourbon and a hardtack are both a type of [MASK] ,alcohol | food | organism,1,B,B,1,1
+<built-in function id>,A hardtack and a phosphate are both a type of [MASK] ,substance | organism | food,2,C,C,2,1
+<built-in function id>,A phosphate and a barley are both a type of [MASK] ,food | organism | substance,0,A,A,0,1
+<built-in function id>,A barley and a champagne are both a type of [MASK] ,organism | alcohol | food,2,B,B,1,0
+<built-in function id>,A champagne and a zabaglione are both a type of [MASK] ,food | alcohol | dessert,0,C,C,2,0
+<built-in function id>,A julep and a zabaglione are both a type of [MASK] ,food | dessert | alcohol,0,B,B,1,0
+<built-in function id>,A zabaglione and a parsley are both a type of [MASK] ,dessert | organism | food,2,C,C,2,1
+<built-in function id>,A parsley and a lunch are both a type of [MASK] ,food | meal | organism,0,A,A,0,1
+<built-in function id>,A sassafras and a lunch are both a type of [MASK] ,meal | food | organism,1,B,B,1,1
+<built-in function id>,A lunch and a pilaf are both a type of [MASK] ,dish | food | meal,1,A,A,0,0
+<built-in function id>,A pilaf and a chitterlings are both a type of [MASK] ,meat | food | dish,1,B,B,1,1
+<built-in function id>,A chitterlings and a agar are both a type of [MASK] ,food | meat | substance,0,A,A,0,1
+<built-in function id>,A halal and a agar are both a type of [MASK] ,meat | substance | food,2,C,C,2,1
+<built-in function id>,A agar and a nougat are both a type of [MASK] ,food | substance | candy,0,C,C,2,0
+<built-in function id>,A nougat and a gorgonzola are both a type of [MASK] ,food | candy | cheese,0,C,C,2,0
+<built-in function id>,A gorgonzola and a poteen are both a type of [MASK] ,alcohol | food | cheese,1,C,C,2,0
+<built-in function id>,A poteen and a bonito are both a type of [MASK] ,food | alcohol | organism,0,C,C,2,0
+<built-in function id>,A bonito and a raita are both a type of [MASK] ,dish | food | organism,1,B,B,1,1
+<built-in function id>,A raita and a taffy are both a type of [MASK] ,food | dish | candy,0,C,C,2,0
+<built-in function id>,A taffy and a bleu are both a type of [MASK] ,cheese | candy | food,2,B,B,1,0
+<built-in function id>,A bleu and a kummel are both a type of [MASK] ,cheese | alcohol | food,2,B,B,1,0
+<built-in function id>,A kummel and a ratatouille are both a type of [MASK] ,alcohol | food | dish,1,B,B,1,1
+<built-in function id>,A ratatouille and a applejack are both a type of [MASK] ,alcohol | food | dish,1,A,A,0,0
+<built-in function id>,A applejack and a flummery are both a type of [MASK] ,dessert | alcohol | food,2,A,A,0,0
+<built-in function id>,A flummery and a turmeric are both a type of [MASK] ,food | organism | dessert,0,A,A,0,1
+<built-in function id>,A turmeric and a bisque are both a type of [MASK] ,food | organism | dish,0,C,C,2,0

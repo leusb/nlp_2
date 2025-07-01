@@ -1,0 +1,501 @@
+index,stem,choices,true_label,model_reply,extracted_key,predicted_label,correct
+0,when did the band where Slobodan Kovačević played first form?,1962 | 1964 | 1961,0,C),C,2,0
+1,when did the band where Park Woojin played first form?,2017 | 2018 | 2019,2,A) 2017,A,0,0
+2,when did the band where Reine Fiske played first form?,2000 | 1999 | 2002,0,B),B,1,0
+3,when did the band where Orelsan played first form?,2005 | 2008 | 2006,2,C) 2006,C,2,1
+4,when did the band where John Belushi played first form?,1980 | 1978 | 1977,1,C) 1977,C,2,0
+5,when did the band where Jascha Brodsky played first form?,1930 | 1931 | 1932,2,B) 1931,B,1,0
+6,when did the band where Junior Cony played first form?,1977 | 1978 | 1980,1,A) 1977,A,0,0
+7,when did the band where Charly Alberti played first form?,1949 | 1948 | 1950,2,B),B,1,0
+8,when did the band where Phil May played first form?,1961 | 1963 | 1964,1,B) 1963,B,1,1
+9,when did the band where Joey McIntyre played first form?,1984 | 1985 | 1986,0,A) 1984,A,0,1
+10,when did the band where Phil Napoleon played first form?,1919 | 1917 | 1918,1,B) 1917,B,1,1
+11,when did the band where Mark Walker played first form?,1972 | 1970 | 1969,1,C) 1969,C,2,0
+12,when did the band where Harper Goff played first form?,1949 | 1948 | 1946,1,A) 1949,A,0,0
+13,when did the band where Priscilla Paris played first form?,1951 | 1952 | 1953,0,A) 1951,A,0,1
+14,when did the band where James McVey played first form?,2011 | 2010 | 2012,2,A) 2011,A,0,0
+15,when did the band where Tony Mansfield played first form?,1977 | 1976 | 1979,0,A) 1977,A,0,1
+16,when did the band where Owen played first form?,1998 | 1997 | 1999,2,B) 1997,B,1,0
+17,when did the band where Ward Kimball played first form?,1946 | 1949 | 1948,2,C),C,2,1
+18,when did the band where Glenn Hughes played first form?,2008 | 2007 | 2009,2,B) 2007,B,1,0
+19,when did the band where David Gates played first form?,1969 | 1970 | 1968,2,C) 1968,C,2,1
+20,"when did the band where Matt ""Skitz"" Sanders played first form?",2008 | 2005 | 2006,2,B) 2005,B,1,0
+21,when did the band where Lee Dae-hwi played first form?,2019 | 2017 | 2020,0,B) 2017,B,1,0
+22,when did the band where Clyde McPhatter played first form?,1952 | 1951 | 1953,2,B) 1951,B,1,0
+23,when did the band where Mandolino played first form?,1953 | 1954 | 1955,2,A) 1953,A,0,0
+24,when did the band where Caleb Shomo played first form?,2011 | 2012 | 2014,1,A) 2011,A,0,0
+25,when did the band where Irshu Bangash played first form?,2014 | 2015 | 2013,1,C) 2013,C,2,0
+26,when did the band where David C. Johnson played first form?,1968 | 1970 | 1967,0,C),C,2,0
+27,when did the band where Bizarre played first form?,1998 | 1995 | 1996,2,C) 1996,C,2,1
+28,when did the band where Simon Le Bon played first form?,1987 | 1984 | 1985,2,B) 1984,B,1,0
+29,when did the band where Erdman Penner played first form?,1950 | 1949 | 1948,2,B),B,1,0
+30,when did the band where Rick Nielsen played first form?,1969 | 1966 | 1968,2,C) 1968,C,2,1
+31,when did the band where Paul Wright played first form?,2007 | 2008 | 2009,0,A) 2007,A,0,1
+32,when did the band where Jermaine Jackson played first form?,1963 | 1964 | 1966,1,B) 1964,B,1,1
+33,when did the band where Ben E. King played first form?,1951 | 1953 | 1952,1,C),C,2,0
+34,when did the band where Tobias Hayes played first form?,2007 | 2005 | 2006,1,C),C,2,0
+35,when did the band where Fadil Redžić played first form?,1963 | 1964 | 1962,2,C),C,2,1
+36,when did the band where Elske DeWall played first form?,2019 | 2018 | 2017,2,C) 2017,C,2,1
+37,when did the band where Joe Keithley played first form?,1978 | 1980 | 1977,0,C) 1977,C,2,0
+38,when did the band where Daniel Sais played first form?,1950 | 1948 | 1949,0,C),C,2,0
+39,when did the band where Adrian Vandenberg played first form?,1994 | 1993 | 1991,1,C) 1991,C,2,0
+40,when did the band where Gary Young played first form?,1970 | 1968 | 1969,0,C) 1969,C,2,0
+41,when did the band where Eric Meyer played first form?,1981 | 1983 | 1984,1,B) 1983,B,1,1
+42,when did the band where Eric Clapton played first form?,1963 | 1962 | 1961,0,A) 1963,A,0,1
+43,"when did the band where Johnny ""Bee"" Badanjek played first form?",1971 | 1972 | 1970,1,C) 1970,C,2,0
+44,when did the band where Spellgoth played first form?,2003 | 2001 | 2002,0,C) 2002,C,2,0
+45,when did the band where Angelo D’Aleo played first form?,1959 | 1957 | 1956,1,B) 1957,B,1,1
+46,when did the band where Dhani Harrison played first form?,2007 | 2006 | 2008,1,B) 2006,B,1,1
+47,when did the band where Altti Veteläinen played first form?,1999 | 2001 | 1998,0,C),C,2,0
+48,when did the band where Leah Lupatin played first form?,1970 | 1971 | 1972,2,B) 1971,B,1,0
+49,when did the band where Cláudio Venturini played first form?,1979 | 1977 | 1978,0,C) 1978,C,2,0
+50,when did the band where Ken Shimura played first form?,1955 | 1956 | 1958,1,C),C,2,0
+51,when did the band where Conny Plank played first form?,1972 | 1969 | 1971,2,B) 1969,B,1,0
+52,when did the band where Frank Thomas played first form?,1949 | 1950 | 1948,2,C),C,2,1
+53,when did the band where Harry Wayne Casey played first form?,1971 | 1973 | 1974,1,A) 1971,A,0,0
+54,when did the band where Karl Lemieux played first form?,1993 | 1992 | 1994,2,B) 1992,B,1,0
+55,when did the band where Sheila E. played first form?,1987 | 1985 | 1984,1,C) 1984,C,2,0
+56,when did the band where Moez Uddin Mohmand played first form?,2016 | 2017 | 2015,2,C) 2015,C,2,1
+57,when did the band where Jill Jackson played first form?,2003 | 2001 | 2002,1,C),C,2,0
+58,when did the band where Rachel Stevens played first form?,1997 | 1999 | 2000,1,B) 1999,B,1,1
+59,when did the band where Yaya Cohen Harounoff played first form?,1996 | 1994 | 1995,0,C) 1995,C,2,0
+60,when did the band where Wayne Static played first form?,1994 | 1995 | 1996,0,A) 1994,A,0,1
+61,when did the band where Kazufumi Miyazawa played first form?,1988 | 1987 | 1986,2,B) 1987,B,1,0
+62,when did the band where Clarke Mallery played first form?,1948 | 1947 | 1946,0,B) 1947,B,1,0
+63,when did the band where Renārs Kaupers played first form?,1989 | 1988 | 1991,0,A) 1989,A,0,1
+64,when did the band where Gina V. D'Orio played first form?,1997 | 1995 | 1994,1,B) 1995,B,1,1
+65,when did the band where Stefan Babcock played first form?,2012 | 2011 | 2010,2,B) 2011,B,1,0
+66,when did the band where Paul McCandless played first form?,1971 | 1968 | 1970,2,B) 1968,B,1,0
+67,when did the band where Dion DiMucci played first form?,1955 | 1957 | 1958,1,A) 1955,A,0,0
+68,when did the band where Carlo Mastrangelo played first form?,1957 | 1958 | 1955,0,C) 1955,C,2,0
+69,when did the band where Crispian Mills played first form?,1986 | 1988 | 1987,1,C) 1987,C,2,0
+70,when did the band where Kristen May played first form?,2006 | 2005 | 2004,2,B) 2005,B,1,0
+71,when did the band where Nikki Nelson played first form?,1988 | 1986 | 1987,1,C) 1987,C,2,0
+72,when did the band where Oscar Cash played first form?,1998 | 1999 | 1997,1,C) 1997,C,2,0
+73,when did the band where Lionel Richie played first form?,1970 | 1968 | 1969,1,C) 1969,C,2,0
+74,when did the band where Ray Charles played first form?,1986 | 1983 | 1985,2,B) 1983,B,1,0
+75,when did the band where Gustavo Cerati played first form?,1952 | 1951 | 1950,2,B),B,1,0
+76,when did the band where Jello Biafra played first form?,2008 | 2010 | 2007,0,C),C,2,0
+77,when did the band where Im Young-min played first form?,2021 | 2019 | 2020,1,B) 2019,B,1,1
+78,when did the band where Jonas Kuhlberg played first form?,2017 | 2016 | 2014,1,C) 2014,C,2,0
+79,when did the band where Jeon Woong played first form?,2019 | 2020 | 2017,0,C) 2017,C,2,0
+80,when did the band where Jonathan Davis played first form?,1991 | 1993 | 1992,0,C) 1992,C,2,0
+81,when did the band where Remu Aaltonen played first form?,1972 | 1973 | 1971,2,C) 1971,C,2,1
+82,when did the band where Adrian Borland played first form?,1977 | 1978 | 1979,2,A) 1977,A,0,0
+83,when did the band where Zeta Bosio played first form?,1950 | 1948 | 1951,0,B),B,1,0
+84,when did the band where José Alberto “El Canario” played first form?,1973 | 1974 | 1971,0,C) 1971,C,2,0
+85,when did the band where Little Richard played first form?,1952 | 1951 | 1953,2,B) 1951,B,1,0
+86,when did the band where Poly Styrene played first form?,1976 | 1974 | 1977,0,B) 1974,B,1,0
+87,when did the band where Anni-Frid Lyngstad played first form?,1971 | 1970 | 1972,2,B) 1970,B,1,0
+88,when did the band where Natalia Jiménez played first form?,2001 | 2002 | 2000,2,C),C,2,1
+89,when did the band where Wendy Melvoin played first form?,1979 | 1978 | 1977,0,A) 1979,A,0,1
+90,when did the band where Kim Deal played first form?,1988 | 1990 | 1987,0,C),C,2,0
+91,when did the band where Juan José Palacios played first form?,1974 | 1976 | 1973,0,C),C,2,0
+92,when did the band where Marco Sneck played first form?,1999 | 2001 | 2000,0,C),C,2,0
+93,when did the band where Gary Brooker played first form?,1969 | 1966 | 1967,2,B) 1966,B,1,0
+94,when did the band where Don Felder played first form?,1971 | 1973 | 1972,0,C) 1972,C,2,0
+95,when did the band where Braulio López played first form?,1960 | 1961 | 1962,2,C) 1962,C,2,1
+96,when did the band where Armando de Castro played first form?,1979 | 1981 | 1982,1,C),C,2,0
+97,when did the band where Hiroto Kōmoto played first form?,2005 | 2006 | 2004,1,C),C,2,0
+98,when did the band where Boon Gould played first form?,1981 | 1982 | 1980,2,C),C,2,1
+99,when did the band where Ricardo Arjona played first form?,1950 | 1948 | 1949,0,C),C,2,0
+100,when did the band where Angelica Rylin played first form?,2006 | 2005 | 2008,0,B) 2005,B,1,0
+101,when did the band where Andi Kravljaca played first form?,2002 | 2004 | 2003,0,C),C,2,0
+102,when did the band where John Rutsey played first form?,1969 | 1968 | 1970,1,B) 1968,B,1,1
+103,when did the band where Kim Dong-hyun played first form?,2018 | 2017 | 2019,2,B),B,1,0
+104,when did the band where Ian Curtis played first form?,1977 | 1978 | 1976,2,C) 1976,C,2,1
+105,when did the band where Rudy Lewis played first form?,1954 | 1951 | 1953,2,C) 1953,C,2,1
+106,when did the band where Hiroyuki Hayashi played first form?,1996 | 1995 | 1997,2,B) 1995,B,1,0
+107,when did the band where Dinah Cancer played first form?,1979 | 1980 | 1977,0,C) 1977,C,2,0
+108,when did the band where Scotty Wilkins played first form?,1983 | 1981 | 1982,1,C),C,2,0
+109,when did the band where Bobby Hendricks played first form?,1954 | 1953 | 1955,1,A) 1954,A,0,0
+110,when did the band where Keni Burke played first form?,1965 | 1966 | 1967,0,C) 1967,C,2,0
+111,when did the band where Davorin Popović played first form?,1963 | 1962 | 1964,1,B),B,1,1
+112,when did the band where Sinan Alimanović played first form?,1962 | 1961 | 1964,0,B) 1961,B,1,0
+113,when did the band where Israel Gurion played first form?,1958 | 1957 | 1955,1,A) 1958,A,0,0
+114,when did the band where Tomas Lindberg played first form?,1994 | 1996 | 1995,0,C) 1995,C,2,0
+115,when did the band where Nuno Bettencourt played first form?,1984 | 1985 | 1987,1,A) 1984,A,0,0
+116,when did the band where Richard Kolinka played first form?,1988 | 1986 | 1985,1,B) 1986,B,1,1
+117,when did the band where Teri Gender Bender played first form?,2011 | 2012 | 2010,1,C) 2010,C,2,0
+118,when did the band where cEvin Key played first form?,1994 | 1996 | 1993,0,C) 1993,C,2,0
+119,when did the band where Alexandre Abescat played first form?,2015 | 2014 | 2013,2,C) 2013,C,2,1
+120,when did the band where Rachèl Louise played first form?,2017 | 2019 | 2018,0,C),C,2,0
+121,when did the band where Timothy Bruce Schmit played first form?,1971 | 1972 | 1973,0,A) 1971,A,0,1
+122,when did the band where Jimmy Lewis played first form?,1951 | 1952 | 1953,2,C),C,2,1
+123,when did the band where Beate S. Lech played first form?,1998 | 1999 | 2001,1,C),C,2,0
+124,when did the band where Miles Hunt played first form?,1986 | 1987 | 1984,0,C) 1984,C,2,0
+125,when did the band where Kumm played first form?,1993 | 1992 | 1991,0,B) 1992,B,1,0
+126,when did the band where Larry Blackmon played first form?,1973 | 1974 | 1972,1,C) 1972,C,2,0
+127,when did the band where Magnus Børmark played first form?,1999 | 1998 | 1997,0,A) 1999,A,0,1
+128,when did the band where Masto played first form?,1976 | 1978 | 1979,1,C),C,2,0
+129,when did the band where José Luis Guerra played first form?,1961 | 1962 | 1960,1,C),C,2,0
+130,when did the band where William Mathias played first form?,1950 | 1952 | 1949,0,C),C,2,0
+131,when did the band where Arthur Lee played first form?,1966 | 1963 | 1965,2,C) 1965,C,2,1
+132,when did the band where Rolf Pilve played first form?,2016 | 2017 | 2014,0,C),C,2,0
+133,when did the band where Kai Hahto played first form?,1996 | 1993 | 1994,2,C) 1994,C,2,1
+134,when did the band where Joe Walsh played first form?,1972 | 1973 | 1971,2,C) 1971,C,2,1
+135,when did the band where Tony Dolan played first form?,1978 | 1977 | 1976,0,A) 1978,A,0,1
+136,when did the band where Dave Couse played first form?,1987 | 1984 | 1985,2,B) 1984,B,1,0
+137,when did the band where Pat Badger played first form?,1984 | 1987 | 1985,2,C) 1985,C,2,1
+138,when did the band where Lukas Forchhammer played first form?,2010 | 2011 | 2009,1,C),C,2,0
+139,when did the band where John Macaluso played first form?,1989 | 1990 | 1992,1,C),C,2,0
+140,when did the band where Cisse Häkkinen played first form?,1972 | 1971 | 1969,1,C) 1969,C,2,0
+141,when did the band where Mackey Feary played first form?,1976 | 1975 | 1973,1,C) 1973,C,2,0
+142,when did the band where Susan McFadden played first form?,2003 | 2004 | 2006,1,C),C,2,0
+143,when did the band where Steve Dior played first form?,1981 | 1980 | 1978,1,A) 1981,A,0,0
+144,when did the band where Andy Barlow played first form?,1994 | 1996 | 1995,1,C) 1995,C,2,0
+145,when did the band where Lee Ving played first form?,1979 | 1976 | 1977,2,C) 1977,C,2,1
+146,when did the band where Johnny Moore played first form?,1953 | 1955 | 1952,0,C) 1952,C,2,0
+147,when did the band where Calum MacDonald played first form?,2013 | 2012 | 2010,1,C) 2010,C,2,0
+148,when did the band where Nick Rhodes played first form?,1985 | 1987 | 1984,0,C),C,2,0
+149,when did the band where LaTavia Roberson played first form?,1989 | 1992 | 1990,2,C) 1990,C,2,1
+150,when did the band where Chū Arai played first form?,1958 | 1957 | 1956,2,A) 1958,A,0,0
+151,when did the band where Bernie Leadon played first form?,1971 | 1973 | 1970,0,C) 1970,C,2,0
+152,when did the band where Brandon Curtis played first form?,1999 | 2000 | 2002,1,C) 2002,C,2,0
+153,when did the band where Esau Mwamwaya played first form?,2010 | 2008 | 2009,1,B) 2008,B,1,1
+154,when did the band where Fred Milano played first form?,1955 | 1958 | 1957,2,C) 1957,C,2,1
+155,when did the band where Andrea Corr played first form?,1992 | 1990 | 1991,1,C) 1991,C,2,0
+156,when did the band where Charlie Allen played first form?,1965 | 1966 | 1967,2,C) 1967,C,2,1
+157,when did the band where Johan Bergqvist played first form?,2005 | 2003 | 2004,0,C),C,2,0
+158,when did the band where Jeff Ament played first form?,2014 | 2011 | 2012,2,B) 2011,B,1,0
+159,when did the band where Victor Krummenacher played first form?,1984 | 1986 | 1987,1,A) 1984,A,0,0
+160,when did the band where Alec MacKaye played first form?,1981 | 1980 | 1979,0,A) 1981,A,0,1
+161,when did the band where Viktor Rybin played first form?,1987 | 1989 | 1988,0,C),C,2,0
+162,when did the band where Cissy Houston played first form?,1963 | 1965 | 1962,0,C) 1962,C,2,0
+163,when did the band where Phil Smith played first form?,1979 | 1980 | 1982,1,C),C,2,0
+164,when did the band where Rick Froberg played first form?,2005 | 2008 | 2006,2,C),C,2,1
+165,when did the band where Antti Kokko played first form?,1993 | 1994 | 1996,1,C),C,2,0
+166,when did the band where Kristy Thirsk played first form?,1991 | 1992 | 1993,2,A) 1991,A,0,0
+167,when did the band where Stuart Cable played first form?,1993 | 1992 | 1990,1,B) 1992,B,1,1
+168,when did the band where Chosuke Ikariya played first form?,1956 | 1955 | 1954,0,A) 1956,A,0,1
+169,when did the band where Andrew Wood played first form?,1988 | 1989 | 1987,2,C) 1987,C,2,1
+170,when did the band where Andrew McMahon played first form?,2000 | 1998 | 1997,1,B) 1998,B,1,1
+171,when did the band where Midnight played first form?,1984 | 1982 | 1981,1,C) 1981,C,2,0
+172,when did the band where Jon Mueller played first form?,1998 | 1997 | 1999,1,B) 1997,B,1,1
+173,when did the band where Cam DiNunzio played first form?,1998 | 1999 | 2000,2,A) 1998,A,0,0
+174,when did the band where Drew Daniel played first form?,1995 | 1996 | 1997,0,A) 1995,A,0,1
+175,when did the band where Tito Jackson played first form?,1983 | 1986 | 1985,2,C),C,2,1
+176,when did the band where Jin Takuma played first form?,1986 | 1988 | 1985,0,C),C,2,0
+177,when did the band where Sarah Michelle played first form?,2006 | 2008 | 2007,1,C),C,2,0
+178,when did the band where Marlon Jackson played first form?,1964 | 1962 | 1965,0,B) 1962,B,1,0
+179,when did the band where Krystl played first form?,2017 | 2016 | 2015,0,C) 2015,C,2,0
+180,when did the band where Glenn Tilbrook played first form?,1974 | 1972 | 1973,0,C) 1973,C,2,0
+181,when did the band where LeToya Luckett played first form?,1989 | 1990 | 1992,1,C) 1992,C,2,0
+182,when did the band where Keith Lamb played first form?,1970 | 1973 | 1971,2,C) 1971,C,2,1
+183,when did the band where Carl Restivo played first form?,1984 | 1985 | 1983,1,C),C,2,0
+184,when did the band where Trilok Gurtu played first form?,1970 | 1971 | 1972,0,A) 1970,A,0,1
+185,when did the band where Kim Simmonds played first form?,1965 | 1964 | 1967,0,B) 1964,B,1,0
+186,when did the band where Kaspar Boye Larsen played first form?,2001 | 1999 | 2002,0,B) 1999,B,1,0
+187,when did the band where Pino Daniele played first form?,1975 | 1973 | 1976,0,B) 1973,B,1,0
+188,when did the band where Takagi Bū played first form?,1955 | 1954 | 1956,2,B) 1954,B,1,0
+189,when did the band where Lars Emmelthun played first form?,2011 | 2012 | 2010,2,C),C,2,1
+190,when did the band where Toby Slater played first form?,1995 | 1997 | 1998,1,B) 1997,B,1,1
+191,when did the band where Jaki Liebezeit played first form?,1968 | 1966 | 1967,0,C) 1967,C,2,0
+192,when did the band where Vincent Bennett played first form?,2001 | 1999 | 2002,0,B) 1999,B,1,0
+193,when did the band where Rachel Ortas played first form?,1987 | 1988 | 1986,2,C),C,2,1
+194,when did the band where Stevie Wonder played first form?,1983 | 1984 | 1985,2,A) 1983,A,0,0
+195,when did the band where Malcolm Mooney played first form?,1970 | 1968 | 1969,1,C) 1969,C,2,0
+196,when did the band where Richard Manuel played first form?,1956 | 1955 | 1957,2,B) 1955,B,1,0
+197,when did the band where Irmin Schmidt played first form?,1970 | 1969 | 1968,2,B) 1969,B,1,0
+198,when did the band where Ad-Rock played first form?,1993 | 1991 | 1992,1,B) 1991,B,1,1
+199,when did the band where Per Lidén played first form?,1997 | 1998 | 1999,2,A) 1997,A,0,0
+200,when did the band where Michal Dvořák played first form?,1984 | 1985 | 1987,1,C),C,2,0
+201,when did the band where Arnaud Joyet played first form?,1994 | 1996 | 1995,1,C),C,2,0
+202,when did the band where Joe Lally played first form?,1987 | 1986 | 1985,0,B) 1986,B,1,0
+203,when did the band where Greg Sage played first form?,1977 | 1975 | 1978,0,B) 1975,B,1,0
+204,when did the band where Scott Kelly played first form?,1986 | 1987 | 1985,2,C) 1985,C,2,1
+205,when did the band where Todd Smith played first form?,2008 | 2007 | 2009,1,B) 2007,B,1,1
+206,when did the band where Eugene Chadbourne played first form?,1981 | 1984 | 1982,2,C),C,2,1
+207,when did the band where MC Raaka Pee played first form?,2005 | 2004 | 2006,2,B),B,1,0
+208,when did the band where Luboš Andršt played first form?,1973 | 1974 | 1971,0,C) 1971,C,2,0
+209,when did the band where Joe Amoruso played first form?,1974 | 1975 | 1973,1,C),C,2,0
+210,when did the band where Björn Ulvaeus played first form?,1972 | 1974 | 1971,0,C),C,2,0
+211,when did the band where Dakota Ringer played first form?,2012 | 2013 | 2015,1,A) 2012,A,0,0
+212,when did the band where Tracy G played first form?,1984 | 1985 | 1983,1,C),C,2,0
+213,when did the band where Anthony Reynolds played first form?,1993 | 1994 | 1992,2,C) 1992,C,2,1
+214,when did the band where Jamie Hooper played first form?,2002 | 2000 | 1999,1,A) 2002,A,0,0
+215,when did the band where Colin Petersen played first form?,1968 | 1969 | 1970,2,B) 1969,B,1,0
+216,when did the band where Andrew Dost played first form?,2002 | 2001 | 2000,2,A) 2002,A,0,0
+217,when did the band where Titó played first form?,1999 | 2000 | 1998,1,C),C,2,0
+218,when did the band where Tetsuo Sakurai played first form?,1989 | 1992 | 1990,2,C) 1990,C,2,1
+219,when did the band where Marsu played first form?,1980 | 1977 | 1978,2,C),C,2,1
+220,when did the band where Blas Cantó Moreno played first form?,2009 | 2011 | 2010,0,C) 2010,C,2,0
+221,when did the band where Waylon Jennings played first form?,1985 | 1986 | 1987,0,A) 1985,A,0,1
+222,when did the band where Elias Bender Rønnenfelt played first form?,2008 | 2010 | 2009,0,C) 2009,C,2,0
+223,when did the band where Dominique Leurquin played first form?,1991 | 1993 | 1994,1,B) 1993,B,1,1
+224,when did the band where Anthony D'Juan played first form?,2008 | 2006 | 2009,0,B) 2006,B,1,0
+225,when did the band where Cha Katō played first form?,1956 | 1955 | 1958,0,B) 1955,B,1,0
+226,when did the band where Clay Tarver played first form?,1987 | 1985 | 1986,0,C) 1986,C,2,0
+227,when did the band where Rino Zurzolo played first form?,1973 | 1974 | 1975,2,A) 1973,A,0,0
+228,when did the band where Kelly Rowland played first form?,1988 | 1990 | 1991,1,C) 1991,C,2,0
+229,when did the band where Billy Kilson played first form?,1975 | 1973 | 1974,0,C),C,2,0
+230,when did the band where Marcel Schirmer played first form?,1989 | 1990 | 1991,0,A) 1989,A,0,1
+231,when did the band where Billy Kinsley played first form?,1977 | 1976 | 1975,2,B) 1976,B,1,0
+232,when did the band where Leisha Hailey played first form?,1993 | 1991 | 1992,1,B) 1991,B,1,1
+233,when did the band where Peter Luts played first form?,2007 | 2010 | 2008,2,C),C,2,1
+234,when did the band where Jackie Jackson played first form?,1965 | 1964 | 1966,1,B) 1964,B,1,1
+235,when did the band where Álvaro Guzmán Gómora played first form?,1967 | 1968 | 1966,1,C) 1966,C,2,0
+236,when did the band where Andy Tillison played first form?,2002 | 2004 | 2001,0,C),C,2,0
+237,when did the band where Hiroshi Matsuda played first form?,1986 | 1988 | 1985,0,C),C,2,0
+238,who is the spouse of the actor that played in To Kill a Mockingbird?,Werner Klemperer | Stanley Kubrick | Werner Krauss,0,A),A,0,1
+239,who is the spouse of the actor that played in La storia di un peccato?,Candice King | Carmine Gallone | Jane Fonda,1,B),B,1,1
+240,who is the spouse of the actor that played in Don's Plum?,Katy Perry | Romy Schneider | Beck,2,C),C,2,1
+241,who is the spouse of the actor that played in What Have You Done to Solange??,Marcello Mastroianni | Peter Lee Lawrence | Brad Paisley,1,B),B,1,1
+242,who is the spouse of the actor that played in Olympia?,Emmy Göring | Brad Paisley | Peter Lee Lawrence,0,C),C,2,0
+243,who is the spouse of the actor that played in Bunshinsaba?,Georges Duhamel | Emperor Gaozong of Tang | Hideaki Anno,1,C),C,2,0
+244,who is the spouse of the actor that played in A Midsummer Night's Dream?,Amitabh Bachchan | Phoebe Cates Kline | Miloš Kopecký,1,B),B,1,1
+245,who is the spouse of the actor that played in Cinématon?,Werner Klemperer | Peter DeLuise | Margarethe von Trotta,2,C),C,2,1
+246,who is the spouse of the actor that played in Zoolander?,Eric Lobron | Willy Fritsch | Henri Verneuil,0,A) Eric Lobron,A,0,1
+247,who is the spouse of the actor that played in Three Girls Spinning?,Gustav von Wangenheim | Akira Kurosawa | Joachim Kerzel,2,C),C,2,1
+248,who is the spouse of the actor that played in Friends & Lovers?,Candice King | Matthew Vaughn | Katy Perry,1,B),B,1,1
+249,who is the spouse of the actor that played in Sotto le tombe?,Jane Fonda | Carmine Gallone | Beck,1,B),B,1,1
+250,who is the spouse of the actor that played in The Blackout?,Matthew Vaughn | Carmine Gallone | Katy Perry,0,A) Matthew Vaughn,A,0,1
+251,who is the spouse of the actor that played in One Who Set Forth: Wim Wenders' Early Years?,Jack Hawkins | Václav Havel | Wim Wenders,2,C),C,2,1
+252,who is the spouse of the actor that played in Napoléon II l'Aiglon?,Édith Piaf | Katy Perry | Jean-Claude Killy,2,C),C,2,1
+253,who is the spouse of the actor that played in Oh My God?,Edgar Selge | Countess Palatine Hedwig Elisabeth of Neuburg | Heidi Klum,2,C),C,2,1
+254,who is the spouse of the actor that played in Un garibaldino al convento?,Vittorio De Sica | Dwyane Wade | Louis Malle,0,A,A,0,1
+255,who is the spouse of the actor that played in Neo Ned?,Dwyane Wade | Louis Malle | Elsa Bassermann,0,C),C,2,0
+256,who is the spouse of the actor that played in La ciudad no es para mí?,Peter Lee Lawrence | Jean-Claude Killy | Brad Paisley,0,A) Peter Lee Lawrence,A,0,1
+257,who is the spouse of the actor that played in Out of Sight?,Dwyane Wade | Woody Allen | Marc Anthony,2,A) Dwyane Wade,A,0,0
+258,who is the spouse of the actor that played in Birgitt Haas Must Be Killed?,Wim Wenders | Woody Allen | Václav Havel,0,C),C,2,0
+259,who is the spouse of the actor that played in Otakus in Love?,Hideaki Anno | Gottfried Böhm | Emperor Gaozong of Tang,0,A),A,0,1
+260,who is the spouse of the actor that played in The Ball Player and the Bandit?,Carmine Gallone | Candice King | Matthew Vaughn,1,A),A,0,0
+261,who is the spouse of the actor that played in L'Homme au grand manteau?,Hideaki Anno | Georges Duhamel | Emperor Gaozong of Tang,1,B),B,1,1
+262,who is the spouse of the actor that played in Mountain Justice?,Candice King | Václav Havel | Jane Fonda,0,C),C,2,0
+263,who is the spouse of the actor that played in Aap Ke Liye Hum?,Phoebe Cates Kline | Amitabh Bachchan | Louis Malle,1,B),B,1,1
+264,who is the spouse of the actor that played in Husbands or Lovers?,Werner Krauss | Werner Klemperer | Franka Potente,0,B),B,1,0
+265,who is the spouse of the actor that played in Emilia Galotti?,Hermann Scherchen | Salvador Dalí | Ingmar Bergman,0,A),A,0,1
+266,who is the spouse of the actor that played in The Hit?,Jane Fonda | Candice King | Václav Havel,2,C),C,2,1
+267,who is the spouse of the actor that played in Ninety Degrees in the Shade?,Mary Steenburgen | Amitabh Bachchan | Miloš Kopecký,2,C),C,2,1
+268,who is the spouse of the actor that played in Una storia milanese?,Brad Paisley | Édith Piaf | Jean-Claude Killy,2,C),C,2,1
+269,who is the spouse of the actor that played in Jivin' in Be-Bop?,Vishnu | Joachim Kerzel | Ella Fitzgerald,2,B),B,1,0
+270,who is the spouse of the actor that played in Al lupo al lupo?,Vittorio De Sica | Dwyane Wade | Louis Malle,0,A) Vittorio De Sica,A,0,1
+271,who is the spouse of the actor that played in Judex?,Brad Paisley | Marcello Mastroianni | Édith Piaf,2,C),C,2,1
+272,who is the spouse of the actor that played in Forget the Drums?,Marcello Mastroianni | Jean-Claude Killy | Peter Lee Lawrence,2,C),C,2,1
+273,who is the spouse of the actor that played in Blink?,Jane Fonda | Brian Benben | Marlon Brando,1,B),B,1,1
+274,who is the spouse of the actor that played in A Royal Hangover?,Romy Schneider | Emmy Göring | Katy Perry,2,A),A,0,0
+275,who is the spouse of the actor that played in Fanny and Alexander?,Countess Palatine Hedwig Elisabeth of Neuburg | Ingmar Bergman | Edgar Selge,1,B),B,1,1
+276,who is the spouse of the actor that played in The Radio Marriage?,Werner Krauss | Werner Klemperer | Peter DeLuise,0,B),B,1,0
+277,who is the spouse of the actor that played in Counterparts?,Joachim Kerzel | Akira Kurosawa | Ella Fitzgerald,0,A,A,0,1
+278,who is the spouse of the actor that played in Hostel?,Ella Fitzgerald | Franka Potente | David Denman,1,B),B,1,1
+279,who is the spouse of the actor that played in A Doll Wife?,Matthew Vaughn | Carmine Gallone | Romy Schneider,1,C),C,2,0
+280,who is the spouse of the actor that played in Escape from Sahara?,Carmine Gallone | Emmy Göring | Romy Schneider,2,C),C,2,1
+281,who is the spouse of the actor that played in Sweet Kitty Bellairs?,Candice King | Romy Schneider | Carmine Gallone,0,B),B,1,0
+282,who is the spouse of the actor that played in Stimulantia?,Countess Palatine Hedwig Elisabeth of Neuburg | Hermann Scherchen | Ingmar Bergman,2,C),C,2,1
+283,who is the spouse of the actor that played in The World Is Not Enough?,Ella Fitzgerald | Gustav von Wangenheim | Edgar Selge,0,B) Gustav von Wangenheim,B,1,0
+284,who is the spouse of the actor that played in The Army Surgeon?,Romy Schneider | Jane Fonda | Candice King,2,A),A,0,0
+285,who is the spouse of the actor that played in My Little Girl?,Marc Anthony | Dwyane Wade | Woody Allen,0,C),C,2,0
+286,who is the spouse of the actor that played in Zpověď Dona Juana?,Carmine Gallone | Candice King | Václav Havel,2,C),C,2,1
+287,who is the spouse of the actor that played in Class of 1999?,Dario Argento | Phoebe Cates Kline | Mary Steenburgen,2,B) Phoebe Cates Kline,B,1,0
+288,who is the spouse of the actor that played in I Love You to Death?,Amitabh Bachchan | Louis Malle | Phoebe Cates Kline,2,C),C,2,1
+289,who is the spouse of the actor that played in The Most Beautiful?,Heidi Klum | Akira Kurosawa | Joachim Kerzel,1,C),C,2,0
+290,who is the spouse of the actor that played in Alraune?,Romy Schneider | Carmine Gallone | Matthew Vaughn,0,B),B,1,0
+291,"who is the spouse of the actor that played in East Side, West Side?",Frank Sinatra | Humphrey Bogart | Ronald Reagan,2,B) Humphrey Bogart,B,1,0
+292,who is the spouse of the actor that played in The Secret of Cavelli?,Countess Palatine Hedwig Elisabeth of Neuburg | Henri Verneuil | Willy Fritsch,2,C),C,2,1
+293,who is the spouse of the actor that played in Sleepless?,Jack Hawkins | Dwyane Wade | Elsa Bassermann,1,C),C,2,0
+294,who is the spouse of the actor that played in Y2K?,Gustav von Wangenheim | Peter DeLuise | Werner Krauss,1,B),B,1,1
+295,who is the spouse of the actor that played in Die Böhms - Architektur einer Familie?,Georges Duhamel | Henri Verneuil | Gottfried Böhm,2,C),C,2,1
+296,who is the spouse of the actor that played in Salvador Dalí?,Emperor Taizong of Tang | Salvador Dalí | Willy Fritsch,1,C),C,2,0
+297,who is the spouse of the actor that played in Love Happens?,Peter DeLuise | Franka Potente | Werner Krauss,0,B) Franka Potente,B,1,0
+298,who is the spouse of the actor that played in Sweetheart of the Gods?,Beck | Romy Schneider | Emmy Göring,1,B) Romy Schneider,B,1,1
+299,who is the spouse of the actor that played in Thedi Vandha Lakshmi?,Vishnu | Joachim Kerzel | Gustav von Wangenheim,0,A) Vishnu,A,0,1
+300,who is the spouse of the actor that played in Popstar: Never Stop Never Stopping?,Akira Kurosawa | Countess Palatine Hedwig Elisabeth of Neuburg | Heidi Klum,2,C),C,2,1
+301,who is the spouse of the actor that played in No Mercy?,Akira Kurosawa | Ella Fitzgerald | Gustav von Wangenheim,1,C),C,2,0
+302,who is the spouse of the actor that played in Cain and Mabel?,Matthew Vaughn | Carmine Gallone | Candice King,2,B),B,1,0
+303,who is the spouse of the actor that played in Pact with the Devil?,Dario Argento | Mary Steenburgen | Phoebe Cates Kline,1,C),C,2,0
+304,who is the spouse of the actor that played in Encounter in Salzburg?,Édith Piaf | Jean-Claude Killy | Peter Lee Lawrence,1,C),C,2,0
+305,who is the spouse of the actor that played in The Surgeon?,Phoebe Cates Kline | Mary Steenburgen | Ronald Reagan,1,A) Phoebe Cates Kline,A,0,0
+306,who is the spouse of the actor that played in Meherjaan?,Louis Malle | Amitabh Bachchan | Vittorio De Sica,1,B),B,1,1
+307,who is the spouse of the actor that played in San Quentin?,Matthew Vaughn | Candice King | Carmine Gallone,1,C),C,2,0
+308,who is the spouse of the actor that played in Giovannino?,Phoebe Cates Kline | Louis Malle | Vittorio De Sica,2,A) Phoebe Cates Kline,A,0,0
+309,who is the spouse of the actor that played in The Leech Woman?,Margarethe von Trotta | Werner Klemperer | Werner Krauss,1,B),B,1,1
+310,who is the spouse of the actor that played in Romance of a Horsethief?,Mary Steenburgen | Dario Argento | Amitabh Bachchan,1,A) Mary Steenburgen,A,0,0
+311,who is the spouse of the actor that played in September Eleven 1683?,Ingmar Bergman | Countess Palatine Hedwig Elisabeth of Neuburg | Willy Fritsch,1,C),C,2,0
+312,who is the spouse of the actor that played in Slightly Single in L.A.?,David Denman | Margarethe von Trotta | Werner Krauss,0,A) David Denman,A,0,1
+313,who is the spouse of the actor that played in Success?,Ingmar Bergman | Edgar Selge | Akira Kurosawa,1,B),B,1,1
+314,who is the spouse of the actor that played in The Cell?,Marc Anthony | Woody Allen | Jack Hawkins,0,B) Woody Allen,B,1,0
+315,who is the spouse of the actor that played in Across the Universe?,Emperor Taizong of Tang | Henri Verneuil | Eric Lobron,1,B),B,1,1
+316,who is the spouse of the actor that played in The Man in the Iron Mask?,Vittorio De Sica | Louis Malle | Elsa Bassermann,2,C),C,2,1
+317,who is the spouse of the actor that played in Und wieder 48?,Gustav von Wangenheim | Akira Kurosawa | Franka Potente,0,A) Gustav von Wangenheim,A,0,1
+318,who is the spouse of the actor that played in Frankie and Alice?,Vishnu | Gustav von Wangenheim | Peter DeLuise,2,C),C,2,1
+319,who is the spouse of the actor that played in Women's Sacrifice?,Woody Allen | Elsa Bassermann | Louis Malle,1,B),B,1,1
+320,"who is the spouse of the actor that played in Zítra to roztočíme, drahoušku...!?",Marlon Brando | Václav Havel | Jane Fonda,1,B) Václav Havel,B,1,1
+321,who is the spouse of the actor that played in Messalina vs. the Son of Hercules?,Amitabh Bachchan | Dario Argento | Miloš Kopecký,1,C),C,2,0
+322,who is the spouse of the actor that played in The Wild Angels?,Werner Klemperer | Margarethe von Trotta | David Denman,0,B),B,1,0
+323,who is the spouse of the actor that played in Bach in Brazil?,Heidi Klum | Edgar Selge | Joachim Kerzel,1,C),C,2,0
+324,who is the spouse of the actor that played in El Cantante?,Marc Anthony | Jack Hawkins | Elsa Bassermann,0,A),A,0,1
+325,who is the spouse of the actor that played in Shadow on the Wall?,Ronald Reagan | Frank Sinatra | Mary Steenburgen,0,C),C,2,0
+326,who is the spouse of the actor that played in Anamika?,Phoebe Cates Kline | Amitabh Bachchan | Vittorio De Sica,1,A) Phoebe Cates Kline,A,0,0
+327,who is the spouse of the actor that played in According to Spencer?,Matthew Vaughn | Romy Schneider | Beck,2,C),C,2,1
+328,who is the spouse of the actor that played in Life Without Dick?,Matthew Vaughn | Candice King | Romy Schneider,0,C),C,2,0
+329,who is the spouse of the actor that played in Mission to Moscow?,Beck | Brad Paisley | Emmy Göring,2,C),C,2,1
+330,who is the spouse of the actor that played in Underground?,Brad Paisley | Jean-Claude Killy | Emmy Göring,1,A),A,0,0
+331,who is the spouse of the actor that played in Wild Horses?,Jean-Claude Killy | Romy Schneider | Beck,2,C),C,2,1
+332,who is the spouse of the actor that played in The Bostonians?,Jack Hawkins | Wim Wenders | Brian Benben,0,C),C,2,0
+333,who is the spouse of the actor that played in Ace of Hearts?,Peter DeLuise | Vishnu | Franka Potente,0,A) Peter DeLuise,A,0,1
+334,who is the spouse of the actor that played in Upaharam?,Dario Argento | Phoebe Cates Kline | Amitabh Bachchan,2,B) Phoebe Cates Kline,B,1,0
+335,who is the spouse of the actor that played in Octane?,Wim Wenders | Brian Benben | Jack Hawkins,1,B),B,1,1
+336,who is the spouse of the actor that played in The Power of Few?,Gustav von Wangenheim | Franka Potente | Ella Fitzgerald,1,B) Franka Potente,B,1,1
+337,who is the spouse of the actor that played in Totsugu hi made?,Joachim Kerzel | Ella Fitzgerald | Akira Kurosawa,2,A),A,0,0
+338,who is the spouse of the actor that played in Valentino: The Last Emperor?,Romy Schneider | Matthew Vaughn | Katy Perry,1,B),B,1,1
+339,who is the spouse of the actor that played in Hitler in Hollywood?,Margarethe von Trotta | Peter DeLuise | Werner Klemperer,0,C),C,2,0
+340,who is the spouse of the actor that played in Fierce Creatures?,Louis Malle | Phoebe Cates Kline | Miloš Kopecký,1,B),B,1,1
+341,who is the spouse of the actor that played in On with the Motley?,Jane Fonda | Matthew Vaughn | Carmine Gallone,2,C),C,2,1
+342,who is the spouse of the actor that played in Three Veils?,Werner Krauss | Franka Potente | David Denman,2,A,A,0,0
+343,who is the spouse of the actor that played in Alibi Ike?,Candice King | Carmine Gallone | Václav Havel,0,B),B,1,0
+344,who is the spouse of the actor that played in Used People?,Jack Hawkins | Marc Anthony | Marlon Brando,0,C),C,2,0
+345,who is the spouse of the actor that played in Two Can Play That Game?,Jack Hawkins | Elsa Bassermann | Dwyane Wade,2,B),B,1,0
+346,who is the spouse of the actor that played in 100 Girls?,Beck | Emmy Göring | Matthew Vaughn,0,B),B,1,0
+347,who is the spouse of the actor that played in Der Kampf?,Vishnu | Franka Potente | Gustav von Wangenheim,2,C),C,2,1
+348,who is the spouse of the actor that played in I basilischi?,Édith Piaf | Marcello Mastroianni | Werner Klemperer,1,B),B,1,1
+349,who is the spouse of the actor that played in The Grand Budapest Hotel?,Brian Benben | Marlon Brando | Wim Wenders,2,C),C,2,1
+350,who is the spouse of the actor that played in As You Like It?,Miloš Kopecký | Phoebe Cates Kline | Louis Malle,1,B),B,1,1
+351,who is the spouse of the actor that played in Girls Trip?,Louis Malle | Dwyane Wade | Woody Allen,1,B),B,1,1
+352,who is the spouse of the actor that played in In viaggio con papà?,Marcello Mastroianni | Édith Piaf | Stanley Kubrick,0,A,A,0,1
+353,who is the spouse of the actor that played in Avenging Angelo?,Brian Benben | Marlon Brando | Václav Havel,0,A) Brian Benben,A,0,1
+354,who is the spouse of the actor that played in Bad Boys II?,Dwyane Wade | Marc Anthony | Louis Malle,0,B),B,1,0
+355,who is the spouse of the actor that played in Another Stakeout?,Marlon Brando | Brian Benben | Jack Hawkins,1,B),B,1,1
+356,who is the spouse of the actor that played in An Unfinished Life?,Marc Anthony | Woody Allen | Elsa Bassermann,0,C),C,2,0
+357,who is the spouse of the actor that played in The Red Terror?,Peter DeLuise | Margarethe von Trotta | Werner Krauss,2,B),B,1,0
+358,who is the spouse of the actor that played in Let Sleeping Corpses Lie?,Édith Piaf | Peter Lee Lawrence | Marcello Mastroianni,1,B),B,1,1
+359,who is the spouse of the actor that played in Fury of Johnny Kid?,Jean-Claude Killy | Édith Piaf | Peter Lee Lawrence,2,C),C,2,1
+360,who is the spouse of the actor that played in The House of Smiles?,Vittorio De Sica | Amitabh Bachchan | Dwyane Wade,0,A) Vittorio De Sica,A,0,1
+361,who is the spouse of the actor that played in Jersey Girl?,Elsa Bassermann | Jack Hawkins | Marc Anthony,2,A),A,0,0
+362,who is the spouse of the actor that played in Hostel: Part II?,Franka Potente | Gustav von Wangenheim | Peter DeLuise,0,C),C,2,0
+363,who is the spouse of the actor that played in La residencia?,Marcello Mastroianni | Brad Paisley | Peter Lee Lawrence,2,C),C,2,1
+364,who is the spouse of the actor that played in Black and White?,Matthew Vaughn | Beck | Katy Perry,0,B),B,1,0
+365,who is the spouse of the actor that played in Day for My Love?,Marlon Brando | Václav Havel | Brian Benben,1,C),C,2,0
+366,who is the spouse of the actor that played in Thyagam?,Joachim Kerzel | Peter DeLuise | Vishnu,2,C) Vishnu,C,2,1
+367,who is the spouse of the actor that played in The Raging Moon?,Mary Steenburgen | Humphrey Bogart | Miloš Kopecký,0,C),C,2,0
+368,who is the spouse of the actor that played in La vie est belle?,Phoebe Cates Kline | Vittorio De Sica | Elsa Bassermann,1,C),C,2,0
+369,who is the spouse of the actor that played in We Were Soldiers?,Brian Benben | Wim Wenders | Jack Hawkins,0,A) Brian Benben,A,0,1
+370,who is the spouse of the actor that played in Wasteland?,Peter Lee Lawrence | Édith Piaf | Jean-Claude Killy,2,A) Peter Lee Lawrence,A,0,0
+371,who is the spouse of the actor that played in China Moon?,Jane Fonda | Václav Havel | Brian Benben,2,C),C,2,1
+372,who is the spouse of the actor that played in Old Heidelberg?,Matthew Vaughn | Romy Schneider | Beck,1,B),B,1,1
+373,who is the spouse of the actor that played in Marcella?,Matthew Vaughn | Jane Fonda | Carmine Gallone,2,A) Matthew Vaughn,A,0,0
+374,who is the spouse of the actor that played in Killer's Kiss?,Marcello Mastroianni | Werner Krauss | Stanley Kubrick,2,C),C,2,1
+375,who is the spouse of the actor that played in Hoegler's Mission?,Joachim Kerzel | Franka Potente | Gustav von Wangenheim,2,B) Franka Potente,B,1,0
+376,who is the spouse of the actor that played in Island of the Dead?,Mary Steenburgen | Humphrey Bogart | Phoebe Cates Kline,0,C),C,2,0
+377,who is the spouse of the actor that played in Above All Else in the World?,Werner Klemperer | Peter DeLuise | Werner Krauss,2,C),C,2,1
+378,who is the spouse of the actor that played in Best Friends?,Wim Wenders | Jack Hawkins | Woody Allen,1,C),C,2,0
+379,who is the spouse of the actor that played in Guddi?,Elsa Bassermann | Amitabh Bachchan | Phoebe Cates Kline,1,B),B,1,1
+380,who is the spouse of the actor that played in Shoot Twice?,Peter Lee Lawrence | Édith Piaf | Marcello Mastroianni,0,B) Édith Piaf,B,1,0
+381,who is the spouse of the actor that played in Judoka-Secret Agent?,Amitabh Bachchan | Dario Argento | Vittorio De Sica,1,A) Amitabh Bachchan,A,0,0
+382,who is the spouse of the actor that played in The Killer Must Kill Again?,Peter Lee Lawrence | Andy Roddick | Brad Paisley,0,A),A,0,1
+383,who is the spouse of the actor that played in Just Go with It?,Andy Roddick | Stanley Kubrick | Werner Klemperer,0,A),A,0,1
+384,who is the spouse of the actor that played in Something of Value?,Werner Klemperer | Margarethe von Trotta | Werner Krauss,0,B),B,1,0
+385,who is the spouse of the actor that played in Zanjeer?,Phoebe Cates Kline | Amitabh Bachchan | Louis Malle,1,B),B,1,1
+386,who is the spouse of the actor that played in Catwalk?,Romy Schneider | Beck | Matthew Vaughn,2,B),B,1,0
+387,who is the spouse of the actor that played in Indian Summer?,Brad Paisley | Jean-Claude Killy | Marcello Mastroianni,0,A),A,0,1
+388,who is the spouse of the actor that played in Lights and Shadows?,Vittorio De Sica | Louis Malle | Dwyane Wade,0,A,A,0,1
+389,who is the spouse of the actor that played in Hemingway's Adventures of a Young Man?,Jack Hawkins | Marlon Brando | Wim Wenders,0,B) Marlon Brando,B,1,0
+390,who is the spouse of the actor that played in Forgetting Sarah Marshall?,Beck | Katy Perry | Emmy Göring,1,B),B,1,1
+391,who is the spouse of the actor that played in The Slugger's Wife?,Candice King | Jane Fonda | Václav Havel,1,B) Jane Fonda,B,1,1
+392,who is the spouse of the actor that played in Le Pavé de Paris?,Édith Piaf | Peter Lee Lawrence | Jean-Claude Killy,2,B),B,1,0
+393,who is the spouse of the actor that played in Honky Tonk Freeway?,Jack Hawkins | Marc Anthony | Wim Wenders,0,A) Jack Hawkins,A,0,1
+394,who is the spouse of the actor that played in You Are a Widow?,Mary Steenburgen | Miloš Kopecký | Dario Argento,1,B),B,1,1
+395,who is the spouse of the actor that played in Kicking and Screaming?,Beck | Emmy Göring | Katy Perry,0,B),B,1,0
+396,who is the spouse of the actor that played in Parker?,Woody Allen | Wim Wenders | Marc Anthony,2,C),C,2,1
+397,who is the spouse of the actor that played in The Tempest?,Beck | Katy Perry | Brad Paisley,1,C),C,2,0
+398,who is the spouse of the actor that played in Closet Land?,Marlon Brando | Jane Fonda | Brian Benben,2,C),C,2,1
+399,who is the spouse of the actor that played in Rules Don't Apply?,Andy Roddick | Marcello Mastroianni | Stanley Kubrick,0,A) Andy Roddick,A,0,1
+400,who is the spouse of the actor that played in Normal?,Václav Havel | Marlon Brando | Candice King,0,C),C,2,0
+401,who is the spouse of the actor that played in The Terror of Rome Against the Son of Hercules?,Miloš Kopecký | Dario Argento | Mary Steenburgen,1,A) Miloš Kopecký,A,0,0
+402,who is the spouse of the actor that played in With Lee in Virginia?,Matthew Vaughn | Candice King | Romy Schneider,1,C),C,2,0
+403,who is the spouse of the actor that played in Show Boat?,Ronald Reagan | Frank Sinatra | Humphrey Bogart,1,A),A,0,0
+404,who is the spouse of the actor that played in Red Sands?,Vishnu | Peter DeLuise | David Denman,2,B),B,1,0
+405,who is the spouse of the actor that played in Kasethan Kadavulada?,Vishnu | Ella Fitzgerald | Franka Potente,0,A) Vishnu,A,0,1
+406,who is the spouse of the actor that played in Happy End?,Miloš Kopecký | Amitabh Bachchan | Mary Steenburgen,0,C),C,2,0
+407,who is the spouse of the actor that played in Moonlight on the Prairie?,Candice King | Carmine Gallone | Matthew Vaughn,0,B),B,1,0
+408,who is the spouse of the actor that played in The Faces of Love?,Candice King | Jane Fonda | Carmine Gallone,2,C),C,2,1
+409,who is the spouse of the actor that played in Nevinné lži?,Václav Havel | Brian Benben | Jane Fonda,0,B),B,1,0
+410,who is the spouse of the actor that played in Senza colpa!?,Matthew Vaughn | Candice King | Carmine Gallone,2,C),C,2,1
+411,"who is the spouse of the actor that played in Léon Morin, Priest?",Margarethe von Trotta | David Denman | Stanley Kubrick,0,A),A,0,1
+412,who is the spouse of the actor that played in Sniper: Legacy?,David Denman | Margarethe von Trotta | Franka Potente,0,C),C,2,0
+413,who is the spouse of the actor that played in Django Kill?,Dario Argento | Amitabh Bachchan | Phoebe Cates Kline,0,C),C,2,0
+414,who is the spouse of the actor that played in Hvězda jede na jih?,Phoebe Cates Kline | Miloš Kopecký | Dario Argento,1,B),B,1,1
+415,who is the spouse of the actor that played in The Big Chill?,Louis Malle | Amitabh Bachchan | Phoebe Cates Kline,2,C),C,2,1
+416,who is the spouse of the actor that played in Richie Rich?,Katy Perry | Carmine Gallone | Matthew Vaughn,2,B),B,1,0
+417,who is the spouse of the actor that played in Berlin-Alexanderplatz?,Margarethe von Trotta | Peter DeLuise | Werner Krauss,2,A),A,0,0
+418,who is the spouse of the actor that played in The War at Home?,Peter Lee Lawrence | Jean-Claude Killy | Brad Paisley,2,C),C,2,1
+419,who is the spouse of the actor that played in Simpatico?,Édith Piaf | Brad Paisley | Emmy Göring,1,C),C,2,0
+420,who is the spouse of the actor that played in De-Lovely?,Phoebe Cates Kline | Vittorio De Sica | Amitabh Bachchan,0,A),A,0,1
+421,who is the spouse of the actor that played in Fiza?,Elsa Bassermann | Amitabh Bachchan | Vittorio De Sica,1,B) Amitabh Bachchan,B,1,1
+422,who is the spouse of the actor that played in To Have and Have Not?,Humphrey Bogart | Mary Steenburgen | Ronald Reagan,0,A) Humphrey Bogart,A,0,1
+423,who is the spouse of the actor that played in Whistle Stop?,Frank Sinatra | Ronald Reagan | Humphrey Bogart,0,C),C,2,0
+424,"who is the spouse of the actor that played in 666 – Traue keinem, mit dem du schläfst!?",Matthew Vaughn | Romy Schneider | Katy Perry,0,B),B,1,0
+425,who is the spouse of the actor that played in The Little Hut?,Charlie Chaplin | Ronald Reagan | Frank Sinatra,2,B),B,1,0
+426,who is the spouse of the actor that played in Foreign Correspondent?,Elsa Bassermann | Marc Anthony | Vittorio De Sica,0,A) Elsa Bassermann,A,0,1
+427,who is the spouse of the actor that played in Reeker?,Franka Potente | David Denman | Gustav von Wangenheim,0,B) David Denman,B,1,0
+428,who is the spouse of the actor that played in Roy Colt and Winchester Jack?,Dario Argento | Miloš Kopecký | Amitabh Bachchan,0,B) Miloš Kopecký,B,1,0
+429,who is the spouse of the actor that played in A Star for Two?,Miloš Kopecký | Humphrey Bogart | Mary Steenburgen,1,C),C,2,0
+430,who is the spouse of the actor that played in Among Wolves?,Václav Havel | Jack Hawkins | Wim Wenders,2,B),B,1,0
+431,who is the spouse of the actor that played in Beach House?,Marcello Mastroianni | Édith Piaf | Stanley Kubrick,0,A,A,0,1
+432,who is the spouse of the actor that played in The Triumph of Hercules?,Phoebe Cates Kline | Miloš Kopecký | Dario Argento,2,B),B,1,0
+433,who is the spouse of the actor that played in Bansi Birju?,Amitabh Bachchan | Elsa Bassermann | Phoebe Cates Kline,0,B),B,1,0
+434,who is the spouse of the actor that played in Flight from Ashiya?,Jean-Claude Killy | Katy Perry | Emmy Göring,0,C),C,2,0
+435,who is the spouse of the actor that played in Say Uncle?,Jack Hawkins | Louis Malle | Dwyane Wade,2,A) Jack Hawkins,A,0,0
+436,who is the spouse of the actor that played in Professor Imhof?,Dwyane Wade | Elsa Bassermann | Woody Allen,1,B),B,1,1
+437,who is the spouse of the actor that played in Lovesong?,Stanley Kubrick | Werner Klemperer | Andy Roddick,2,C),C,2,1
+438,who is the spouse of the actor that played in Ek Nazar?,Amitabh Bachchan | Elsa Bassermann | Dario Argento,0,B),B,1,0
+439,who is the spouse of the actor that played in Camille 2000?,Jean-Claude Killy | Peter Lee Lawrence | Brad Paisley,0,B),B,1,0
+440,who is the spouse of the actor that played in Poslední propadne peklu?,Candice King | Brian Benben | Václav Havel,2,B),B,1,0
+441,who is the spouse of the actor that played in The Shanghai Gesture?,Elsa Bassermann | Vittorio De Sica | Woody Allen,0,A) Elsa Bassermann,A,0,1
+442,who is the spouse of the actor that played in My Family?,Marc Anthony | Jack Hawkins | Woody Allen,0,B),B,1,0
+443,who is the spouse of the actor that played in Hardcore?,Ronald Reagan | Mary Steenburgen | Miloš Kopecký,1,B),B,1,1
+444,who is the spouse of the actor that played in The Moon and Sixpence?,Vittorio De Sica | Louis Malle | Elsa Bassermann,2,C),C,2,1
+445,who is the spouse of the actor that played in Triumph Over Violence?,Katy Perry | Emmy Göring | Jean-Claude Killy,1,B) Emmy Göring,B,1,1
+446,who is the spouse of the actor that played in Brand: A Second Coming?,Katy Perry | Brad Paisley | Emmy Göring,0,C),C,2,0
+447,who is the spouse of the actor that played in Ride or Die?,Marc Anthony | Dwyane Wade | Jack Hawkins,1,B),B,1,1
+448,who is the spouse of the actor that played in Solitudine?,Humphrey Bogart | Ronald Reagan | Charlie Chaplin,1,A,A,0,0
+449,who is the spouse of the actor that played in Special Agent?,Matthew Vaughn | Candice King | Romy Schneider,1,C),C,2,0
+450,who is the spouse of the actor that played in Two Girls and a Sailor?,Humphrey Bogart | Ronald Reagan | Frank Sinatra,2,B),B,1,0
+451,who is the spouse of the actor that played in A Dispatch from Reuter's?,Marc Anthony | Dwyane Wade | Elsa Bassermann,2,C),C,2,1
+452,where is the headquarters of the company that Robert Pierce established located?,Curitiba | Porto Alegre | Recife,2,A) Curitiba,A,0,0
+453,where is the headquarters of the company that Fred Rwigyema established located?,Kigali | Medina | Tbilisi,0,A) Kigali,A,0,1
+454,where is the headquarters of the company that Daisaku Ikeda established located?,Olympia | Rosemead | Aliso Viejo,2,B) Rosemead,B,1,0
+455,where is the headquarters of the company that Bill Putnam established located?,Hartford | Lindon | Scotts Valley,2,B) Lindon,B,1,0
+456,where is the headquarters of the company that Bento Munhoz da Rocha Neto established located?,Curitiba | Santana de Parnaíba | Porto Alegre,0,B) Santana de Parnaíba,B,1,0
+457,where is the headquarters of the company that Roger Payne established located?,Southampton | Gloucester | Cambridge,1,C),C,2,0
+458,where is the headquarters of the company that Laurance Rockefeller established located?,"Baltimore | Washington, D.C. | Detroit",1,B),B,1,1
+459,where is the headquarters of the company that Edwin H. Land established located?,Aliso Viejo | Concord | Englewood,1,A) Aliso Viejo,A,0,0
+460,where is the headquarters of the company that Jalil Mammadguluzadeh established located?,Recife | Munich | Tabriz,2,C) Tabriz,C,2,1
+461,where is the headquarters of the company that Semyon Levin established located?,Moscow | Mumbai | Istanbul,0,A) Moscow,A,0,1
+462,where is the headquarters of the company that Václav Laurin established located?,Mladá Boleslav | Brno | Plzeň,0,A) Mladá Boleslav,A,0,1
+463,where is the headquarters of the company that Theodor Fleitmann established located?,Quakenbrück | Schwerte | Iserlohn,1,A) Quakenbrück,A,0,0
+464,where is the headquarters of the company that Oliver Chace established located?,Omaha | Atlanta | Minneapolis,0,C) Minneapolis,C,2,0
+465,where is the headquarters of the company that Prince Hassan bin Talal established located?,Johannesburg | Amman | Casablanca,1,B) Amman,B,1,1
+466,where is the headquarters of the company that Samuel Cunard established located?,Torrance | Montgomery | Santa Clarita,2,A) Torrance,A,0,0
+467,where is the headquarters of the company that James E. Boyd established located?,Lawrenceville | Paradise | Oxford,0,A) Lawrenceville,A,0,1
+468,where is the headquarters of the company that Jesús Gil established located?,Madrid | Valencia | Marbella,2,B) Valencia,B,1,0
+469,where is the headquarters of the company that Jean-François-Maxime Raybaud established located?,Patras | Hollywood | Gloucester,0,C),C,2,0
+470,where is the headquarters of the company that Erich Paulun established located?,Hangzhou | Hong Kong | Shanghai,2,A) Hangzhou,A,0,0
+471,where is the headquarters of the company that Mainza Chona established located?,Budapest | Lusaka | Fukuoka,1,B) Lusaka,B,1,1
+472,where is the headquarters of the company that Jim Davis established located?,Delray Beach | Muncie | Rockville,1,B) Muncie,B,1,1
+473,where is the headquarters of the company that Jawaharlal Nehru established located?,Salem | Varanasi | Kakinada,2,A) Salem,A,0,0
+474,where is the headquarters of the company that Henry A. Wallace established located?,South Burlington | Oxford | Johnston,2,C),C,2,1
+475,where is the headquarters of the company that Filippo Aliquò Taverriti established located?,Varese | Pisa | Reggio Calabria,2,A) Varese,A,0,0
+476,where is the headquarters of the company that Steve Shelley established located?,Rosemead | Hoboken | Aliso Viejo,1,B),B,1,1
+477,where is the headquarters of the company that Toshio Suzuki established located?,Iwata | Koganei | Fukuoka,1,B) Koganei,B,1,1
+478,where is the headquarters of the company that Heinrich Ernemann established located?,Nuremberg | Dresden | Bremen,1,A) Nuremberg,A,0,0
+479,where is the headquarters of the company that Max Grundig established located?,Nuremberg | Bonn | Hanover,0,A) Nuremberg,A,0,1
+480,where is the headquarters of the company that Sidney Myer established located?,Khartoum | Casablanca | Melbourne,2,C),C,2,1
+481,where is the headquarters of the company that Birdman established located?,Miami | Atlanta | Colorado Springs,0,A) Miami,A,0,1
+482,where is the headquarters of the company that Paul Cameron established located?,New Orleans | Omaha | Colorado Springs,2,B) Omaha,B,1,0
+483,where is the headquarters of the company that John Marston established located?,Cambridge | Nottingham | Wolverhampton,2,A) Cambridge,A,0,0
+484,where is the headquarters of the company that Orlando Bonsignori established located?,Siena | Pisa | Varese,0,A) Siena,A,0,1
+485,where is the headquarters of the company that Gary Klein established located?,Toronto | Montreal | Waterloo,2,C) Waterloo,C,2,1
+486,where is the headquarters of the company that James Buchanan Duke established located?,North Las Vegas | Winston-Salem | Durham,2,B) Winston-Salem,B,1,0
+487,where is the headquarters of the company that Mary White Ovington established located?,Baltimore | Nashville | Atlanta,0,A) Baltimore,A,0,1
+488,where is the headquarters of the company that Michel Bauwens established located?,Breda | Rotterdam | Amsterdam,2,A) Breda,A,0,0
+489,where is the headquarters of the company that Lee Eyerly established located?,Salem | New Delhi | Varanasi,0,A) Salem,A,0,1
+490,where is the headquarters of the company that Ahmet Mithat Berberoğlu established located?,Woodbury | North Nicosia | Palo Alto,1,B) North Nicosia,B,1,1
+491,where is the headquarters of the company that Bernard Goldberg established located?,Liverpool | Manchester | Leicester,0,A) Liverpool,A,0,1
+492,where is the headquarters of the company that Leonard Bosack established located?,San Jose | San Diego | San Francisco,0,A) San Jose,A,0,1
+493,where is the headquarters of the company that Franjo Tuđman established located?,Valencia | Zagreb | Frankfurt,1,B) Zagreb,B,1,1
+494,where is the headquarters of the company that Paul Washer established located?,Radford | El Segundo | South Burlington,0,A) Radford,A,0,1
+495,where is the headquarters of the company that Vincenzo Scotti established located?,Milan | Turin | Naples,2,A) Milan,A,0,0
+496,where is the headquarters of the company that Assis Chateaubriand established located?,Recife | Porto Alegre | Brasília,2,A) Recife,A,0,0
+497,where is the headquarters of the company that Giovanni Agusta established located?,Varese | Pisa | Reggio Calabria,0,A) Varese,A,0,1
+498,where is the headquarters of the company that Honoratus established located?,Courbevoie | Rueil-Malmaison | Cannes,2,A) Courbevoie,A,0,0
+499,where is the headquarters of the company that G. G. Ponnambalam established located?,Valencia | Colombo | Frankfurt,1,B) Colombo,B,1,1

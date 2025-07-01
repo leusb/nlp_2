@@ -1,4 +1,4 @@
-"""Exercise 2.1
+"""Exercise 2.1 with modified datasets
 
 Supported: 
 - Local LLaMA model via Ollama HTTP API (http://localhost:11434/api/chat)
@@ -98,8 +98,8 @@ def evaluate_mc_qa(task_name,csv_flag=False, num_examples=10):
 
     if csv_flag:
         # Creating csv-output:
-        os.makedirs("results_2_1", exist_ok=True)
-        csv_path = f"results_2_1/{task_name}_llama3.csv"
+        os.makedirs("results_2_1_new", exist_ok=True)
+        csv_path = f"results_2_1_new/{task_name}_llama3.csv"
         csv_file = open(csv_path, mode="w", newline="", encoding="utf-8")
         csv_writer = csv.writer(csv_file)
         csv_writer.writerow(["index", "stem", "choices", "true_label", "model_reply", "extracted_key", "predicted_label", "correct"])
@@ -138,10 +138,11 @@ def evaluate_mc_qa(task_name,csv_flag=False, num_examples=10):
     return accuracy
 
 if __name__ == "__main__":
-    tasks = ["Property_Conjunction", "Taxonomy_Conjunction"]
+    # changed:
+    tasks = ["Property_Conjunction", "Encyclopedic_Composition"]
     scores = {}
     for task in tasks:
-        scores[task] = evaluate_mc_qa(task)
+        scores[task] = evaluate_mc_qa(task, True)
 
     # Plot the results
     plt.figure(figsize=(8, 5))

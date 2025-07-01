@@ -1,0 +1,484 @@
+index,stem,choices,true_label,model_reply,extracted_key,predicted_label,correct
+<built-in function id>,what usually used for fun and is usually located at toy store,exercising | salesperson | chess set,2,C,C,2,1
+<built-in function id>,what may cause sleep and usually used for entertainment,having rest | telling story | watching television show,2,C,C,2,1
+<built-in function id>,what has a prerequisite of go to movie and has a prerequisite of open book,see story | watch film | read,0,C,C,2,0
+<built-in function id>,what has a prerequisite of go to movies and has a prerequisite of open book,read | see story | see movie,1,C,C,2,0
+<built-in function id>,what usually used for relaxation and usually used for feeling good,becoming inebriated | helping | bean bag chair,0,C,C,2,0
+<built-in function id>,what has a prerequisite of open first and has a prerequisite of open window,breathe fresh air | jump out of window | read letter,1,C,C,2,0
+<built-in function id>,what has a subevent of learn and has a prerequisite of paying attention,attending lecture | do philosophy | enjoying film,0,A,A,0,1
+<built-in function id>,what has a prerequisite of get out of bed and has a subevent of drive,test car | wake up in morning | go to work,2,C,C,2,1
+<built-in function id>,what has a prerequisite of get out of bed and is motivated by a goal of earn money,wake up in morning | go to work | get job,1,B,B,1,1
+<built-in function id>,what has a subevent of get drunk and has a last subevent of swallow,drink alcohol | eat vegetables | attend rock concert,0,A,A,0,1
+<built-in function id>,what has a last subevent of swallow and has a prerequisite of go to bar,meet interesting people | chew food | drink alcohol,2,C,C,2,1
+<built-in function id>,what has a property of sticky and is usually located at supermarket,goods | tape | peanut butter,2,C,C,2,1
+<built-in function id>,what is part of scotland and is part of south dakota,aberdeen | pierre | glasgow,0,B,B,1,0
+<built-in function id>,what is part of scotland and is part of maryland,susquehanna | firth of clyde | aberdeen,2,A,A,0,0
+<built-in function id>,what has a subevent of watch television and usually used for making clothes,entertaining | knitting | sewing,1,C,C,2,0
+<built-in function id>,what may cause relax and usually used for making clothes,nylon | knitting | enjoying company of friends,1,B,B,1,1
+<built-in function id>,what usually used for making clothes and has a subevent of watching tv,nylon | knitting | eating breakfast in bed,1,B,B,1,1
+<built-in function id>,what is related to vertical and is related to honest,straight | trustworthy | steep,0,C,C,2,0
+<built-in function id>,what has a subevent of shake hands and has a subevent of smiling,reach tentative agreement | entertaining | meeting people,2,A,A,0,0
+<built-in function id>,what has a prerequisite of buy tickets and has a subevent of dance,hear music | see particular program | see band,2,B,B,1,0
+<built-in function id>,what has a prerequisite of buy ticket and has a subevent of dance,enjoy film | see band | listen to music,1,B,B,1,1
+<built-in function id>,what is related to group and is related to animal,tribe | pig | herd,2,C,C,2,1
+<built-in function id>,what usually used for racing and usually used for play,toy car | toy marble | bicycle,0,C,C,2,0
+<built-in function id>,what usually used for racing and is usually located at toy box,toy soldier | bicycle | toy car,2,C,C,2,1
+<built-in function id>,what is usually located at bedroom and is part of person,birth control pill | brain | chest,2,B,B,1,0
+<built-in function id>,what is part of person and usually used for storing things in,chest | right hand | pot,0,A,A,0,1
+<built-in function id>,what usually used for shaving and has a property of sharp,having shower | razor | sword,1,B,B,1,1
+<built-in function id>,what has a subevent of hear music and may cause sleep,having rest | attend classical concert | listening to radio,2,B,B,1,0
+<built-in function id>,what usually used for relaxation and has a prerequisite of ears,listening to radio | hearing testimony | bath,0,C,C,2,0
+<built-in function id>,what is related to positive and is related to destructive,destruction | affirmative | negative,2,B,B,1,0
+<built-in function id>,what has a prerequisite of have money and is motivated by a goal of look good,groom | buy shirt | buy presents for others,1,B,B,1,1
+<built-in function id>,what has a subevent of pay for and is motivated by a goal of look good,buy shirt | groom | buy house,0,B,B,1,0
+<built-in function id>,what has a prerequisite of go to store and is motivated by a goal of look good,buy food | groom | buy shirt,2,C,C,2,1
+<built-in function id>,what is related to warm and is related to congenial,compatible | friendly | hot,1,B,B,1,1
+<built-in function id>,what is related to warm and is related to gracious,summer | friendly | refined,1,C,C,2,0
+<built-in function id>,what may cause go to jail and has a subevent of tell lie,killing | committing perjury | tell story,1,B,B,1,1
+<built-in function id>,what is motivated by a goal of get in shape and has a subevent of breathe deeply,do exercises | breathing fresh air | jog,0,A,A,0,1
+<built-in function id>,what usually used for sitting and usually used for traveling,first class airplane seat | theater seat | air ticket,0,C,C,2,0
+<built-in function id>,what has a prerequisite of train and has a subevent of get tired,getting physical activity | compete | run twenty six miles,2,A,A,0,0
+<built-in function id>,what has a subevent of sit down and has a prerequisite of brush teeth,have rest | eat breakfast | kiss,1,B,B,1,1
+<built-in function id>,what has a prerequisite of go to kitchen and has a prerequisite of brush teeth,eat breakfast | kiss | cook meal,0,A,A,0,1
+<built-in function id>,what has a prerequisite of brush teeth and has a prerequisite of buy food,kiss | feed family | eat breakfast,2,C,C,2,1
+<built-in function id>,what is usually located at human body and is related to bad,sin | organ | disease,2,C,C,2,1
+<built-in function id>,what has a prerequisite of eyes and may cause entertained,looking through telescope | going to play | seeing movie,2,C,C,2,1
+<built-in function id>,what has a prerequisite of eyes and has a subevent of entertain,tell story | looking through telescope | seeing movie,2,C,C,2,1
+<built-in function id>,what has a prerequisite of eyes and usually used for being entertained,looking through telescope | seeing movie | going to movie,1,B,B,1,1
+<built-in function id>,what has four legs and has a property of fast,dogs | light speed | horses,2,A,A,0,0
+<built-in function id>,what is usually located at countryside and is capable of jump high,horses | athlete | farms,0,A,A,0,1
+<built-in function id>,what is usually located at countryside and has a property of fast,forest | light speed | horses,2,C,C,2,1
+<built-in function id>,what has a property of fast and has manes,male lions | light speed | horses,2,B,B,1,0
+<built-in function id>,what is related to world and has a property of round,globe | dartboards | web,0,A,A,0,1
+<built-in function id>,what may cause relaxation and has a subevent of sing,hearing music | knitting | playing guitar,0,B,B,1,0
+<built-in function id>,what has a subevent of sing and usually used for enjoying yourself,hearing music | playing guitar | copulating,0,A,A,0,1
+<built-in function id>,what has a subevent of sing and usually used for distraction,puzzle | playing guitar | hearing music,2,C,C,2,1
+<built-in function id>,what has a subevent of die and may cause wins,competing | fighting enemy | commit suicide,1,C,C,2,0
+<built-in function id>,what has a subevent of death and may cause wins,fighting enemy | killing people | competing,0,C,C,2,0
+<built-in function id>,what is motivated by a goal of hear music and has a prerequisite of plug in,listen to radio | use computer | see band,0,A,A,0,1
+<built-in function id>,what has a prerequisite of plug in and is motivated by a goal of entertains,listen to radio | use computer | see favorite show,0,C,C,2,0
+<built-in function id>,what usually used for paint and is part of electric motor,rotor | canvas | brush,2,C,C,2,1
+<built-in function id>,what has a subevent of get bored and has a prerequisite of buy one,read magazine | wait for | give gift,0,A,A,0,1
+<built-in function id>,what has a subevent of learn and has a prerequisite of buy one,reading newspaper | give gift | read magazine,2,C,C,2,1
+<built-in function id>,what has a subevent of compare prices and is usually located at town,shop | buying | bus stop,0,A,A,0,1
+<built-in function id>,what usually used for having hair cut and usually used for sitting,hairdresser chair | side chair | going to get haircut,0,A,A,0,1
+<built-in function id>,what is motivated by a goal of love and has a subevent of blush,lying | get married | meet girls,2,B,B,1,0
+<built-in function id>,what has a subevent of listen to music and has a prerequisite of buy ticket,studying | attend classical concert | fly in airplane,1,B,B,1,1
+<built-in function id>,what usually used for trying on clothes and is usually located at mall,fitting room | clothing store changing room | vending stand,1,A,A,0,0
+<built-in function id>,what has a property of bad and is usually located at war,selling out | bullets | killing,2,B,B,1,0
+<built-in function id>,what may cause guilt and is usually located at war,weapons | lying | killing,2,C,C,2,1
+<built-in function id>,what is usually located at war and has a property of wrong,everything know | killing | grenades,1,C,C,2,0
+<built-in function id>,what has a subevent of commit crime and has a subevent of lie,commit perjury | killing | pretend,0,A,A,0,1
+<built-in function id>,what has a subevent of masturbate and has a subevent of laugh,watching television | having shower | expressing how funny,0,C,C,2,0
+<built-in function id>,what is usually located at house and is part of cave,stalactite | wall | uncle,1,A,A,0,0
+<built-in function id>,what usually used for entertainment and has a subevent of use search engine,surfing web | performing | finding information,0,A,A,0,1
+<built-in function id>,what is usually located at pocket and usually used for drinking,pen | saloon | flask,2,C,C,2,1
+<built-in function id>,what is part of motor vehicle and is part of organ,piano keyboard | pedal | cooling system,1,B,B,1,1
+<built-in function id>,what is part of organ and is part of bicycle,pedal | mudguard | lobe,0,A,A,0,1
+<built-in function id>,what is motivated by a goal of relax and has a prerequisite of get into car,go to store | soak in hotspring | go for drive,2,C,C,2,1
+<built-in function id>,what is usually located at television and is usually located at newspaper,game shows | text | cartoons,2,B,B,1,0
+<built-in function id>,what may cause having good time and has a prerequisite of attention,watching movie | going to pub | memorising,0,C,C,2,0
+<built-in function id>,what may cause entertainment and has a prerequisite of time,watching movie | reading magazine | taking break,0,A,A,0,1
+<built-in function id>,what may cause laugh and has a subevent of falling asleep,reading book | seeing favorite show | watching movie,2,B,B,1,0
+<built-in function id>,what may cause laugh and has a prerequisite of time,watching movie | seeing favorite show | having lunch,0,A,A,0,1
+<built-in function id>,what has a subevent of fall asleep and has a prerequisite of buying ticket,taking in film | using television | watching movie,2,C,C,2,1
+<built-in function id>,what has a subevent of falling asleep and has a prerequisite of buying ticket,watching movie | seeing band | resting,0,C,C,2,0
+<built-in function id>,what has a subevent of falling asleep and has a prerequisite of time,watching movie | sitting on chair | waiting in line,0,A,A,0,1
+<built-in function id>,what has a prerequisite of buying ticket and has a prerequisite of time,seeing band | watching movie | having lunch,1,B,B,1,1
+<built-in function id>,what is related to pure and has a subevent of dust furniture,doing housework | processed | clean,2,C,C,2,1
+<built-in function id>,what is related to pure and is related to tidy,clean | groomed | processed,0,C,C,2,0
+<built-in function id>,what has a subevent of use soap and is related to decent,clean | modest | bathing,0,C,C,2,0
+<built-in function id>,what is related to size and is related to good,large | fit | moral,1,B,B,1,1
+<built-in function id>,what is related to good and is related to shape,fit | hexagon | obedient,0,A,A,0,1
+<built-in function id>,what is related to healthy and is related to exercise,power walk | wholesome | fit,2,C,C,2,1
+<built-in function id>,what is usually located at hospital and is usually located at cabinet,power screwdriver | nurses | medicine,2,C,C,2,1
+<built-in function id>,what is part of zimbabwe and is part of texas,lubbock | bulawayo | victoria,2,B,B,1,0
+<built-in function id>,what is part of zambia and is part of british columbia,zambezi | pacific northwest | victoria,2,C,C,2,1
+<built-in function id>,what is part of zambia and is part of texas,victoria | austin | zambezi,0,C,C,2,0
+<built-in function id>,what is part of australia and is part of texas,victoria | tasmania | san antonio,0,B,B,1,0
+<built-in function id>,what is usually located at toy store and is usually located at garage,wagon | board games | pail,0,A,A,0,1
+<built-in function id>,what has a subevent of shake hands and may cause happiness,reach tentative agreement | seeing idea become reality | meeting friend,2,C,C,2,1
+<built-in function id>,what is usually located at cellar and is usually located at petstore,ferret | rats | wine bottle,1,C,C,2,0
+<built-in function id>,what is usually located at cellar and is capable of spread disease,mosquitoes | wine bottle | rats,2,C,C,2,1
+<built-in function id>,what is usually located at petstore and is capable of spread disease,germs | ferret | rats,2,A,A,0,0
+<built-in function id>,what is the opposite of lose and is related to locate,find | gain | location,0,A,A,0,1
+<built-in function id>,what usually used for having fun and has a subevent of get wet,going to film | walking in rain | surfing,2,C,C,2,1
+<built-in function id>,what is related to deny and is usually located at dump,trash | denial | refuse,2,A,A,0,0
+<built-in function id>,what may cause learning and has a subevent of fall asleep,attending school | having rest | reading book,2,B,B,1,0
+<built-in function id>,what may cause learning and has a property of fun,sports | memorising | reading book,2,A,A,0,0
+<built-in function id>,what has a subevent of falling asleep and may cause learn,resting | reading book | teaching other people,1,A,A,0,0
+<built-in function id>,what may cause learn and has a subevent of fall asleep,watching tv | teaching other people | reading book,2,A,A,0,0
+<built-in function id>,what has a subevent of fall asleep and has a property of fun,reading book | resting | table tennis,0,C,C,2,0
+<built-in function id>,what has a subevent of learning and may cause entertained,going to movie | examine thing | seeing story,2,B,B,1,0
+<built-in function id>,what is part of electromagnetic spectrum and is usually located at attic,medium frequency | insulation | light,2,A,A,0,0
+<built-in function id>,what may cause death and may cause sometimes bad,coffin | living | changing society,1,B,B,1,1
+<built-in function id>,what is part of oregon and is part of massachusetts,salem | pacific northwest | berkshires,0,C,C,2,0
+<built-in function id>,what is part of oregon and is part of india,portland | hindustan | salem,2,B,B,1,0
+<built-in function id>,what is part of massachusetts and is part of india,salem | bangalore | concord,0,B,B,1,0
+<built-in function id>,what has a subevent of dust furniture and usually used for exercise,clean | climbing mountain | doing housework,2,C,C,2,1
+<built-in function id>,what is usually located at hockey game and is capable of time races,stopwatches | referees | fan,1,A,A,0,0
+<built-in function id>,what is related to behavior and is related to smoking,manners | habit | tobacco,1,B,B,1,1
+<built-in function id>,what is related to behavior and is related to nun,monk | habit | manners,1,B,B,1,1
+<built-in function id>,what is related to action and is related to nun,habit | wash | monk,0,C,C,2,0
+<built-in function id>,what is related to smoking and is related to nun,tobacco | monk | habit,2,C,C,2,1
+<built-in function id>,what is related to smoking and is related to bad,habit | danger | cigarette,0,A,A,0,1
+<built-in function id>,what is related to nun and is related to addiction,habit | monk | addictive,0,B,B,1,0
+<built-in function id>,what is related to nun and is related to bad,habit | disobedient | monk,0,A,A,0,1
+<built-in function id>,what usually used for getting revenge and may cause sadness,hurting else | hearing news | punching,0,A,A,0,1
+<built-in function id>,what has a subevent of dying and has a subevent of breaking leg,jumping out of window | ski | fight war,0,C,C,2,0
+<built-in function id>,what usually used for preventing pregnancy and is usually located at sock drawer,condom | socks and underwear | contraceptive,0,C,C,2,0
+<built-in function id>,what usually used for protection and is usually located at pharmacy,condom | lock | dandruff shampoo,0,A,A,0,1
+<built-in function id>,what has a prerequisite of get money and has a prerequisite of hungry,buy presents | buy hamburger | have lunch,1,B,B,1,1
+<built-in function id>,what has a prerequisite of earn money and has a subevent of eat,pay cash | buy hamburger | cooking meal,1,B,B,1,1
+<built-in function id>,what usually used for celebrating birthday and usually used for eating,baking cake | meat | giving gift,0,A,A,0,1
+<built-in function id>,what has a subevent of comb hair and usually used for paying bills,going to work | cheque book | groom,0,B,B,1,0
+<built-in function id>,what has a subevent of comb hair and usually used for earning living,getting job | going to work | groom,1,C,C,2,0
+<built-in function id>,what is related to love and may cause scandal,affair | going public | eros,0,A,A,0,1
+<built-in function id>,what is related to broken and is related to solution,injured | fix | answer,1,B,B,1,1
+<built-in function id>,what has a prerequisite of have money and is motivated by a goal of happy,buy for loved one | sing | shop,0,C,C,2,0
+<built-in function id>,what has a prerequisite of go to store and is motivated by a goal of express love,buy food | buy for loved one | kiss,1,B,B,1,1
+<built-in function id>,what has a subevent of laugh and has a subevent of go to bathroom,going to movie | expressing how funny | waiting on line,0,B,B,1,0
+<built-in function id>,what is related to asking and causes desire of find information,false charges | question | please,1,B,B,1,1
+<built-in function id>,what has a prerequisite of voice and is usually located at opera,talking to | singing | costumes,1,B,B,1,1
+<built-in function id>,what is usually located at opera and may cause sore throat,yelling | orchestra | singing,2,C,C,2,1
+<built-in function id>,what has a subevent of shake hands and has a subevent of solution,meeting friend | reaching tentative agreement | giving clue,1,B,B,1,1
+<built-in function id>,what is usually located at den and usually used for sitting in,bean bag chair | weasel | airplane seat,0,A,A,0,1
+<built-in function id>,what is usually located at den and usually used for relaxation,bean bag chair | weasel | becoming inebriated,0,A,A,0,1
+<built-in function id>,what is usually located at den and usually used for sit in,bean bag chair | hairdresser chair | weasel,0,A,A,0,1
+<built-in function id>,what is usually located at den and usually used for relaxing,bean bag chair | listening music | weasel,0,A,A,0,1
+<built-in function id>,what usually used for relaxation and usually used for sit in,orchestra seat | diving | bean bag chair,2,C,C,2,1
+<built-in function id>,what usually used for transportation and usually used for competition,riding bicycle | bus | playing sports,0,A,A,0,1
+<built-in function id>,what has a subevent of falling off and usually used for competition,sitting on chair | playing sports | riding bicycle,2,C,C,2,1
+<built-in function id>,what is related to unreasonable and is related to intense,intensify | illogical | immoderate,2,C,C,2,1
+<built-in function id>,what is related to unlawful and is related to coiled,rounded | illegal | crooked,2,B,B,1,0
+<built-in function id>,what is related to dishonest and is related to coiled,rounded | untruthful | crooked,2,B,B,1,0
+<built-in function id>,what is usually located at television and has a prerequisite of have computer,music videos | surf web | program,2,C,C,2,1
+<built-in function id>,what is motivated by a goal of know and has a prerequisite of turn on tv,hear news | use television | determine truth,0,C,C,2,0
+<built-in function id>,what has a prerequisite of have violin and is related to country,republic | play violin | fiddle,2,C,C,2,1
+<built-in function id>,what is related to country and is usually located at music store,republic | tuning fork | fiddle,2,C,C,2,1
+<built-in function id>,what is usually located at hockey game and is capable of time race,referee | hockey fans | stopwatch,0,C,C,2,0
+<built-in function id>,what is related to result and is related to president,answer | elect | bush,1,C,C,2,0
+<built-in function id>,what usually used for challenge and has a subevent of lose,playing game of chess | buy small | climbing mountain,0,A,A,0,1
+<built-in function id>,what is usually located at yard and has a property of green,peppers | wiener dog | lawn,2,C,C,2,1
+<built-in function id>,what is usually located at fridge and is usually located at laboratory,sour cream | test equipment | fungus,2,B,B,1,0
+<built-in function id>,what is motivated by a goal of cool off and has a subevent of have sex,walk in rain | get wet | procreating,1,C,C,2,0
+<built-in function id>,what has a subevent of have sex and has a prerequisite of remove clothes,start family | get wet | wash clothes,1,C,C,2,0
+<built-in function id>,what may cause good feelings and has a subevent of choke,eating quickly | laughing at joke | thanking,1,C,C,2,0
+<built-in function id>,what usually used for being polite and has a subevent of choke,laughing at joke | thanking | breathing,0,B,B,1,0
+<built-in function id>,what usually used for transportation and has a prerequisite of practice,riding bike | ferry | playing piano,0,A,A,0,1
+<built-in function id>,what has a prerequisite of practice and may cause falling down,losing consciousness | riding bike | play guitar,1,B,B,1,1
+<built-in function id>,what has a prerequisite of practice and may cause fall,losing consciousness | riding bike | play violin,1,B,B,1,1
+<built-in function id>,what may cause falling down and usually used for having fun,losing consciousness | riding bike | going to film,1,B,B,1,1
+<built-in function id>,what is motivated by a goal of have sex and has a subevent of make eye contact,open legs | flirt | talking to,1,B,B,1,1
+<built-in function id>,what is motivated by a goal of have sex and has a subevent of smile,flirt | thanking | open legs,0,A,A,0,1
+<built-in function id>,what is usually located at airport and is usually located at mall,food court | customs officer | parking lot,2,C,C,2,1
+<built-in function id>,what may cause win and has a subevent of death,destroying enemy | reaching advantage | live life,0,A,A,0,1
+<built-in function id>,what is usually located at bus and causes desire of watch film,steering wheel | advertisement | boredom,1,B,B,1,1
+<built-in function id>,what is usually located at bus and is usually located at mail,steering wheel | packages | advertisement,2,B,B,1,0
+<built-in function id>,what has a subevent of dying and may cause sorrow,writing letter | committing suicide | jumping out of window,1,B,B,1,1
+<built-in function id>,what is related to door and is part of rifle,pump action | bolt | entrance,1,B,B,1,1
+<built-in function id>,what is related to divine and is part of rhode island,god | providence | brown university,1,B,B,1,1
+<built-in function id>,what is related to god and is part of rhode island,deity | providence | narragansett bay,1,B,B,1,1
+<built-in function id>,what usually used for entertainment and may cause injuries,enjoying film | playing sports | falling,1,B,B,1,1
+<built-in function id>,what may cause sweating and has a subevent of winning,playing sports | dancing samba | competing,0,C,C,2,0
+<built-in function id>,what has a subevent of running and usually used for enjoyment,living | playing sports | getting fit,1,B,B,1,1
+<built-in function id>,what is usually located at airport and is capable of board ship,pirate | passenger | check in counter,1,C,C,2,0
+<built-in function id>,what is usually located at backseat of car and is capable of board ship,passenger | seatbelt | sailor,0,A,A,0,1
+<built-in function id>,what is motivated by a goal of have fun and has a subevent of fall over,tying shoelace | ski | play cards,1,B,B,1,1
+<built-in function id>,what has a prerequisite of thought and usually used for expressing love,writing poem | cogitating | kissing,0,C,C,2,0
+<built-in function id>,what has a prerequisite of read and has a prerequisite of travel,go on vacation | memorize | learn about world,2,C,C,2,1
+<built-in function id>,what has a prerequisite of read book and has a prerequisite of travel,learn new | learn about world | visit other countries,1,C,C,2,0
+<built-in function id>,what usually used for music and is usually located at laboratory,bass fiddle | instrument | robot,1,B,B,1,1
+<built-in function id>,what is related to music and is usually located at case,instrument | eyeglasses | composer,0,A,A,0,1
+<built-in function id>,what is related to music and is usually located at laboratory,experiment | band | instrument,2,C,C,2,1
+<built-in function id>,what is usually located at dentist and is usually located at airport,airline representatives | waiting room | have cavity,1,B,B,1,1
+<built-in function id>,what is usually located at doctor and is usually located at airport,grumpy delayed passengers | waiting room | examination table,1,C,C,2,0
+<built-in function id>,what is usually located at airport and is usually located at doctor's office,ticket agent | waiting room | examination table,1,B,B,1,1
+<built-in function id>,what may cause relaxation and has a prerequisite of legs,enjoying day | taking walk | running after ball,1,B,B,1,1
+<built-in function id>,what may cause death and usually used for judges,hearing testimony | having asthma attack | deciding criminal s fate,2,C,C,2,1
+<built-in function id>,what usually used for sport and has a subevent of get hurt,wrestling | tennis game | being involved in accident,0,A,A,0,1
+<built-in function id>,what is usually located at theatre and is capable of marry each other,movies | second cousins | couple,2,C,C,2,1
+<built-in function id>,what has a subevent of think about and has a prerequisite of call friend,analyse | go to pub | chat with friends,2,C,C,2,1
+<built-in function id>,what usually used for buying things and usually used for good time,having friends over | going to mall | store,1,B,B,1,1
+<built-in function id>,what has a prerequisite of courage and may cause fight,punching | committing suicide | advancing into battle,2,C,C,2,1
+<built-in function id>,what may cause get fat and may cause entertainment,diminishing own hunger | watching tv | reading magazine,1,B,B,1,1
+<built-in function id>,what usually used for eating and is usually located at mall,parking lots | cooking curry | restaurant dining area,2,C,C,2,1
+<built-in function id>,what has a prerequisite of go to doctor and has a prerequisite of join army,fight enemy | have physical exam | make sure you're healthy,1,B,B,1,1
+<built-in function id>,what has a prerequisite of make appointment with doctor and has a prerequisite of join army,fight enemy | have physical exam | have checkup,1,B,B,1,1
+<built-in function id>,what has a prerequisite of join army and has a prerequisite of go see doctor,make sure you're healthy | fight enemy | have physical exam,2,C,C,2,1
+<built-in function id>,what usually used for fun and usually used for learning,going on internet | finding information | going see film,0,C,C,2,0
+<built-in function id>,what has a subevent of write down and has a prerequisite of have imagination,pretend | create idea | computing sum,1,B,B,1,1
+<built-in function id>,what has a last subevent of bow and has a subevent of open mouth,talk | sing | perform,1,A,A,0,0
+<built-in function id>,what is motivated by a goal of enjoyable and has a subevent of learning,have fun | read book | seeing artifacts,1,A,A,0,0
+<built-in function id>,what has a subevent of pain and usually used for fun,fishing | having heart attack | exercising,2,C,C,2,1
+<built-in function id>,what usually used for feeling good and usually used for getting in shape,becoming inebriated | exercising | going for jog,1,B,B,1,1
+<built-in function id>,what has a subevent of run and has a subevent of lift weights,play baseball | exercising | test strength,1,C,C,2,0
+<built-in function id>,what has a subevent of use imagination and has a subevent of act,pretend | go on stage | write story,0,A,A,0,1
+<built-in function id>,what has a subevent of act and has a prerequisite of use imagination,performing | pretend | write story,1,C,C,2,0
+<built-in function id>,what has a prerequisite of paying attention and has a subevent of laughing,attending lecture | enjoying film | having fun,1,B,B,1,1
+<built-in function id>,what has a prerequisite of paying attention and may cause happiness,attending lecture | buying presents for others | enjoying film,2,C,C,2,1
+<built-in function id>,what is motivated by a goal of relax and has a prerequisite of buy ticket,sit on chair | enjoy film | see favorite show,1,C,C,2,0
+<built-in function id>,what is motivated by a goal of relax and has a prerequisite of buy tickets,see favorite show | watch television | enjoy film,2,A,A,0,0
+<built-in function id>,what has a property of red and is usually located at refrigerator,tomatoes | moldy food | flowers,0,A,A,0,1
+<built-in function id>,what has a property of red and is usually located at market,tomatoes | vegetables | ruby,0,A,A,0,1
+<built-in function id>,what has a subevent of try to win and is motivated by a goal of bored,play games | watch television | competing,0,C,C,2,0
+<built-in function id>,what has a subevent of lose and has a subevent of have fun,play games | buy small | enjoy day,0,A,A,0,1
+<built-in function id>,what is motivated by a goal of bored and is motivated by a goal of win,use television | play games | conquer opponent,1,C,C,2,0
+<built-in function id>,what usually used for partying and may cause sickness,listening to music | poisoning | drinking alcohol,2,C,C,2,1
+<built-in function id>,what usually used for storing clothes and is usually located at city,clothing shelf | skyscraper | bureau,2,C,C,2,1
+<built-in function id>,what usually used for entertainment and has a subevent of brainstorming,creating idea | watching film | writing story,2,B,B,1,0
+<built-in function id>,what has a property of green and is usually located at supermarket,vegetables | friendly grocer | lawn,0,A,A,0,1
+<built-in function id>,what has a property of green and is usually located at market,vegetables | shopping carts | parakeets,0,A,A,0,1
+<built-in function id>,what may cause smile and has a subevent of take nap,run out of steam | enjoying day | thanking,1,A,A,0,0
+<built-in function id>,what may cause smile and has a subevent of relax,take break | thanking | enjoying day,2,A,A,0,0
+<built-in function id>,what may cause happiness and may cause relaxation,buying presents for others | breathing | enjoying day,2,C,C,2,1
+<built-in function id>,what has a subevent of relax and has a subevent of smile,go on vacation | enjoying day | see favorite show,1,B,B,1,1
+<built-in function id>,what is usually located at drug store and is usually located at bedroom,acne medication | birth control pill | pillowcase,1,B,B,1,1
+<built-in function id>,what has a prerequisite of get out of bed and is motivated by a goal of money,wake up in morning | return to work | earn living,1,C,C,2,0
+<built-in function id>,what has a prerequisite of pick up and has a subevent of learning,take phone call | seeing story | examine thing,2,C,C,2,1
+<built-in function id>,what is related to conclusive and is part of narration,decisive | introduction | conclusion,2,C,C,2,1
+<built-in function id>,what is usually located at trunk and is related to shirt,blouse | spare tire | clothing,2,B,B,1,0
+<built-in function id>,what is related to shirt and is usually located at shop,jersey | clothing | items for sale,1,A,A,0,0
+<built-in function id>,what may cause feeling good and has a prerequisite of soap and water,washing car | attending classical concert | getting clean,2,C,C,2,1
+<built-in function id>,what usually used for travelling and is usually located at garage,automobile | tools | passenger ticket,0,A,A,0,1
+<built-in function id>,what has a subevent of masturbate and has a prerequisite of soap and water,going to sleep | having shower | washing car,1,B,B,1,1
+<built-in function id>,what has a subevent of masturbate and has a prerequisite of water and soap,cleaning clothing | going to sleep | having shower,2,C,C,2,1
+<built-in function id>,what has a subevent of masturbate and usually used for cleanliness,watching television | having shower | doing housework,1,B,B,1,1
+<built-in function id>,what is usually located at london and is usually located at library,underground map | telephone box | volume,0,B,B,1,0
+<built-in function id>,what is usually located at subway and is usually located at library,underground map | card catalogue | dirt,0,B,B,1,0
+<built-in function id>,what is related to stars and is related to after,galaxy | night | next,1,B,B,1,1
+<built-in function id>,what may cause joy and has a prerequisite of fingers,playing piano | hearing music | typing,0,A,A,0,1
+<built-in function id>,what has a prerequisite of fingers and has a subevent of sit,typing | take in film | playing piano,2,C,C,2,1
+<built-in function id>,what is related to religion and is related to have,neo druidism | believe | hold,1,B,B,1,1
+<built-in function id>,what may cause happiness and usually used for competition,riding bicycle | loving else | playing game,2,C,C,2,1
+<built-in function id>,what usually used for winning and usually used for learning,playing game | conquering opponent | classroom,0,C,C,2,0
+<built-in function id>,what has a subevent of winning and usually used for entertainment,movie | playing game | reach advantage,1,A,A,0,0
+<built-in function id>,what has a subevent of lose and usually used for learning,playing game | attending school | competing,0,B,B,1,0
+<built-in function id>,what has a subevent of lose and usually used for enjoyment,going on vacation | buy small | playing game,2,C,C,2,1
+<built-in function id>,what usually used for learning and may cause winning,playing game | playing baseball | digital library,0,A,A,0,1
+<built-in function id>,what usually used for entertainment and has a subevent of think,painting picture | doing crossword puzzle | create idea,1,B,B,1,1
+<built-in function id>,what has a subevent of get wet and is motivated by a goal of get fit,go for swim | play sports | dive,0,A,A,0,1
+<built-in function id>,what has a prerequisite of take off clothes and has a prerequisite of go to swimming pool,get clean | go for swim | dive,1,B,B,1,1
+<built-in function id>,what may cause win and usually used for relaxing,going on vacation | playing | destroying enemy,1,A,A,0,0
+<built-in function id>,what has a subevent of laugh and may cause getting tired,running | playing | expressing how funny,1,C,C,2,0
+<built-in function id>,what has a subevent of laugh and may cause winning,competing against | enjoy film | playing,2,C,C,2,1
+<built-in function id>,what may cause injuries and usually used for fun,playing | entertaining people | car accident,0,A,A,0,1
+<built-in function id>,what usually used for relaxing and may cause winning,playing | competing against | going on vacation,0,C,C,2,0
+<built-in function id>,what usually used for relaxing and has a property of fun,rollercoaster | breathing fresh air | playing,2,C,C,2,1
+<built-in function id>,what usually used for work and is capable of add numbers,computers | machinery | numerate,0,A,A,0,1
+<built-in function id>,what is capable of add numbers and has a property of expensive,computers | mathematicians | insurance,0,A,A,0,1
+<built-in function id>,what is usually located at library and has a property of expensive,student | computers | insurance,1,B,B,1,1
+<built-in function id>,what has a prerequisite of fingers and may cause communication,playing harp | sending e mail | typing,2,C,C,2,1
+<built-in function id>,what is related to impermeable and is related to tense,agitated | impervious | tight,2,B,B,1,0
+<built-in function id>,what usually used for fun and has a subevent of ejaculate,playing hockey | copulating | procreating,1,B,B,1,1
+<built-in function id>,what is usually located at porch and is usually located at post office,mailbox | postal worker | railing,0,A,A,0,1
+<built-in function id>,what is part of transistor and is related to collection,treasury | emitter | collector,2,C,C,2,1
+<built-in function id>,what is related to nomenclature and is related to call,name | nomenclator | telephone line,0,A,A,0,1
+<built-in function id>,what is related to title and is related to call,duke | telephone line | name,2,C,C,2,1
+<built-in function id>,what is related to perfect and is related to literal,unblemished | exact | unrhetorical,1,B,B,1,1
+<built-in function id>,what is usually located at restaurant and is usually located at backyard,bbq | silverware | swimming pool,0,A,A,0,1
+<built-in function id>,what usually used for catching fish and has a prerequisite of water,fishing | net | having shower,0,A,A,0,1
+<built-in function id>,what has a prerequisite of water and usually used for fun,fishing | washing hands | seeing people play game,0,A,A,0,1
+<built-in function id>,what usually used for exercise and may cause injuries,car accident | playing basketball | hiking,1,B,B,1,1
+<built-in function id>,what may cause injuries and may cause having fun,falling | going to party | playing basketball,2,C,C,2,1
+<built-in function id>,what is usually located at military base and is usually located at city,medic | runway | condo,1,B,B,1,1
+<built-in function id>,what has a prerequisite of patience and usually used for doing research,learning about subject | sitting quietly | going on internet,0,B,B,1,0
+<built-in function id>,what is usually located at bookstore and is usually located at backpack,camping supplies | bookmarkers | notebook,2,C,C,2,1
+<built-in function id>,what is usually located at bookstore and is usually located at class,notebook | demonstration | bookmarkers,0,C,C,2,0
+<built-in function id>,what is usually located at backpack and is usually located at class,compass | demonstration | notebook,2,C,C,2,1
+<built-in function id>,what usually used for fun and has a subevent of close eyes,kissing | praying | discothque,0,C,C,2,0
+<built-in function id>,what may cause love and has a subevent of close eyes,going into trance | kissing | meeting girls,1,B,B,1,1
+<built-in function id>,what is part of appendicular skeleton and is part of tree,pectoral girdle | bark | limb,2,C,C,2,1
+<built-in function id>,what may cause eat and has a subevent of read,see exciting story | feed | following recipe,2,C,C,2,1
+<built-in function id>,what may cause dinner and has a subevent of read,following recipe | cooking meal | seeing story,0,B,B,1,0
+<built-in function id>,what has a subevent of whistle and has a prerequisite of time,having pee | waiting in line | having lunch,1,A,A,0,0
+<built-in function id>,what usually used for buying tickets and has a subevent of talking,waiting in line | communicating | ticket office,0,C,C,2,0
+<built-in function id>,what is related to result and is usually located at store,shopping basket | answer | product,2,B,B,1,0
+<built-in function id>,what is usually located at city and is usually located at university,buildings | bus station | students,0,A,A,0,1
+<built-in function id>,what is usually located at university and has windows,education | buildings | cars,1,B,B,1,1
+<built-in function id>,what has a prerequisite of join army and has a prerequisite of weapon,commit murder | have physical exam | fight enemy,2,C,C,2,1
+<built-in function id>,what has a last subevent of stop talking and has a subevent of remember,memorize | have conversation | tell story,2,B,B,1,0
+<built-in function id>,what has a subevent of tell lie and has a subevent of hold attention,entertaining | committing perjury | tell story,2,C,C,2,1
+<built-in function id>,what has a subevent of tell lie and has a subevent of entertain,seeing movie | committing perjury | tell story,2,C,C,2,1
+<built-in function id>,what usually used for making music and has a prerequisite of fingers,typing | playing harp | bagpipes,1,B,B,1,1
+<built-in function id>,what usually used for making music and usually used for having fun,percussion instrument | riding bike | playing harp,2,A,A,0,0
+<built-in function id>,what has a prerequisite of internet connection and usually used for entertainment,surfing net | playing chess | sending e mail,0,A,A,0,1
+<built-in function id>,what has a subevent of ask question and has a subevent of laughing,determining truth | enjoying film | talking,2,C,C,2,1
+<built-in function id>,what has a subevent of ask question and has a prerequisite of mouth,eating vegetables | determining truth | talking,2,C,C,2,1
+<built-in function id>,what has a subevent of ask question and may cause sore throat,talking | singing | determining truth,0,A,A,0,1
+<built-in function id>,what has a subevent of close eyes and has a prerequisite of faith,sneeze | praying | belief in god,1,B,B,1,1
+<built-in function id>,what has a subevent of kneel and has a prerequisite of faith,belief in god | proposing to woman | praying,2,C,C,2,1
+<built-in function id>,what may cause relief and has a prerequisite of faith,emptying bladder | belief in god | praying,2,B,B,1,0
+<built-in function id>,what is related to willing and is related to oblique,ready | convergent | inclined,2,C,C,2,1
+<built-in function id>,what has a prerequisite of have pen and is motivated by a goal of you're bored,watch television | pay by check | do crossword puzzle,2,C,C,2,1
+<built-in function id>,what has a prerequisite of think and has a prerequisite of buy newspaper,analyse | do crossword puzzle | read news,1,C,C,2,0
+<built-in function id>,what has a prerequisite of sharpen pencil and is motivated by a goal of you're bored,do crossword puzzle | have conversation | take examination,0,A,A,0,1
+<built-in function id>,what has a prerequisite of sleep and usually used for having sex,going to bed | meeting girls | gather energy for tomorrow,0,A,A,0,1
+<built-in function id>,what has a prerequisite of turn on tv and has a prerequisite of buy tickets,see favorite show | watch television | go to opera,0,A,A,0,1
+<built-in function id>,what may cause injury and usually used for drive,compact | falling | ambulance,2,B,B,1,0
+<built-in function id>,what causes desire of fish and has a property of painful,hunger | owning boat | burnt skin,0,C,C,2,0
+<built-in function id>,what is motivated by a goal of lose weight and has a prerequisite of go to park,see people play game | eat vegetables | go for run,2,C,C,2,1
+<built-in function id>,what has a prerequisite of speak and has a subevent of write down,communicate | create idea | express information,2,C,C,2,1
+<built-in function id>,what has a subevent of talk and has a subevent of write down,communicating | express information | create idea,1,B,B,1,1
+<built-in function id>,what has a prerequisite of talk and has a subevent of write down,communicate | creating idea | express information,2,C,C,2,1
+<built-in function id>,what is related to definition and is usually located at library,define | newspapers | dictionary,2,C,C,2,1
+<built-in function id>,what is related to hole and is related to skin,peel | pore | cave,1,B,B,1,1
+<built-in function id>,what may cause relaxation and may cause getting wet,washing car | resting | soaking in hotspring,2,C,C,2,1
+<built-in function id>,what may cause relaxation and may cause burns,starting fire | enjoying company of friends | soaking in hotspring,2,C,C,2,1
+<built-in function id>,what usually used for relaxation and may cause burns,starting fire | soaking in hotspring | meditation,1,B,B,1,1
+<built-in function id>,what usually used for grinding and is part of mouth,lingual vein | mill | tooth,2,C,C,2,1
+<built-in function id>,what is usually located at mouth and is part of gear,cog | tooth | saliva,1,B,B,1,1
+<built-in function id>,what has a subevent of laughter and has a subevent of have sex,tickling | have fun | start family,1,A,A,0,0
+<built-in function id>,what is usually located at boat and is usually located at backpack,sleeping bag | rope | captain and crew,1,B,B,1,1
+<built-in function id>,what is motivated by a goal of cold and has a prerequisite of get matches,start fire | strike match | put on sweater,0,B,B,1,0
+<built-in function id>,what is usually located at amusement park and usually used for blowing up,turnstile | toy balloon | grenade,1,B,B,1,1
+<built-in function id>,what usually used for blowing up and is usually located at circus,monkey | grenade | toy balloon,2,C,C,2,1
+<built-in function id>,what may cause praise and has a subevent of studying,getting good grade | pleasing parents | passing university exams,0,A,A,0,1
+<built-in function id>,what has a subevent of studying and may cause feel good,passing university exams | helping | getting good grade,2,C,C,2,1
+<built-in function id>,what has a prerequisite of lots of studying and may cause feel good,getting good grade | making people laugh | passing university exams,0,A,A,0,1
+<built-in function id>,what is related to submissive and is related to inferior,unassertive | subordinate | low,1,B,B,1,1
+<built-in function id>,what usually used for enjoyment and has a prerequisite of eyes,going on vacation | looking through telescope | watching film,2,C,C,2,1
+<built-in function id>,what has a subevent of falling asleep and usually used for entertainment,playing chess | watching film | resting,1,B,B,1,1
+<built-in function id>,what usually used for relaxation and has a prerequisite of eyes,watching film | looking through telescope | going outside for evening,0,A,A,0,1
+<built-in function id>,what is usually located at sky and is usually located at military base,mess hall | airplane | stars,1,B,B,1,1
+<built-in function id>,what usually used for listen to music and has a subevent of have fun,mp3 player | playing ball | seeing band,2,A,A,0,0
+<built-in function id>,what is related to set and is related to somewhere,ready | place | away,1,B,B,1,1
+<built-in function id>,what is usually located at closet and is usually located at space,vacuum | clothes | aliens,0,B,B,1,0
+<built-in function id>,what is capable of clean floor and is usually located at space,mop | vacuum | pluto,1,B,B,1,1
+<built-in function id>,what is part of camera and is part of eye,lens | lacrimal vein | finder,0,A,A,0,1
+<built-in function id>,what is related to worker and is related to give,return | employ | production line,1,B,B,1,1
+<built-in function id>,what is motivated by a goal of express love and has a prerequisite of brush teeth,kiss | eat breakfast | buy for loved one,0,A,A,0,1
+<built-in function id>,what has a prerequisite of brush teeth and has a subevent of fall in love,eat breakfast | when meet | kiss,2,C,C,2,1
+<built-in function id>,what is part of school year and is part of hundredweight,centner | semester | quarter,2,B,B,1,0
+<built-in function id>,what is part of united states and is part of transcaucasia,rhode island | azerbaijan | georgia,2,C,C,2,1
+<built-in function id>,what is usually located at mall and is usually located at high school,candy | teenagers | senior,1,B,B,1,1
+<built-in function id>,what is related to speed and is related to interest,rate | behalf | accelerator,0,A,A,0,1
+<built-in function id>,what is usually located at tide pool and is usually located at salad,crab | potato | anemone,0,C,C,2,0
+<built-in function id>,what is usually located at bottom of sea and is usually located at salad,ship wreck | potato | crab,2,C,C,2,1
+<built-in function id>,what is usually located at salad and is usually located at rocks,potato | crab | lizard,1,B,B,1,1
+<built-in function id>,what has a prerequisite of get job and has a prerequisite of start car,wait tables | drive to work | drive car,1,C,C,2,0
+<built-in function id>,what has a property of unhealthy and has a subevent of inhale,breathe | eating fast food | smoking,2,C,C,2,1
+<built-in function id>,what is usually located at garage and usually used for privacy,dressing room | door with lock | old tires,1,B,B,1,1
+<built-in function id>,what has a subevent of cry and has a subevent of going to doctor,knowing if re healthy | sick | expressing yourself,1,B,B,1,1
+<built-in function id>,what is usually located at sentence and is usually located at newspaper,verb | ads | words,2,B,B,1,0
+<built-in function id>,what may cause injuries and has a subevent of having fun,skating | dancing | car accident,0,A,A,0,1
+<built-in function id>,what has a prerequisite of buy ticket and is motivated by a goal of entertainment,fly in airplane | watch movie | listen to music,1,B,B,1,1
+<built-in function id>,what is related to neptune and is related to horse,neptunium | centaur | mule,1,B,B,1,1
+<built-in function id>,what may cause regret and has a prerequisite of trust,loving else | intoxication | getting contract,0,A,A,0,1
+<built-in function id>,what may cause happiness and has a prerequisite of trust,loving else | getting contract | buying presents,0,A,A,0,1
+<built-in function id>,what usually used for keeping fit and usually used for fun,maintaining muscle strength | playing sport | tickling,1,B,B,1,1
+<built-in function id>,what usually used for keeping fit and may cause fun,playing game with friends | maintaining muscle strength | playing sport,2,C,C,2,1
+<built-in function id>,what has bones and desires play,whales | cats | kids,1,B,B,1,1
+<built-in function id>,what is related to town and is related to weight,ton | main street | gain,0,A,A,0,1
+<built-in function id>,what usually used for relaxing and may cause clean,seeing movie | washing car | bathing,2,C,C,2,1
+<built-in function id>,what may cause clean and has a subevent of getting wet,surfing | doing housework house | bathing,2,C,C,2,1
+<built-in function id>,what is usually located at barn and is usually located at bathroom,sculpting gel | hay | stall,2,B,B,1,0
+<built-in function id>,what is usually located at barn and is usually located at market,weasel | stall | carrots,1,B,B,1,1
+<built-in function id>,what is usually located at war and may cause sadness,george bush | hurting else | death,2,C,C,2,1
+<built-in function id>,what is related to mortal and is related to profane,profanity | finite | earthly,2,C,C,2,1
+<built-in function id>,what is related to worldly and is related to profane,man about town | profanity | earthly,2,C,C,2,1
+<built-in function id>,what usually used for having fun and may cause injuries,seeing band | playing lacrosse | falling,1,B,B,1,1
+<built-in function id>,what causes desire of watch tv show and has a property of bad,boredom | being bored | trash,0,A,A,0,1
+<built-in function id>,what causes desire of play game with friends and has a property of bad,downloading online game | boredom | stealing,1,B,B,1,1
+<built-in function id>,what causes desire of see exciting story and has a property of bad,need for entertainment | cruelty | boredom,2,A,A,0,0
+<built-in function id>,what causes desire of play game and has a property of bad,boredom | being bored | stealing,0,A,A,0,1
+<built-in function id>,what is usually located at texas and usually used for living in,snake | buying house | ranch house,2,C,C,2,1
+<built-in function id>,what is related to going and is related to keyboard,continue | type | enter,2,C,C,2,1
+<built-in function id>,what is related to keyboard and is related to come,enter | typewriter | return,0,C,C,2,0
+<built-in function id>,what is related to camping and is related to oil,castor | tent | lantern,2,C,C,2,1
+<built-in function id>,what is usually located at museum and has a property of sharp,sword | getting stabbed with knife | artifact,0,A,A,0,1
+<built-in function id>,what is usually located at town and is related to structure,structural | place to eat | building,2,C,C,2,1
+<built-in function id>,what usually used for hair and is usually located at purse,checkbook holder | comb | gel,1,B,B,1,1
+<built-in function id>,what is usually located at pocket and usually used for styling hair,ticket | comb | hair gel,1,B,B,1,1
+<built-in function id>,what is usually located at purse and usually used for styling hair,checkbook | comb | sculpting gel,1,B,B,1,1
+<built-in function id>,what is usually located at city and usually used for playing music,acoustic guitar | taxis | symphony hall,2,C,C,2,1
+<built-in function id>,what usually used for play and has a subevent of fall,jumping out of window | yoyo | jumping rope,2,C,C,2,1
+<built-in function id>,what has a subevent of fall and may cause sweating,trip | playing sports | jumping rope,2,A,A,0,0
+<built-in function id>,what has a subevent of sleeping and has a subevent of listening to music,seeing band | go into coma | relaxing,2,C,C,2,1
+<built-in function id>,what usually used for thinking and is part of human body,brain | larynx | cogitating,0,A,A,0,1
+<built-in function id>,what is usually located at box and is usually located at internet cafe,chat room | birthday present | monitor,2,C,C,2,1
+<built-in function id>,what is usually located at water fountain and is usually located at house,thirsty person | plumbing | couch,1,B,B,1,1
+<built-in function id>,what is usually located at newspaper and usually used for solving,weather reports | thinking | puzzle,2,C,C,2,1
+<built-in function id>,what is usually located at newspaper and is usually located at toy store,opinion | puzzle | toy car,1,B,B,1,1
+<built-in function id>,what usually used for solving and is usually located at toy store,slinkies | puzzle | thinking,1,B,B,1,1
+<built-in function id>,what usually used for distraction and is usually located at toy store,batz maru dolls | puzzle | hearing music,1,B,B,1,1
+<built-in function id>,what has a subevent of count and has a subevent of have fun,seeing band | paying cash | play cards,2,C,C,2,1
+<built-in function id>,what usually used for having fun and has a prerequisite of talent,entertaining | creating art | sports equipment,0,B,B,1,0
+<built-in function id>,what is capable of crash and is usually located at sky,star | airplanes | cars,1,B,B,1,1
+<built-in function id>,what usually used for transport and is related to master,mistress | bike | yacht,2,B,B,1,0
+<built-in function id>,what is usually located at car and is capable of board ship,passengers | brake | pirate,0,A,A,0,1
+<built-in function id>,what has a prerequisite of have eyes and has a subevent of eat popcorn,look through telescope | going to film | watch film,2,C,C,2,1
+<built-in function id>,what has a prerequisite of go to bar and has a subevent of paying money,buy beer | gaining more land | drink alcohol,0,A,A,0,1
+<built-in function id>,what usually used for learning and has a prerequisite of patience,piece of information | waiting on line | teaching other people,2,C,C,2,1
+<built-in function id>,what usually used for getting revenge and has a prerequisite of hands,preparing for vote | killing people | punching,2,C,C,2,1
+<built-in function id>,what has a subevent of sign and has a subevent of get money,get contract | paint picture | get paid,0,C,C,2,0
+<built-in function id>,what is usually located at swimming pool and is capable of dry hair,towel | lifeguards | hair dryer,0,C,C,2,0
+<built-in function id>,what is usually located at swimming pool and usually used for dry dishes,lifeguard | towel | cloth,1,C,C,2,0
+<built-in function id>,what is related to fore and is related to progressive,front | forward | industrial,1,B,B,1,1
+<built-in function id>,what has a prerequisite of read book and is motivated by a goal of fun,play game | learn new | study,1,A,A,0,0
+<built-in function id>,what has a prerequisite of ask questions and has a prerequisite of go to school,discover truth | receive degree | learn new,2,C,C,2,1
+<built-in function id>,what is motivated by a goal of fun and has a prerequisite of go to school,learn new | surf | receive degree,0,B,B,1,0
+<built-in function id>,what has a prerequisite of turn on radio and has a subevent of dancing,listen to radio | hear music | go to party,1,B,B,1,1
+<built-in function id>,what is usually located at subway and is usually located at library,index card cabinet | newspaper | ticket turnstile,1,B,B,1,1
+<built-in function id>,what may cause death and has a subevent of pain,having heart attack | coffin | exercising,0,A,A,0,1
+<built-in function id>,what may cause happiness and has a subevent of talk,loving another | make phone call | enjoying company of friends,2,C,C,2,1
+<built-in function id>,what may cause relaxation and has a subevent of talk,enjoying company of friends | communicating | having bath,0,C,C,2,0
+<built-in function id>,what may cause relaxation and has a subevent of laughter,taking walk | enjoying company of friends | pretend,1,B,B,1,1
+<built-in function id>,what has a subevent of pay for and may cause getting drunk,buy house | buying beer | going to party,1,B,B,1,1
+<built-in function id>,what has a subevent of learning and usually used for fun,visiting museum | read book | playing game with friends,0,C,C,2,0
+<built-in function id>,what is usually located at fork in road and is usually located at demonstration,road sign | protesters | signs,2,A,A,0,0
+<built-in function id>,what is usually located at freeway and is usually located at demonstration,speaker | signs | cars,1,B,B,1,1
+<built-in function id>,what usually used for opening doors and is usually located at purse,checkbook cover | knob | key,2,C,C,2,1
+<built-in function id>,what usually used for opening doors and is part of basketball court,key | knob | free throw lane,0,B,B,1,0
+<built-in function id>,what usually used for open door and is part of florida,handle | key | biscayne national park,1,B,B,1,1
+<built-in function id>,what usually used for open door and is part of basketball court,key | handle | free throw lane,0,B,B,1,0
+<built-in function id>,what is part of florida and is usually located at purse,checkbook cover | daytona beach | key,2,C,C,2,1
+<built-in function id>,what is part of florida and usually used for close,key | lock | okeechobee,0,A,A,0,1
+<built-in function id>,what is part of florida and is related to lock,key | melbourne | latch,0,A,A,0,1
+<built-in function id>,what is part of florida and usually used for opening door,key | door knob | west palm beach,0,A,A,0,1
+<built-in function id>,what is usually located at purse and usually used for opening door,coins | door knob | key,2,C,C,2,1
+<built-in function id>,what is usually located at purse and is part of basketball court,key | free throw lane | cheque book holder,0,B,B,1,0
+<built-in function id>,what is part of automobile and is usually located at attic,engine | trunk | old clothes,1,B,B,1,1
+<built-in function id>,what is usually located at car and is usually located at attic,battery | trunk | truss joists,1,C,C,2,0
+<built-in function id>,what has a prerequisite of plug in and is motivated by a goal of entertained,use television | see favorite show | use computer,0,B,B,1,0
+<built-in function id>,what is motivated by a goal of bored and has a prerequisite of have electricity,use television | use computer | play games,0,C,C,2,0
+<built-in function id>,what is motivated by a goal of entertained and has a prerequisite of have electricity,use computer | enjoy film | use television,2,C,C,2,1
+<built-in function id>,what has a prerequisite of plan and has a subevent of get arrested,commit murder | disobey law | destroy enemy,0,B,B,1,0
+<built-in function id>,what is related to undamaged and is related to continuous,continual | uninjured | unbroken,2,C,C,2,1
+<built-in function id>,what has a prerequisite of put on clothes and is motivated by a goal of see stars,get warm | look through telescope | go outside for evening,2,C,C,2,1
+<built-in function id>,what is motivated by a goal of see stars and has a prerequisite of get dressed,go to party | look through telescope | go outside for evening,2,C,C,2,1
+<built-in function id>,what is related to rough and is related to unsystematic,irregular | unfinished | disorganized,0,A,A,0,1
+<built-in function id>,what usually used for eat chinese food and is usually located at cities,chinese restaurant | chopsticks | cemetery,0,A,A,0,1
+<built-in function id>,what usually used for eat chinese food and is usually located at china,chinese restaurant | communism | chopsticks,0,C,C,2,0
+<built-in function id>,what usually used for eat chinese food and is usually located at new york,chopsticks | chinese restaurant | subway station,1,A,A,0,0
+<built-in function id>,what has a subevent of dance and has a prerequisite of ears,hearing news | going to party | listening to music,2,C,C,2,1
+<built-in function id>,what has a subevent of dance and has a subevent of fall asleep,listening to music | watching movie | see band,0,C,C,2,0
+<built-in function id>,what has a subevent of dance and may cause fall asleep,watching tv show | listening to music | see band,1,C,C,2,0
+<built-in function id>,what has a prerequisite of ears and usually used for dancing,listening to music | hearing news | disco,0,C,C,2,0
+<built-in function id>,what has a subevent of fall asleep and usually used for dancing,listening to music | using television | castanets,0,C,C,2,0
+<built-in function id>,what is part of helicopter and is part of distributor,rotor | landing skids | capacitor,0,A,A,0,1
+<built-in function id>,what usually used for teaching and is usually located at newspaper,text | classroom | classified advertisements,0,C,C,2,0
+<built-in function id>,what is part of canada and is part of tennessee,columbia | yukon | memphis,0,B,B,1,0
+<built-in function id>,what has a subevent of feel guilty and has a subevent of blush,get away with crime | lying | meet girls,1,B,B,1,1
+<built-in function id>,what usually used for hiding truth and has a subevent of blush,meet girls | committing perjury | lying,2,C,C,2,1
+<built-in function id>,what has a prerequisite of imagination and has a subevent of blush,lying | creating idea | meet girls,0,B,B,1,0
+<built-in function id>,what has a subevent of blush and may cause guilt,lying | getting away with crime | meet girls,0,A,A,0,1
+<built-in function id>,what is motivated by a goal of need money and has a prerequisite of write book,sell new book | tell many people about | apply for job,0,C,C,2,0
+<built-in function id>,what is motivated by a goal of money and has a prerequisite of write book,sell new book | serve customers | tell many people about,0,A,A,0,1
+<built-in function id>,what has a prerequisite of write book and is motivated by a goal of earn money,sell new book | tell many people about | return to work,0,A,A,0,1
+<built-in function id>,what is usually located at train station and usually used for holding clothes,baggage | dresser | train tracks,0,A,A,0,1
+<built-in function id>,what usually used for travel and usually used for holding clothes,baggage | dresser | round trip ticket,0,A,A,0,1
+<built-in function id>,what has a prerequisite of get money and has a prerequisite of drive,shop | go to mall | test car,1,A,A,0,0
+<built-in function id>,what has a subevent of shake hands and has a prerequisite of go to bar,meet people | reaching tentative agreement | hit bottle,0,B,B,1,0
+<built-in function id>,what usually used for health and has a prerequisite of mouth,maintaining muscle strength | eating vegetables | talking,1,C,C,2,0
+<built-in function id>,what has a prerequisite of food and has a subevent of burn,cooking | starting fire | eating dinner,0,A,A,0,1
+<built-in function id>,what has a subevent of dying and is motivated by a goal of win,committing suicide | fight war | compete,1,C,C,2,0
+<built-in function id>,what has a prerequisite of ears and usually used for learning,listening | teaching other people | hearing testimony,0,A,A,0,1
+<built-in function id>,what has a prerequisite of ears and has a prerequisite of concentration,listening | studying | hearing testimony,0,A,A,0,1
+<built-in function id>,what may cause understanding and usually used for enjoying music,dancing | examining thing | listening,2,C,C,2,1
+<built-in function id>,what usually used for enjoying music and has a prerequisite of concentration,listening | committing to memory | dancing,0,A,A,0,1
+<built-in function id>,what may cause happiness and may cause winning,living life | conquering opponent | playing games,2,B,B,1,0
+<built-in function id>,what usually used for birthday and has a prerequisite of having money,buying presents | baking cake | shopping,0,A,A,0,1
+<built-in function id>,what has a subevent of getting drunk and has a prerequisite of bring money,go to pub | grocery shop | celebrating,0,A,A,0,1
+<built-in function id>,what has a prerequisite of bring money and has a prerequisite of call friend,go to market | go to pub | chat with friends,1,A,A,0,0
+<built-in function id>,what has a prerequisite of tools and has a subevent of get wet,repairing umbrella | fixing computer | have shower,0,C,C,2,0
